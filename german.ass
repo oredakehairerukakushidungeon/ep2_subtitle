@@ -1,0 +1,422 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Epititel,Comic Sans MS,25,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: TypePlaceholder,Arial,19,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,1,8,0010,0010,0020,1
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.71,0:00:08.90,Default,Alice,0000,0000,0000,,Bruder!
+Dialogue: 0,0:00:12.50,0:00:15.16,Default,Nor,0000,0000,0000,,Du rückst mir ja noch mehr\Nauf die Pelle als sonst, Alice.
+Dialogue: 0,0:00:15.16,0:00:16.68,Default,Vater,0000,0000,0000,,Starr …
+Dialogue: 0,0:00:16.68,0:00:20.37,Default,Alice,0000,0000,0000,,Vielleicht fällt so etwas\Nvon deinem Glück auf mich ab.
+Dialogue: 0,0:00:20.89,0:00:23.75,Default,Alice,0000,0000,0000,,Immerhin hast die Aufnahmeprüfung\Nder Heldenakademie bestanden!
+Dialogue: 0,0:00:23.75,0:00:25.47,Default,Nor,0000,0000,0000,,J-Ja …
+Dialogue: 0,0:00:25.47,0:00:27.85,Default,Alice,0000,0000,0000,,Man könnte dich jetzt schon\Nden Herrn im Haus nennen.
+Dialogue: 0,0:00:28.33,0:00:30.75,Default,Vater,0000,0000,0000,,Bitte nicht, Alice. Meine Würde!
+Dialogue: 0,0:00:31.91,0:00:34.97,Default,Nor,0000,0000,0000,,Vater … Bezüglich der Heldenakademie …
+Dialogue: 0,0:00:35.38,0:00:38.39,Default,Nor,0000,0000,0000,,Wie du weißt,\Ngibt es eine Aufnahmegebühr …
+Dialogue: 0,0:00:38.64,0:00:41.00,Default,Vater,0000,0000,0000,,Aufnahmegebühr? Hm …
+Dialogue: 0,0:00:41.00,0:00:44.79,Default,Vater,0000,0000,0000,,Ich habe ein bisschen auf die Seite gelegt.\NWie viel kostet es?
+Dialogue: 0,0:00:45.68,0:00:47.26,Default,Nor,0000,0000,0000,,300.000 Lira.
+Dialogue: 0,0:00:47.26,0:00:48.57,Default,Vater,0000,0000,0000,,300…
+Dialogue: 0,0:00:48.57,0:00:50.21,Default,Nor,0000,0000,0000,,Innerhalb einer Woche.
+Dialogue: 0,0:00:50.21,0:00:52.03,Default,Vater,0000,0000,0000,,Innerhalb einer Woche?
+Dialogue: 0,0:00:52.24,0:00:54.41,Default,Vater,0000,0000,0000,,Innerhalb eines Jahres geht nicht?
+Dialogue: 0,0:00:54.41,0:00:57.24,Default,Nor,0000,0000,0000,,Verstanden.\NIch werde es mir selbst verdienen.
+Dialogue: 0,0:00:57.24,0:01:00.70,Default,Nor,0000,0000,0000,,Entschuldige … Es tut mir so leid.
+Dialogue: 0,0:01:00.70,0:01:04.04,Default,Alice,0000,0000,0000,,Oha. Mein armer Bruder.
+Dialogue: 0,0:01:06.40,0:01:08.79,Internal,Olivia,0000,0000,0000,,Die wollen eine Aufnahmegebühr\Nvon 300.000 Lira?
+Dialogue: 0,0:01:09.47,0:01:13.17,Internal,Olivia,0000,0000,0000,,Sicher nicht einfach für\Neinen armen Ritter wie dich, Nor.
+Dialogue: 0,0:01:13.45,0:01:16.14,Default,Nor,0000,0000,0000,,Ich weiß nicht, ob es nötig war,\Ndas noch mal hervorzuheben.
+Dialogue: 0,0:01:16.14,0:01:17.62,Default,Nor,0000,0000,0000,,Aber so ist es.
+Dialogue: 0,0:01:17.62,0:01:22.72,Internal,Olivia,0000,0000,0000,,Warum erlegst du nicht welche der seltenen\NMonster des Dungeons und verkaufst die Teile?
+Dialogue: 0,0:01:22.72,0:01:25.13,Default,Nor,0000,0000,0000,,Ich will eigentlich nicht so auffallen …
+Dialogue: 0,0:01:25.13,0:01:27.19,Default,Nor,0000,0000,0000,,Auch bei der Prüfungsaufgabe letztens …
+Dialogue: 0,0:01:28.43,0:01:32.82,Flashback,Nor,0000,0000,0000,,Könntest du behaupten,\Ndass du den Dead Reaper erledigt hast?
+Dialogue: 0,0:01:32.82,0:01:33.84,Flashback,Lenore,0000,0000,0000,,Huch?
+Dialogue: 0,0:01:34.27,0:01:39.03,Flashback,Nor,0000,0000,0000,,Es wäre glaubhafter, wenn die Tochter eines Grafen\Nden erledigt hätte als der Sohn eines Ritters.
+Dialogue: 0,0:01:39.79,0:01:41.37,Flashback,Lenore,0000,0000,0000,,Da habe ich wohl keine andere Wahl.
+Dialogue: 0,0:01:41.37,0:01:43.45,Flashback,Lenore,0000,0000,0000,,Ich werde behaupten, dass ich es war.
+Dialogue: 0,0:01:44.14,0:01:45.34,Flashback,Nor,0000,0000,0000,,Du bist eine große Hilfe.
+Dialogue: 0,0:01:46.25,0:01:50.84,Default,Nor,0000,0000,0000,,Ich habe eine meiner Klassenkameradinnen\Ndie Lorbeeren ernten lassen.
+Dialogue: 0,0:01:51.05,0:01:54.21,Internal,Olivia,0000,0000,0000,,Dann gibt es noch einen anderen Weg.
+Dialogue: 0,0:01:54.87,0:01:55.52,Default,Nor,0000,0000,0000,,Hm?
+Dialogue: 0,0:01:56.54,0:01:59.39,Default,Olivia,0000,0000,0000,,Arbeite für die Abenteurergilde!
+Dialogue: 0,0:02:00.09,0:02:01.88,Default,Nor,0000,0000,0000,,Ä-Ähm …
+Dialogue: 0,0:02:02.76,0:02:03.77,Default,Master,0000,0000,0000,,Hä?
+Dialogue: 0,0:02:09.79,0:02:10.97,Default,Lola,0000,0000,0000,,Master?
+Dialogue: 0,0:02:11.36,0:02:14.48,Default,Lola,0000,0000,0000,,Bitte verängstigen Sie die Neulinge nicht.
+Dialogue: 0,0:02:14.48,0:02:15.11,Default,Master,0000,0000,0000,,Püh.
+Dialogue: 0,0:02:17.40,0:02:20.24,Default,Lola,0000,0000,0000,,Mein Name ist Lola.\NIch bin die Empfangsdame.
+Dialogue: 0,0:02:25.21,0:02:28.16,Default,Lola,0000,0000,0000,,Besuchen Sie das erste Mal\Ndie Abenteurergilde?
+Dialogue: 0,0:04:01.42,0:04:07.43,Epititel,type,0000,0000,0000,,{\an1\fad(600,500)\blur1.2\pos(37,303)}„Die Gilde und die Empfangsdame“
+Dialogue: 0,0:04:03.68,0:04:07.81,Top,Lola,0000,0000,0000,,Ich würde dann mal mit der Erklärung\Nunseres einfachen Systems anfangen.
+Dialogue: 0,0:04:07.81,0:04:09.69,Default,Nor,0000,0000,0000,,J-Ja.
+Dialogue: 0,0:04:10.27,0:04:14.81,Default,Lola,0000,0000,0000,,Viele berühmte Abenteurer sind\Nbei uns, Odin, registriert.
+Dialogue: 0,0:04:15.27,0:04:18.07,Default,Lola,0000,0000,0000,,Unsere Abenteurer sammeln Pflanzen, …
+Dialogue: 0,0:04:18.46,0:04:21.07,Default,Lola,0000,0000,0000,,erlegen Monster, erobern sogar Dungeons …
+Dialogue: 0,0:04:21.34,0:04:24.07,Default,Lola,0000,0000,0000,,und erfüllen diverse andere Aufgaben.
+Dialogue: 0,0:04:24.34,0:04:27.15,Default,Lola,0000,0000,0000,,Jeder Abenteurer besitzt einen Rang,
+Dialogue: 1,0:04:26.70,0:04:35.33,TypePlaceholder,type,0000,0000,0000,,{\fnVerdana\b1\fs30\frz23\an8\pos(105,174)\fad(275,0)\bord2.7\shad1.5\c&HEFE9E2&}Master
+Dialogue: 2,0:04:26.70,0:04:35.33,TypePlaceholder,type,0000,0000,0000,,{\fnVerdana\b1\fs30\frz23\an8\fad(275,0)\bord1.5\shad1.5\c&HEFE9E2&\3c&H29190A&\4c&H29190A&\pos(105,174)}Master
+Dialogue: 1,0:04:26.70,0:04:35.33,TypePlaceholder,type,0000,0000,0000,,{\fnVerdana\b1\fs26\an2\fad(275,0)\bord2.7\shad1.5\c&HEFE9E2&\3c&HEFE9E2&\4c&HEFE9E2&\pos(504,168f)}Neuling
+Dialogue: 2,0:04:26.70,0:04:35.33,TypePlaceholder,type,0000,0000,0000,,{\fnVerdana\b1\fs26\an2\fad(275,0)\bord1.5\shad1.5\c&HEFE9E2&\3c&H29190A&\4c&H29190A&\pos(504,168)}Neuling
+Dialogue: 0,0:04:27.15,0:04:30.19,Default,Lola,0000,0000,0000,,der die verfügbaren Aufgaben\Nund Belohnungen beeinflussen kann.
+Dialogue: 0,0:04:31.04,0:04:35.33,Default,Lola,0000,0000,0000,,Natürlich kann man durch beständige gute\NLeistungen einen höheren Rang erreichen.
+Dialogue: 0,0:04:35.94,0:04:41.28,Default,Lola,0000,0000,0000,,Aber natürlich müssten Sie\Nsich zuerst bei uns registrieren.
+Dialogue: 0,0:04:41.28,0:04:44.19,Default,Nor,0000,0000,0000,,Ah. Natürlich. Gerne sofort.
+Dialogue: 0,0:04:45.18,0:04:49.35,Default,Lola,0000,0000,0000,,Dann verzeichnen Sie bitte\Nall Ihre aktuellen Skills hier.
+Dialogue: 0,0:04:49.70,0:04:51.45,Default,Nor,0000,0000,0000,,Die Skills also?
+Dialogue: 0,0:04:52.01,0:04:53.35,Default,Lola,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:04:53.71,0:04:57.35,Default,Lola,0000,0000,0000,,Die Gilde unterliegt\Neiner Verschwiegenheitspflicht.
+Dialogue: 0,0:04:57.78,0:05:00.86,Internal,Nor,0000,0000,0000,,Ah … Sie riecht so gut …
+Dialogue: 0,0:05:02.15,0:05:03.60,Default,Nor,0000,0000,0000,,Alles eingetragen.
+Dialogue: 0,0:05:05.26,0:05:07.76,Default,Lola,0000,0000,0000,,Ähm … Herr Nor?
+Dialogue: 0,0:05:07.76,0:05:08.82,Default,Nor,0000,0000,0000,,J-Ja?
+Dialogue: 0,0:05:08.82,0:05:11.34,Default,Lola,0000,0000,0000,,Bitte lassen Sie den Blödsinn.
+Dialogue: 0,0:05:11.34,0:05:13.33,Default,Lola,0000,0000,0000,,Papier ist teuer.
+Dialogue: 0,0:05:13.66,0:05:16.22,Default,Nor,0000,0000,0000,,Äh … Stimmt.
+Dialogue: 0,0:05:16.22,0:05:19.08,Default,Nor,0000,0000,0000,,Sie wissen bestimmt nicht,\Nwas „Erschaffung“ oder „Bearbeitung“ bedeuten.
+Dialogue: 0,0:05:19.30,0:05:22.01,Default,Lola,0000,0000,0000,,Doch, das weiß ich.
+Dialogue: 0,0:05:22.01,0:05:23.09,Default,Lola,0000,0000,0000,,Denn …
+Dialogue: 0,0:05:23.72,0:05:25.18,Default,Lola,0000,0000,0000,,Wir sind Odin!
+Dialogue: 0,0:05:25.18,0:05:28.69,Default,Lola,0000,0000,0000,,Die Gilde, der Olivia Servant angehörte!
+Dialogue: 0,0:05:28.69,0:05:30.58,Default,Nor,0000,0000,0000,,Was? Meine Meisterin?!
+Dialogue: 0,0:05:31.83,0:05:33.25,Default,Lola,0000,0000,0000,,Meisterin?
+Dialogue: 0,0:05:33.25,0:05:35.47,Internal,Nor,0000,0000,0000,,Mist. Ich hab mich verplappert.
+Dialogue: 0,0:05:35.47,0:05:38.48,Default,Lola,0000,0000,0000,,Manchmal gibt es Leute, die das versuchen.
+Dialogue: 0,0:05:38.71,0:05:42.21,Default,Lola,0000,0000,0000,,Sich als Olivias Nachfolger auszugeben.
+Dialogue: 0,0:05:42.21,0:05:43.19,Default,Lola,0000,0000,0000,,Und deshalb …
+Dialogue: 0,0:05:45.07,0:05:47.20,Default,Lola,0000,0000,0000,,werden wir dem auf den Grund gehen.
+Dialogue: 0,0:05:47.43,0:05:49.22,Default,Lola,0000,0000,0000,,Wenn Sie dieses Bewertungsbuch berühren,
+Dialogue: 0,0:05:49.22,0:05:52.20,Default,Lola,0000,0000,0000,,werden Ihre Skills in Schrift angezeigt.
+Dialogue: 0,0:05:52.20,0:05:53.36,Default,Lola,0000,0000,0000,,Was wollen Sie tun?
+Dialogue: 0,0:05:53.36,0:05:56.21,Default,Lola,0000,0000,0000,,Sie können Ihre Behauptung\Nimmer noch zurückziehen.
+Dialogue: 0,0:05:56.39,0:05:58.41,Default,Nor,0000,0000,0000,,Nein. Ich werde mich testen lassen.
+Dialogue: 0,0:05:58.41,0:05:59.21,Default,Lola,0000,0000,0000,,Huch?!
+Dialogue: 0,0:05:59.21,0:06:02.21,Default,Nor,0000,0000,0000,,Aber was ist, wenn ich nicht gelogen habe?
+Dialogue: 0,0:06:03.29,0:06:04.88,Default,Lola,0000,0000,0000,,Hm, dann …
+Dialogue: 0,0:06:05.21,0:06:07.61,Default,Lola,0000,0000,0000,,werde ich meinen Rock anheben
+Dialogue: 0,0:06:07.61,0:06:12.41,Default,Lola,0000,0000,0000,,und mich mit „Fürst Nor, ich bitte\Nvielmals um Verzeihung“ entschuldigen?
+Dialogue: 0,0:06:13.39,0:06:15.14,Default,Nor,0000,0000,0000,,Wenn Sie das schon anbieten …
+Dialogue: 0,0:06:24.00,0:06:25.73,Default,Lola,0000,0000,0000,,S-Sie sind wirklich …
+Dialogue: 0,0:06:26.16,0:06:29.74,Default,Lola,0000,0000,0000,,Olivias N-N-N-Nachfolger?!
+Dialogue: 0,0:06:29.99,0:06:31.93,Default,Nor,0000,0000,0000,,Was wollten Sie jetzt noch mal tun?
+Dialogue: 0,0:06:31.93,0:06:33.47,Default,Lola,0000,0000,0000,,Ä-Ä-Ä-Äh …
+Dialogue: 0,0:06:33.47,0:06:36.12,Default,Nor,0000,0000,0000,,„Fürst Nor, ich liebe Sie.“\NDas war es glaube ich.
+Dialogue: 0,0:06:36.12,0:06:37.64,Default,Lola,0000,0000,0000,,Ä-Ä-Ä-Äh …
+Dialogue: 0,0:06:37.64,0:06:39.70,Default,Nor,0000,0000,0000,,Erst den Rock heben …
+Dialogue: 0,0:06:44.15,0:06:46.67,Default,Lola,0000,0000,0000,,F-Fürst Nor, …
+Dialogue: 0,0:06:49.85,0:06:54.22,Default,Lola,0000,0000,0000,,ich liebe Sie.
+Dialogue: 0,0:06:54.22,0:06:57.10,TypePlaceholder,type,0000,0000,0000,,{\b1\fs30\bord1.8\an2\b1\shad2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(168,60)}Nor Stalgia
+Dialogue: 0,0:06:59.54,0:07:02.59,Default,Lola,0000,0000,0000,,Wie sieht es aus mit Aufträgen?
+Dialogue: 0,0:07:02.59,0:07:04.75,Default,Lola,0000,0000,0000,,Sie würden aber auf Rang E anfangen.
+Dialogue: 0,0:07:04.75,0:07:06.07,Internal,Nor,0000,0000,0000,,Sie wurde ja schnell wieder normal!
+Dialogue: 0,0:07:06.35,0:07:10.07,Default,Nor,0000,0000,0000,,Eigentlich würde ich gerne\Nin einer Woche 300.000 Lira verdienen.
+Dialogue: 0,0:07:10.07,0:07:11.54,Default,Lola,0000,0000,0000,,In dem Falle …
+Dialogue: 0,0:07:13.63,0:07:16.29,Default,Lola,0000,0000,0000,,Wie wäre es mit diesem Beschaffungsauftrag?
+Dialogue: 0,0:07:16.29,0:07:18.10,Default,Nor,0000,0000,0000,,Die Regenbogenheuschrecke?
+Dialogue: 0,0:07:18.10,0:07:20.32,Default,Nor,0000,0000,0000,,Die leben zwar hier,
+Dialogue: 0,0:07:20.32,0:07:23.08,Default,Nor,0000,0000,0000,,aber sie sind seltene Insekten,\Ndie man kaum zu Gesicht bekommt, oder?
+Dialogue: 0,0:07:23.42,0:07:28.02,Default,Lola,0000,0000,0000,,Das war mal eine Aufgabe von Rang D,\Naber wir haben sie auf Rang E ausgeweitet.
+Dialogue: 0,0:07:28.02,0:07:31.36,Default,Nor,0000,0000,0000,,Etwa weil niemand welche gefunden hat?
+Dialogue: 0,0:07:31.36,0:07:33.34,Default,Lola,0000,0000,0000,,Ja. Aber Sie sollten …
+Dialogue: 0,0:07:33.92,0:07:35.31,Default,Lola,0000,0000,0000,,mit Ihrem Skill …
+Dialogue: 0,0:07:36.00,0:07:38.10,Default,Nor,0000,0000,0000,,Ah. Stimmt.
+Dialogue: 0,0:07:38.35,0:07:42.56,Default,Lola,0000,0000,0000,,Bitte strengen Sie sich an.\NIch setze große Hoffnungen in Sie.
+Dialogue: 0,0:07:42.87,0:07:46.06,Default,Lola,0000,0000,0000,,Fähige Männer find ich sehr gut.
+Dialogue: 0,0:07:46.06,0:07:49.72,Internal,Nor,0000,0000,0000,,Kaum zu fassen,\Ndass sie mich gerade noch verdächtigt hat.
+Dialogue: 0,0:07:54.44,0:07:56.86,Default,Nor,0000,0000,0000,,Eigentlich sollte die Heuschrecke\Nin dieser Gegend leben.
+Dialogue: 0,0:07:57.20,0:08:01.28,Internal,Nor,0000,0000,0000,,Wenn ich jetzt meinen Skill Großer Weiser verwende,\Nder jede Frage beantworten kann,
+Dialogue: 0,0:08:01.28,0:08:03.21,Internal,Nor,0000,0000,0000,,finde ich sie bestimmt sofort.
+Dialogue: 0,0:08:04.55,0:08:07.05,Internal,Nor,0000,0000,0000,,Um die Kopfschmerzen\Nunter Kontrolle zu bringen,
+Dialogue: 0,0:08:07.05,0:08:08.71,Internal,Nor,0000,0000,0000,,wird ein Kuss benötigt.
+Dialogue: 0,0:08:08.92,0:08:12.82,Internal,Nor,0000,0000,0000,,Moment mal. Könnte ich mit „Erschaffung“ nicht\Neinen „Kopfschmerzresistenz“-Skill erschaffen?
+Dialogue: 0,0:08:12.76,0:08:18.97,TypePlaceholder,type,0000,0000,0000,,{\b1\fs22\bord1.4\fad(400,0)\an2\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(183,210)}Kopfschmerzresistenz
+Dialogue: 0,0:08:12.97,0:08:18.97,TypePlaceholder,type,0000,0000,0000,,{\b1\fs12\bord0\b0\shad1\fad(400,0)\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an2\pos(128,271)}Für Erschaffung benötigte LP:
+Dialogue: 0,0:08:13.77,0:08:14.91,Internal,Nor,0000,0000,0000,,Teuer!
+Dialogue: 0,0:08:14.91,0:08:18.97,Internal,Nor,0000,0000,0000,,Aber ich kann das ja auch\Nnicht immer auf Ema abwälzen.
+Dialogue: 0,0:08:18.97,0:08:22.94,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(494,35)}m 0 0 l 235 0 235 91 0 91{\p0}
+Dialogue: 1,0:08:18.97,0:08:22.94,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(494,35)}m 0 0 l 235 0 235 91 0 91{\p0}
+Dialogue: 2,0:08:18.97,0:08:22.94,TypePlaceholder,type,0000,0000,0000,,{\b1\fs16\bord1.2\an5\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(437,34)}Nor Stalgia
+Dialogue: 2,0:08:18.97,0:08:22.94,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(396,46)}Skills\N\N„Großer Weiser“\N{\fscx95}„Erschaffung“ „Bearbeitung“ „Zuteilung“\N{\fscx100}„LP-Umwandlung“ „Steingeschoss“\N„Expertenblick" {\alpha&HFF&\t(2050,2239,\alpha&H00&)\t(2405,2406,\alpha&H5D&)\t(2489,2490,\alpha&H00&)\t(2572,2573,\alpha&H5D&)\t(2656,2657,\alpha&H00&)\t(}„Kopfschmerzresistenz“
+Dialogue: 0,0:08:21.27,0:08:22.94,Internal,Nor,0000,0000,0000,,Gut. Das sollte passen.
+Dialogue: 0,0:08:25.15,0:08:26.32,Internal,Nor,0000,0000,0000,,Großer Weiser!
+Dialogue: 0,0:08:27.15,0:08:28.87,Internal,Nor,0000,0000,0000,,Wo find ich eine Regenbogenheuschrecke?
+Dialogue: 0,0:08:30.50,0:08:35.75,Default,Großer Weiser,0000,0000,0000,,300 Meter südlich von hier\Nim Schatten eines großen Felsen.
+Dialogue: 0,0:08:37.16,0:08:39.50,Default,Nor,0000,0000,0000,,Ah. Es tut immer noch weh.
+Dialogue: 0,0:08:39.90,0:08:42.48,Default,Nor,0000,0000,0000,,Aber es ist nicht mehr\Nunaushaltbar schmerzhaft.
+Dialogue: 0,0:08:47.58,0:08:49.88,Internal,Nor,0000,0000,0000,,Das ging jetzt schnell.
+Dialogue: 0,0:08:50.30,0:08:52.97,Internal,Nor,0000,0000,0000,,Aber die Kopfschmerzen\Nmag ich trotzdem nicht.
+Dialogue: 0,0:08:52.97,0:08:55.46,Internal,Nor,0000,0000,0000,,Wäre schön,\Nwenn mir Ema damit helfen könnte.
+Dialogue: 0,0:08:55.84,0:08:58.72,Default,Ema,0000,0000,0000,,Nor, du Dummkopf!
+Dialogue: 0,0:09:01.70,0:09:04.95,Internal,Nor,0000,0000,0000,,Ema! Du hast wie immer perfektes Timing!
+Dialogue: 0,0:09:05.48,0:09:07.64,Internal,Nor,0000,0000,0000,,Diese eine Sache hier\Nwird sich wohl nie ändern …
+Dialogue: 0,0:09:10.02,0:09:12.48,Default,Ema,0000,0000,0000,,Nor?! Du bist Abenteurer geworden?!
+Dialogue: 0,0:09:12.48,0:09:14.49,Default,Nor,0000,0000,0000,,Woher weißt du das?
+Dialogue: 0,0:09:14.72,0:09:18.49,Default,Ema,0000,0000,0000,,Deine Familie sagte, du wärst zur Gilde gegangen.\NUnd als ich dort nachfragte …
+Dialogue: 0,0:09:18.95,0:09:20.99,Default,Ema,0000,0000,0000,,Ach, wer brauch schon die Details?!
+Dialogue: 0,0:09:21.27,0:09:24.00,Default,Ema,0000,0000,0000,,Echt gemein, dass du nicht vorher\Nmit mir gesprochen hast.
+Dialogue: 0,0:09:24.27,0:09:25.73,Default,Nor,0000,0000,0000,,Entschuldige.
+Dialogue: 0,0:09:25.73,0:09:28.00,Default,Nor,0000,0000,0000,,Ich dachte,\Ndass es für dich gefährlich wäre.
+Dialogue: 0,0:09:28.00,0:09:31.84,Default,Ema,0000,0000,0000,,Ach … Hast du etwa unser Versprechen\Nvon vor sechs Jahren vergessen?!
+Dialogue: 0,0:09:32.51,0:09:34.46,Default,Nor,0000,0000,0000,,Vor sechs Jahren?
+Dialogue: 0,0:09:35.45,0:09:41.17,Default,Nor,0000,0000,0000,,Dass ich beim Spielen geschrien habe, dass wir\Nbis zum Tod ein Herz und eine Seele sein werden?
+Dialogue: 0,0:09:41.17,0:09:44.26,Default,Ema,0000,0000,0000,,Genau! Also helfe ich auf\Nder Suche nach der Heuschrecke!
+Dialogue: 0,0:09:46.19,0:09:49.31,Default,Ema,0000,0000,0000,,Du benutzt doch sicher „Großer Weiser“. Dann …
+Dialogue: 0,0:09:49.31,0:09:51.71,Default,Nor,0000,0000,0000,,Wir müssen uns nicht mehr küssen.
+Dialogue: 0,0:09:51.71,0:09:53.17,Default,Nor,0000,0000,0000,,Ich habe nun einen\NKopfschmerzresistenz-Skill.
+Dialogue: 0,0:09:53.17,0:09:54.48,Default,Ema,0000,0000,0000,,Was?! Äh …
+Dialogue: 0,0:09:54.87,0:09:58.42,Default,Nor,0000,0000,0000,,E-Es ist doch wie eine Begrüßung,\Nalso können wir das auch gern jederzeit machen.
+Dialogue: 0,0:09:58.42,0:10:00.24,Default,Nor,0000,0000,0000,,Wir kennen uns doch schon ewig.
+Dialogue: 0,0:10:00.24,0:10:03.02,Default,Nor,0000,0000,0000,,Trotz der Resistenz\Ntut es immer noch weh.
+Dialogue: 0,0:10:04.66,0:10:07.05,Default,Ema,0000,0000,0000,,Aha? Na dann …
+Dialogue: 0,0:10:07.05,0:10:08.00,Default,Nor,0000,0000,0000,,Ja …
+Dialogue: 0,0:10:15.88,0:10:19.74,Internal,Nor,0000,0000,0000,,Aber eigentlich ist es\Njetzt nicht mehr so schlimm.
+Dialogue: 0,0:10:27.67,0:10:29.16,Default,Lola,0000,0000,0000,,Entschuldigen Sie die Verspätung.
+Dialogue: 0,0:10:30.18,0:10:32.36,Default,Lola,0000,0000,0000,,250.000 Lira.
+Dialogue: 0,0:10:32.70,0:10:35.07,Default,Nor,0000,0000,0000,,250.000?!
+Dialogue: 0,0:10:35.07,0:10:38.51,Default,Lola,0000,0000,0000,,Mit dieser Summe sollten\NSie bald im Rang aufsteigen.
+Dialogue: 0,0:10:38.51,0:10:39.86,Default,Nor,0000,0000,0000,,Ach …
+Dialogue: 0,0:10:39.86,0:10:42.38,Default,Lola,0000,0000,0000,,Nicht nur tüchtig,\Nsondern auch fleißig.
+Dialogue: 0,0:10:42.82,0:10:45.72,Default,Lola,0000,0000,0000,,Sie sind ein echt toller Mann.
+Dialogue: 0,0:10:46.47,0:10:48.00,Default,Lola,0000,0000,0000,,Extra für Sie …
+Dialogue: 0,0:10:48.00,0:10:50.92,Default,Lola,0000,0000,0000,,hätte ich da noch einen Auftrag,\Nden ich empfehlen kann.
+Dialogue: 0,0:10:50.92,0:10:52.96,Default,Lola,0000,0000,0000,,Es ist ein Monsterbeseitigungsauftrag.
+Dialogue: 0,0:10:52.96,0:10:55.64,Default,Nor,0000,0000,0000,,Äh. Danke.
+Dialogue: 0,0:10:55.64,0:10:59.47,Default,Lola,0000,0000,0000,,Wenn Sie eine Frage haben,\Nkommen Sie einfach zu mir.
+Dialogue: 0,0:11:00.12,0:11:01.93,Default,Ema,0000,0000,0000,,Einen Moment mal!
+Dialogue: 0,0:11:04.20,0:11:07.77,Default,Ema,0000,0000,0000,,Ich bin jetzt auch eine Abenteurerin\Nund werde Nor bei allen Aufträgen begleiten.
+Dialogue: 0,0:11:07.77,0:11:09.73,Internal,Nor,0000,0000,0000,,B-Brüste?!
+Dialogue: 0,0:11:10.03,0:11:11.37,Default,Lola,0000,0000,0000,,Und du bist?
+Dialogue: 0,0:11:12.52,0:11:15.98,Default,Ema,0000,0000,0000,,Ema Brightness. Nors Kindheitsfreundin.
+Dialogue: 0,0:11:23.38,0:11:26.46,Internal,Nor,0000,0000,0000,,H-Hier fliegen gleich die Fetzen.
+Dialogue: 0,0:11:29.12,0:11:31.46,Default,Lola,0000,0000,0000,,The Hidden Dungeon Only I Can Enter.
+Dialogue: 0,0:11:35.95,0:11:38.00,Default,Nor,0000,0000,0000,,Beruhigt euch doch bitte.
+Dialogue: 0,0:11:38.27,0:11:40.27,Default,Lola,0000,0000,0000,,Ich bin für Herrn Nor verantwortlich
+Dialogue: 0,0:11:40.27,0:11:41.88,Default,Lola,0000,0000,0000,,und sein wichtiger Partner.
+Dialogue: 0,0:11:41.88,0:11:43.71,Default,Lola,0000,0000,0000,,Halt dich da bitte raus.
+Dialogue: 0,0:11:43.71,0:11:45.62,Default,Ema,0000,0000,0000,,Das müsste ich eigentlich sagen.
+Dialogue: 0,0:11:45.62,0:11:48.52,Default,Ema,0000,0000,0000,,Nor und ich werden bis an unser\NLebensende ein Herz und eine Seele sein.
+Dialogue: 0,0:11:48.75,0:11:50.01,Default,Adventurer1,0000,0000,0000,,Was is hier los?
+Dialogue: 0,0:11:50.01,0:11:51.25,Default,Adventurer2,0000,0000,0000,,Ehekrach?!
+Dialogue: 0,0:11:51.25,0:11:52.52,Default,Adventurer3,0000,0000,0000,,Zeigt uns was!
+Dialogue: 0,0:11:52.92,0:11:55.18,Internal,Nor,0000,0000,0000,,S-So wird das noch zu einem Zirkus.
+Dialogue: 0,0:11:56.78,0:12:00.83,Default,Nor,0000,0000,0000,,Ema! Ich kann mich glücklich schätzen,\Ndass du mir immer hilfst.
+Dialogue: 0,0:12:00.83,0:12:02.40,Default,Ema,0000,0000,0000,,Ach, tatsächlich?
+Dialogue: 0,0:12:03.87,0:12:07.95,Default,Nor,0000,0000,0000,,Fräulein Lola.\NIch werde auch für Sie Erfolge erzielen.
+Dialogue: 0,0:12:07.95,0:12:09.07,Default,Lola,0000,0000,0000,,Ach.
+Dialogue: 0,0:12:10.32,0:12:11.97,Default,Lola,0000,0000,0000,,Na ja. Für heut werde ich …
+Dialogue: 0,0:12:11.97,0:12:13.63,Default,Ema,0000,0000,0000,,… das mal ruhen lassen.
+Dialogue: 0,0:12:13.63,0:12:15.72,Default,Ema,0000,0000,0000,,Um Nors Ansehen zu schützen.
+Dialogue: 0,0:12:13.63,0:12:15.72,Overlap,Lola,0000,0000,0000,,Um Herrn Nors Ansehen zu schützen.
+Dialogue: 0,0:12:16.47,0:12:17.41,Default,Adventurer4,0000,0000,0000,,Was war das jetzt?
+Dialogue: 0,0:12:17.41,0:12:18.46,Default,Adventurer5,0000,0000,0000,,Och, das war’s schon?
+Dialogue: 0,0:12:18.46,0:12:19.67,Default,Adventurer2,0000,0000,0000,,Langweilig.
+Dialogue: 0,0:12:24.31,0:12:25.59,Default,Lola,0000,0000,0000,,Gute Reise.
+Dialogue: 0,0:12:25.95,0:12:29.22,Default,Lola,0000,0000,0000,,Wir können ja mal\Netwas zusammen essen gehen.
+Dialogue: 0,0:12:29.22,0:12:30.85,Default,Nor,0000,0000,0000,,Äh? Ähm …
+Dialogue: 0,0:12:30.85,0:12:33.45,Default,Ema,0000,0000,0000,,Und das traut sie sich vor meinen Augen!
+Dialogue: 0,0:12:39.02,0:12:42.60,Default,Ema,0000,0000,0000,,Nor, du Dummkopf. Frauen sind nicht blöd.
+Dialogue: 0,0:12:42.60,0:12:45.46,Default,Ema,0000,0000,0000,,Erst lädt sie dich zum Essen ein,\Ndann schleppt sie dich in ihr Zimmer, …
+Dialogue: 0,0:12:45.46,0:12:47.03,Default,Nor,0000,0000,0000,,Sie schleppt mich in ihr Zimmer?
+Dialogue: 0,0:12:47.03,0:12:49.29,Default,Ema,0000,0000,0000,,Vielleicht seziert sie dich dann.
+Dialogue: 0,0:12:49.29,0:12:51.04,Default,Nor,0000,0000,0000,,B-Bitte nicht!
+Dialogue: 0,0:12:52.40,0:12:54.28,Default,Ema,0000,0000,0000,,Oh? Da fehlt Grasnarbe.
+Dialogue: 0,0:12:54.28,0:12:57.29,Default,Ema,0000,0000,0000,,Vielleicht hat unser Ziel,\Nder Big Rabbit, es gefressen?
+Dialogue: 0,0:12:57.29,0:12:58.03,Default,Nor,0000,0000,0000,,Äh?!
+Dialogue: 0,0:12:58.42,0:13:00.75,Default,Nor,0000,0000,0000,,D-Das war bestimmt der Hase.
+Dialogue: 0,0:13:00.75,0:13:03.29,Default,Nor,0000,0000,0000,,Anscheinend sind sie nicht\Ngut für das Ökosystem.
+Dialogue: 0,0:13:04.00,0:13:06.55,Default,Nor,0000,0000,0000,,Einen zu erlegen,\Nsoll mir 50.000 Lira bringen.
+Dialogue: 0,0:13:08.39,0:13:09.29,Default,Nor,0000,0000,0000,,Goblins?!
+Dialogue: 0,0:13:10.10,0:13:11.10,Default,Nor,0000,0000,0000,,Ihre Level sind …
+Dialogue: 0,0:13:11.81,0:13:14.43,TypePlaceholder,type,0000,0000,0000,,{\b1\fs26\bord1.4\an2\b1\shad1.6\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\move(326,190,247,222)\t(,0,2608,0.45,\fscx74\fscy74)}Goblin
+Dialogue: 0,0:13:12.19,0:13:14.43,Internal,Nor,0000,0000,0000,,So hoch wie Emas. Dann …
+Dialogue: 0,0:13:14.75,0:13:16.36,Default,Nor,0000,0000,0000,,Ema, wir kämpfen!
+Dialogue: 0,0:13:16.36,0:13:18.40,Default,Ema,0000,0000,0000,,Jawohl. Ich kümmre mich um den linken.
+Dialogue: 0,0:13:18.69,0:13:20.90,TypePlaceholder,type,0000,0000,0000,,{\b1\fs24\bord1.4\an2\b1\shad1.5\fad(150,0)\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(89,207)}Goblin
+Dialogue: 0,0:13:18.69,0:13:20.90,TypePlaceholder,type,0000,0000,0000,,{\b1\fs16\bord0\b0\shad1\fad(150,0)\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an2\pos(125,255)}Geschlecht: {\fs20\alpha&HFF\t(85,250,\alpha&H00&)}Männlich
+Dialogue: 0,0:13:19.30,0:13:20.40,Internal,Nor,0000,0000,0000,,Das ist ein Männchen?
+Dialogue: 0,0:13:21.59,0:13:23.03,Internal,Nor,0000,0000,0000,,Dann benutze ich „Steingeschoss“ …
+Dialogue: 0,0:13:26.41,0:13:28.66,Internal,Nor,0000,0000,0000,,Als Mann tut mir das leid,
+Dialogue: 0,0:13:28.66,0:13:29.83,Internal,Nor,0000,0000,0000,,aber das muss sein!
+Dialogue: 0,0:13:30.91,0:13:32.49,Internal,Nor,0000,0000,0000,,Gut. Jetzt kann ich Ema helfen.
+Dialogue: 0,0:13:33.77,0:13:34.99,Default,Ema,0000,0000,0000,,Nor! Schau mal!
+Dialogue: 0,0:13:46.16,0:13:48.91,Default,Nor,0000,0000,0000,,B-Big Rabbit?!
+Dialogue: 0,0:13:51.22,0:13:53.89,TypePlaceholder,type,0000,0000,0000,,{\b1\fs25\bord1.6\an2\b1\shad1.8\fad(400,0)\alpha&H08\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(107,284)}Big Rabbit
+Dialogue: 0,0:13:52.65,0:13:53.89,Internal,Nor,0000,0000,0000,,Level 24?
+Dialogue: 0,0:13:54.11,0:13:55.63,Default,Nor,0000,0000,0000,,Ema, bleib hinter mir.
+Dialogue: 0,0:13:56.02,0:13:57.47,Default,Ema,0000,0000,0000,,Misch dich nicht ein.
+Dialogue: 0,0:13:57.47,0:13:59.12,Default,Ema,0000,0000,0000,,Den werde ich allein besiegen.
+Dialogue: 0,0:13:59.12,0:14:00.40,Default,Nor,0000,0000,0000,,Huch? Warum?!
+Dialogue: 0,0:14:01.06,0:14:02.27,Default,Ema,0000,0000,0000,,Denn wenn
+Dialogue: 0,0:14:02.27,0:14:06.28,Default,Ema,0000,0000,0000,,Nor glänzt, wird sich\Ndie Tussi wieder anbiedern.
+Dialogue: 0,0:14:10.91,0:14:12.66,Internal,Nor,0000,0000,0000,,Ziemlich schnell für die Größe.
+Dialogue: 0,0:14:12.94,0:14:14.87,Internal,Nor,0000,0000,0000,,Aber Ema ist schneller.
+Dialogue: 0,0:14:18.90,0:14:19.71,Internal,Nor,0000,0000,0000,,Ja …
+Dialogue: 0,0:14:20.74,0:14:22.92,Internal,Nor,0000,0000,0000,,Wie ein Schmetterling, der im Wind tanzt.
+Dialogue: 0,0:14:24.34,0:14:25.71,Default,Ema,0000,0000,0000,,Du bist zu langsam.
+Dialogue: 0,0:14:27.22,0:14:29.84,Default,Ema,0000,0000,0000,,Gut. Jetzt erledige ich dich!
+Dialogue: 0,0:14:30.68,0:14:32.24,Default,Ema,0000,0000,0000,,Windfaust!
+Dialogue: 0,0:14:33.68,0:14:35.60,Internal,Nor,0000,0000,0000,,K-Krass!
+Dialogue: 0,0:14:40.98,0:14:42.47,Default,Ema,0000,0000,0000,,Noch mal!
+Dialogue: 0,0:14:49.54,0:14:50.56,Default,Nor,0000,0000,0000,,Er ist gesprungen!
+Dialogue: 0,0:15:08.44,0:15:10.54,Default,Nor,0000,0000,0000,,I-Ich hab’s geschafft.
+Dialogue: 0,0:15:15.03,0:15:17.34,Default,Nor,0000,0000,0000,,Ema, hier entlang.
+Dialogue: 0,0:15:21.03,0:15:23.95,Default,Nor,0000,0000,0000,,W-Wir überlegen uns hier einen neuen Plan.
+Dialogue: 0,0:15:24.83,0:15:26.97,Default,Nor,0000,0000,0000,,Er wird uns sicher gleich einholen.
+Dialogue: 0,0:15:27.40,0:15:29.65,Default,Nor,0000,0000,0000,,Wir müssen uns unbedingt etwas überlegen.
+Dialogue: 0,0:15:29.65,0:15:32.06,Default,Ema,0000,0000,0000,,Warum konnte ich ihn nicht besiegen?
+Dialogue: 0,0:15:32.06,0:15:33.78,Default,Ema,0000,0000,0000,,Dabei hab ich ihn doch so oft erwischt.
+Dialogue: 0,0:15:34.11,0:15:37.79,Default,Nor,0000,0000,0000,,Seine Haut ist wohl so dick, dass du\Nihm keine bedrohlichen Wunden zufügen kannst.
+Dialogue: 0,0:15:38.12,0:15:41.16,Default,Ema,0000,0000,0000,,Ich bin … ziemlich schwach, was?
+Dialogue: 0,0:15:42.36,0:15:43.27,Default,Nor,0000,0000,0000,,Ema …
+Dialogue: 0,0:15:43.88,0:15:46.00,Internal,Nor,0000,0000,0000,,Sie ist wirklich niedergeschlagen.
+Dialogue: 0,0:15:46.00,0:15:48.12,Internal,Nor,0000,0000,0000,,Kann ich irgendwas für sie tun?
+Dialogue: 0,0:15:49.21,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\p1\bord4.3\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\fad(600,0)\pos(494,35)}m 0 0 l 235 0 235 85 0 85{\p0}
+Dialogue: 1,0:15:49.21,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\fad(600,0)\pos(494,35)}m 0 0 l 235 0 235 85 0 85{\p0}
+Dialogue: 2,0:15:49.21,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs25\bord1.5\an5\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(600,0)\pos(475,34)}Ema Brightness
+Dialogue: 2,0:15:49.21,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\b0\shad1\c&HFFFFFF&\fad(600,0)\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(396,52)}Skills\N{\fs22\alpha&HFF\t(250,600,\alpha&H00&)}„Dolch, beidhändig C“\N{\alpha&HFF\t(350,700,\alpha&H00&)}„Windfaust“
+Dialogue: 0,0:15:50.39,0:15:54.97,Internal,Nor,0000,0000,0000,,Wenn ich für sie „Dolch, beidhändig B“\Nerschaffe und ihr zuteile …
+Dialogue: 0,0:15:51.05,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\p1\bord4.3\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\fad(400,0)\pos(493,135)\t(2825,3194,\fscy235)}m 0 0 l 235 0 235 55 0 55{\p0}
+Dialogue: 1,0:15:51.05,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\fad(400,0)\pos(493,135)\t(2825,3194,\fscy235)}m 0 0 l 235 0 235 55 0 55{\p0}
+Dialogue: 2,0:15:51.05,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs22\bord1.5\an5\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(400,0)\pos(485,134)}Dolch, beidhändig B
+Dialogue: 2,0:15:51.05,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\b0\shad1\c&HFFFFFF&\fad(400,0)\3c&H1B1B1B&\4c&H1B1B1B&\an8\pos(449,153)}Für Erschaffung\Nbenötigt:
+Dialogue: 2,0:15:51.22,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.5\an8\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(400,0)\pos(544,153)}LP. {\fs32.2}300
+Dialogue: 2,0:15:53.97,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\b0\shad1\c&HFFFFFF&\fad(350,0)\3c&H1B1B1B&\4c&H1B1B1B&\an8\pos(449,187)}Benötigt, um\NEma zuzuteilen:
+Dialogue: 2,0:15:53.97,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\p1\bord0\1a&H54&\shad0\an8\c&HFFFFFF&\fad(400,0)\pos(493,222)}m 0 0 l 200 0 200 2 0 2{\p0}
+Dialogue: 2,0:15:53.97,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.5\an8\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(350,0)\pos(544,187)}LP. {\fs32.2}400
+Dialogue: 2,0:15:54.43,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an8\pos(449,244)}Gesamtkosten
+Dialogue: 2,0:15:54.43,0:15:58.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.5\an8\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(544,228)\t(1175,1274,\3c&H939393&\4c&HB8B8B8&)\t(1274,1399,\3c&H1B1B1B&\4c&H1B1B1B&)}LP. {\fs32.2}700
+Dialogue: 0,0:15:56.33,0:15:58.68,Internal,Nor,0000,0000,0000,,Das ist ziemlich teuer.
+Dialogue: 0,0:15:58.68,0:16:01.73,TypePlaceholder,type,0000,0000,0000,,{\b1\fs23\bord1.5\an2\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(361,32)\fad(0,270)}Dolch, beidhändig C
+Dialogue: 0,0:15:58.68,0:16:01.73,TypePlaceholder,type,0000,0000,0000,,{\b1\fs14\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an8\pos(388,77)\fad(0,270)}Nutzung von kurzen Klingen wird besser
+Dialogue: 0,0:15:58.68,0:16:01.73,TypePlaceholder,type,0000,0000,0000,,{\b1\fs14\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an8\pos(410,216)\fad(0,270)}Zu „wird [überragend] besser“ editieren.
+Dialogue: 0,0:15:59.02,0:16:02.15,Internal,Nor,0000,0000,0000,,Und wenn ich ihren\Nbestehenden Skill editiere?
+Dialogue: 0,0:16:02.06,0:16:07.69,TypePlaceholder,type,0000,0000,0000,,{\b1\fs23\bord1.5\an2\b1\shad1.8\c&HE4F3E0&\3c&H1B1B1B&\4c&H1B1B1B&\fad(350,0)\pos(336,32)}Ergebnis der Bearbeitung
+Dialogue: 0,0:16:02.31,0:16:07.69,TypePlaceholder,type,0000,0000,0000,,{\b1\fs23\bord1.5\an2\b1\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(350,0)\pos(526,132)}Dolch,\Nbeidhändig B
+Dialogue: 0,0:16:02.31,0:16:07.69,TypePlaceholder,type,0000,0000,0000,,{\b1\fs16\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\fad(350,0)\pos(247,165)}Nutzung von kurzen Klingen\Nwird überragend besser
+Dialogue: 0,0:16:02.31,0:16:07.69,TypePlaceholder,type,0000,0000,0000,,{\b1\fs16\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an4\fad(350,0)\pos(247,211)}Lebenspunktkosten
+Dialogue: 0,0:16:02.68,0:16:05.68,Internal,Nor,0000,0000,0000,,Gut! Billiger als das vorhin!
+Dialogue: 0,0:16:05.68,0:16:07.31,Internal,Nor,0000,0000,0000,,Aber Moment mal …
+Dialogue: 0,0:16:07.88,0:16:10.26,Internal,Nor,0000,0000,0000,,Im Moment habe ich 700 LP.
+Dialogue: 0,0:16:11.11,0:16:13.20,Internal,Nor,0000,0000,0000,,Wenn ich 500 verwende,\Nwird es ziemlich eng.
+Dialogue: 0,0:16:16.20,0:16:17.85,Default,Nor,0000,0000,0000,,Ä-Ähm …
+Dialogue: 0,0:16:19.34,0:16:22.65,Default,Nor,0000,0000,0000,,Ich kann dich stärker machen.
+Dialogue: 0,0:16:22.65,0:16:24.11,Default,Ema,0000,0000,0000,,Was? Wirklich?
+Dialogue: 0,0:16:24.11,0:16:27.80,Default,Nor,0000,0000,0000,,Ja, aber ich muss dafür\Nvorher unbedingt etwas tun.
+Dialogue: 0,0:16:27.80,0:16:30.92,Default,Ema,0000,0000,0000,,Wenn ich dann den Rabbit schlagen kann,\Ntu ich alles dafür!
+Dialogue: 0,0:16:30.92,0:16:31.67,Default,Nor,0000,0000,0000,,Dann …
+Dialogue: 0,0:16:32.41,0:16:34.09,Default,Nor,0000,0000,0000,,Darf ich an deinen Ohren knabbern?
+Dialogue: 0,0:16:34.09,0:16:34.82,Default,Ema,0000,0000,0000,,Hä?!
+Dialogue: 0,0:16:35.56,0:16:37.84,Default,Nor,0000,0000,0000,,I-Ich werd auch nicht hart zubeißen.
+Dialogue: 0,0:16:38.39,0:16:39.68,Default,Nor,0000,0000,0000,,Geht nicht?
+Dialogue: 0,0:16:42.68,0:16:44.33,Default,Ema,0000,0000,0000,,Doch, darfst du.
+Dialogue: 0,0:16:45.59,0:16:46.98,Default,Ema,0000,0000,0000,,Tu, was du willst.
+Dialogue: 0,0:16:47.85,0:16:48.65,Default,Nor,0000,0000,0000,,Ema …
+Dialogue: 0,0:16:53.07,0:16:54.30,Default,Ema,0000,0000,0000,,Dann leg los!
+Dialogue: 0,0:16:54.72,0:16:56.08,Default,Nor,0000,0000,0000,,Ich leg los!
+Dialogue: 0,0:17:03.30,0:17:05.83,Internal,Nor,0000,0000,0000,,Oh, Ohren sind ja wirklich weich.
+Dialogue: 0,0:17:16.39,0:17:18.93,Default,Ema,0000,0000,0000,,Nor … Reicht das noch nicht?
+Dialogue: 0,0:17:19.21,0:17:21.38,Internal,Nor,0000,0000,0000,,Sind ihre Ohren vielleicht empfindlich?
+Dialogue: 0,0:17:21.98,0:17:25.67,Internal,Nor,0000,0000,0000,,Ich kenne sie schon ewig, aber es\Ngibt immer noch Neues zu entdecken.
+Dialogue: 0,0:17:33.86,0:17:36.36,Default,Ema,0000,0000,0000,,N-Nicht …
+Dialogue: 0,0:17:44.14,0:17:45.54,Internal,Nor,0000,0000,0000,,Hat er uns bemerkt?!
+Dialogue: 0,0:17:47.15,0:17:49.63,Internal,Nor,0000,0000,0000,,Schneller … Ich muss schneller machen!
+Dialogue: 0,0:17:49.87,0:17:51.26,Internal,Nor,0000,0000,0000,,Ich brauche LP!
+Dialogue: 0,0:17:58.26,0:18:01.51,TypePlaceholder,type,0000,0000,0000,,{\b1\fs20\bord1.8\an2\fad(450,0)\b1\shad2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(143,53)}Nor Stalgia
+Dialogue: 0,0:18:00.08,0:18:01.51,Internal,Nor,0000,0000,0000,,Das sind genug!
+Dialogue: 0,0:18:02.02,0:18:03.47,Internal,Nor,0000,0000,0000,,Jetzt kann ich Emas Skill …
+Dialogue: 0,0:18:22.03,0:18:23.63,Default,Nor,0000,0000,0000,,Steingeschoss 100.
+Dialogue: 0,0:18:23.63,0:18:26.16,Default,Nor,0000,0000,0000,,Kopf und Skills sinnvoll benutzen.
+Dialogue: 0,0:18:26.81,0:18:27.66,Default,Ema,0000,0000,0000,,Nor!
+Dialogue: 0,0:18:29.48,0:18:31.31,Internal,Nor,0000,0000,0000,,Emas Fähigkeit bearbeiten!
+Dialogue: 0,0:18:30.13,0:18:34.13,TypePlaceholder,type,0000,0000,0000,,{\p1\bord4\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(320,35)}m 0 0 l 235 0 235 85 0 85{\p0}
+Dialogue: 1,0:18:30.13,0:18:34.13,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(320,35)}m 0 0 l 235 0 235 85 0 85{\p0}
+Dialogue: 2,0:18:30.13,0:18:34.13,TypePlaceholder,type,0000,0000,0000,,{\b1\fs20\bord1\an5\b1\shad1.3\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(290,34)}Ema Brightness
+Dialogue: 2,0:18:30.13,0:18:34.13,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(238,49)}Skills\N{\fs20}„Dolch, beidhändig {\alpha&HFF&}C{\alpha&H00&}“\N„Windfaust“
+Dialogue: 2,0:18:30.13,0:18:34.13,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\pos(398.7,77)\t(1335,1522,\fry90)}C
+Dialogue: 2,0:18:30.13,0:18:34.13,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\b0\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\pos(398.7,77)\fry90\t(1522,1735,\fry0)}B
+Dialogue: 0,0:18:59.92,0:19:00.91,Default,Ema,0000,0000,0000,,Hast du sie gesehen?!
+Dialogue: 0,0:19:00.91,0:19:02.74,Default,Nor,0000,0000,0000,,Sie gesehen …
+Dialogue: 0,0:19:02.74,0:19:05.41,Default,Nor,0000,0000,0000,,Ich habe sie wohl schon sehr oft gesehen.
+Dialogue: 0,0:19:06.17,0:19:10.42,Default,Ema,0000,0000,0000,,Schon gut. Heute darfst du\Nso viel schauen, wie du willst.
+Dialogue: 0,0:19:10.65,0:19:11.40,Default,Nor,0000,0000,0000,,Huch?!
+Dialogue: 0,0:19:12.64,0:19:15.50,Default,Ema,0000,0000,0000,,Als Dank dafür, dass du\Nmich stärker gemacht hast.
+Dialogue: 0,0:19:29.39,0:19:32.90,Default,Lola,0000,0000,0000,,D-Das ist tatsächlich der Beweis\Nfür die Beseitigung des Monsters.
+Dialogue: 0,0:19:32.90,0:19:35.31,Default,Lola,0000,0000,0000,,Hast du das wirklich allein geschafft?
+Dialogue: 0,0:19:35.31,0:19:38.15,Default,Nor,0000,0000,0000,,Nein, Ema hat den Big Rabbit besiegt.
+Dialogue: 0,0:19:39.87,0:19:41.10,Default,Ema,0000,0000,0000,,Fräulein Lola …
+Dialogue: 0,0:19:41.10,0:19:41.77,Default,Lola,0000,0000,0000,,Hm?
+Dialogue: 0,0:19:42.16,0:19:44.11,Default,Ema,0000,0000,0000,,Ähm … Danke.
+Dialogue: 0,0:19:44.63,0:19:48.16,Default,Ema,0000,0000,0000,,Dank deines Auftrags\Nbin ich jetzt viel selbstsicherer.
+Dialogue: 0,0:19:48.16,0:19:51.93,Default,Lola,0000,0000,0000,,Ah. Ich möchte mich auch entschuldigen.
+Dialogue: 0,0:19:52.62,0:19:55.59,Default,Lola,0000,0000,0000,,Glückwunsch zum erfolgreich\Nüberstandenen Auftrag.
+Dialogue: 0,0:19:56.19,0:19:57.70,Default,Nor,0000,0000,0000,,Ach, übrigens …
+Dialogue: 0,0:19:57.70,0:20:00.59,Default,Nor,0000,0000,0000,,Ich habe gehört, das Fleisch\Ndes Big Rabbit sei sehr lecker.
+Dialogue: 0,0:20:00.81,0:20:04.09,Default,Lola,0000,0000,0000,,Ja. Aber man kommt nicht so einfach dran.
+Dialogue: 0,0:20:04.09,0:20:07.10,Default,Lola,0000,0000,0000,,Die Abenteurer verzehren\Nes oft an Ort und Stelle.
+Dialogue: 0,0:20:07.31,0:20:12.40,Default,Nor,0000,0000,0000,,Tatsächlich habe ich eine Aufbewahrungsdimension\Nerschaffen, um große Dinge zu transportieren.
+Dialogue: 0,0:20:13.22,0:20:14.28,Default,Lola,0000,0000,0000,,Oh?!
+Dialogue: 0,0:20:14.94,0:20:17.37,Default,Nor,0000,0000,0000,,Ich lade alle ein, ihn gemeinsam zu essen.
+Dialogue: 0,0:20:18.48,0:20:19.57,Default,Adventurer6,0000,0000,0000,,Unglaublich!
+Dialogue: 0,0:20:20.06,0:20:23.57,Default,Lola,0000,0000,0000,,Du bist fähig und auch noch aufmerksam.
+Dialogue: 0,0:20:23.57,0:20:24.67,Default,Lola,0000,0000,0000,,Wunderbar.
+Dialogue: 0,0:20:26.89,0:20:28.66,Default,Ema,0000,0000,0000,,Nor ist der Beste!
+Dialogue: 0,0:20:40.41,0:20:42.20,Default,Nor,0000,0000,0000,,Esst, so viel ihr wollt!
+Dialogue: 0,0:20:42.20,0:20:43.40,Default,Adventurer7,0000,0000,0000,,Lecker!
+Dialogue: 0,0:20:43.40,0:20:44.78,Default,Adventurer8,0000,0000,0000,,Das ist so gut!
+Dialogue: 0,0:20:44.09,0:20:45.69,Overlap,Adventurer9,0000,0000,0000,,Das perfekte Essen!
+Dialogue: 0,0:20:46.09,0:20:47.10,Default,Adventurer10,0000,0000,0000,,Bringt mir Nachschlag!
+Dialogue: 0,0:20:48.19,0:20:50.71,Default,Ema,0000,0000,0000,,Mein Fleisch!
+Dialogue: 0,0:20:51.26,0:20:55.10,TypePlaceholder,Ema,0000,0000,0000,,{\an7\bord0\shad0\fs15\fnGeorgia\b1\pos(348,53.5)\c&H3C3C3C&}Yakiniku bedeutet Krieg\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fs12}by Ema Brightness
+Dialogue: 0,0:20:51.26,0:20:55.10,Internal,Ema,0000,0000,0000,,Yakiniku bedeutet Krieg, by Ema Brightness.
+Dialogue: 0,0:20:55.10,0:20:57.44,Default,Master,0000,0000,0000,,Hier, für dich auch, Kleiner.
+Dialogue: 0,0:20:59.36,0:21:01.61,TypePlaceholder,type,0000,0000,0000,,{\b1\fs20\bord1.8\an2\fad(300,0)\b1\shad2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(117,227)}Nor Stalgia
+Dialogue: 0,0:21:01.87,0:21:04.61,Default,Lola,0000,0000,0000,,Herr Nor, Ihre heutige Belohnung.
+Dialogue: 0,0:21:04.88,0:21:07.06,Default,Nor,0000,0000,0000,,Ah, vielen Dank.
+Dialogue: 0,0:21:07.06,0:21:09.37,Default,Lola,0000,0000,0000,,Jetzt haben Sie genug\Nfür die Aufnahmegebühr.
+Dialogue: 0,0:21:09.63,0:21:12.08,Default,Lola,0000,0000,0000,,Herzlichen Glückwunsch zur Einschulung.
+Dialogue: 0,0:21:12.08,0:21:15.12,Default,Adventurers,0000,0000,0000,,Glückwunsch!
+Dialogue: 0,0:21:17.13,0:21:19.42,Default,Adventurer11,0000,0000,0000,,Streng dich an auf der Heldenakademie!
+Dialogue: 0,0:21:19.86,0:21:21.58,Default,Adventurer12,0000,0000,0000,,Glückwunsch zur Einschulung!
+Dialogue: 0,0:21:21.58,0:21:23.21,Default,Adventurer13,0000,0000,0000,,Prost und Glückwunsch!
+Dialogue: 0,0:21:23.21,0:21:24.17,Internal,Nor,0000,0000,0000,,Huch?
+Dialogue: 0,0:21:24.60,0:21:26.31,Internal,Nor,0000,0000,0000,,Was ist das hier?
+Dialogue: 0,0:21:26.63,0:21:28.26,Internal,Nor,0000,0000,0000,,Es fühlt sich an wie ein Traum.
+Dialogue: 0,0:21:28.26,0:21:30.01,Internal,Nor,0000,0000,0000,,Wieso ist das passiert?
+Dialogue: 0,0:21:30.01,0:21:32.44,Default,Adventurer14,0000,0000,0000,,Ein Hoch auf die Abenteurer von Odin!
+Dialogue: 0,0:21:32.44,0:21:34.20,Default,Adventurer15,0000,0000,0000,,Sag uns Bescheid,\Nwenn du mal Hilfe brauchst!
+Dialogue: 0,0:21:34.20,0:21:36.64,Default,Adventurer16,0000,0000,0000,,Gehen wir mal gemeinsam los!
+Dialogue: 0,0:21:36.64,0:21:38.89,Internal,Nor,0000,0000,0000,,Irgendwas hat mich verändert.
+Dialogue: 0,0:21:39.27,0:21:41.07,Internal,Nor,0000,0000,0000,,Wieso bin ich stärker geworden?
+Dialogue: 0,0:21:41.55,0:21:44.10,Internal,Nor,0000,0000,0000,,Wem hab ich das zu verdanken?
+Dialogue: 0,0:21:48.94,0:21:51.03,Internal,Nor,0000,0000,0000,,Ah, genau.
+Dialogue: 0,0:21:51.88,0:21:53.35,Internal,Nor,0000,0000,0000,,Das ist alles …
+Dialogue: 0,0:21:54.08,0:21:57.08,Default,Ema,0000,0000,0000,,Nor? Alle warten auf deine Rede.
+Dialogue: 0,0:21:57.37,0:21:58.04,Default,Nor,0000,0000,0000,,Ja.
+Dialogue: 0,0:22:08.74,0:22:11.74,Default,Nor,0000,0000,0000,,Kameraden, vielen Dank!
+Dialogue: 0,0:22:22.76,0:22:25.69,Internal,Nor,0000,0000,0000,,Es ist alles meiner Meisterin zu verdanken.
+Dialogue: 0,0:22:26.91,0:22:28.67,Internal,Nor,0000,0000,0000,,Ich besuche sie bald wieder.
+Dialogue: 0,0:22:29.48,0:22:30.73,Internal,Nor,0000,0000,0000,,Ganz bald.
+Dialogue: 0,0:22:37.12,0:22:38.73,Internal,Olivia,0000,0000,0000,,Na ja …
+Dialogue: 0,0:22:39.70,0:22:44.45,Internal,Olivia,0000,0000,0000,,Komm sofort her!
+Dialogue: 0,0:24:18.26,0:24:21.93,Epititel,type,0000,0000,0000,,{\an2\fad(600,0)\blur0.6\pos(169,303)}„Mitschüler mit Problemen“
+Dialogue: 0,0:24:18.50,0:24:20.90,Default,Ema,0000,0000,0000,,Nächstes Mal: „Mitschüler mit Problemen“.
+Dialogue: 0,0:24:21.93,0:24:26.94,Default,type,0000,0000,0000,,{\fnVerdana\b1\blur0.7\bord1.7\shad0\an1\fs20\b0\c&H8DA78C&\3c&HFFFFFF&\pos(158,314)}Tetsubuta

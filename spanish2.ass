@@ -1,0 +1,393 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,18,&H00ECF6FF,&H000000FF,&H001500BA,&H2C090A5E,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0045,0020,1
+Style: Cart_TitleSerie,Arial,30,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,3,2,8,0010,0010,0080,1
+Style: Cart_Avance,Trebuchet MS,20,&H000E6FE8,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0025,0020,0010,1
+Style: Cart_Ventana,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00232323,&H00232323,-1,0,0,0,100,100,0,0,1,2,2,5,0020,0020,0020,1
+Style: Cart_Descripciones,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00363636,&H00363636,-1,0,0,0,100,100,0,0,1,1,1,5,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleNext,Trebuchet MS,22,&H00FDF6F7,&H000000FF,&H00000000,&H007F7F7F,0,0,0,0,100,100,2,0,1,2,0,1,0020,0020,0100,1
+Style: Cart_C_TreNo,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_Ilus,Trebuchet MS,20,&H00DE60E6,&H000000FF,&H00FFFFFF,&H00DE60E6,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_C_TreNoShad,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.61,0:00:08.61,Gen_Main,Alice,0000,0000,0000,,¡Hermano!
+Dialogue: 0,0:00:12.40,0:00:15.07,Gen_Main,Noir,0000,0000,0000,,Tan cariñosa como siempre, Alice.
+Dialogue: 0,0:00:16.62,0:00:20.37,Gen_Main,Alice,0000,0000,0000,,¡Solo quiero que se me pegue\Nun poco de tu buena suerte!
+Dialogue: 0,0:00:20.75,0:00:23.75,Gen_Main,Alice,0000,0000,0000,,¡Al fin y al cabo,\Nte aceptaron en la academia!
+Dialogue: 0,0:00:23.91,0:00:25.30,Gen_Main,Noir,0000,0000,0000,,Ah, sí…
+Dialogue: 0,0:00:25.46,0:00:27.78,Gen_Main,Alice,0000,0000,0000,,¡Ya eres prácticamente\Nel cabeza de familia!
+Dialogue: 0,0:00:28.29,0:00:31.24,Gen_Main,Father,0000,0000,0000,,¡Basta, Alice!\N¡Lo poco que me queda de dignidad…!
+Dialogue: 0,0:00:31.42,0:00:34.98,Gen_Main,Noir,0000,0000,0000,,¡Padre! Debo hablarte\Nsobre la academia de héroes.
+Dialogue: 0,0:00:35.43,0:00:38.39,Gen_Main,Noir,0000,0000,0000,,A decir verdad, la matrícula…
+Dialogue: 0,0:00:38.55,0:00:40.27,Gen_Main,Father,0000,0000,0000,,¿La matrícula?
+Dialogue: 0,0:00:40.93,0:00:44.85,Gen_Main,Father,0000,0000,0000,,Tengo algunos ahorros. ¿De cuánto es?
+Dialogue: 0,0:00:45.44,0:00:47.10,Gen_Main,Noir,0000,0000,0000,,Trescientos mil.
+Dialogue: 0,0:00:47.27,0:00:48.32,Gen_Main,Father,0000,0000,0000,,Trescientos…
+Dialogue: 0,0:00:48.48,0:00:50.03,Gen_Main,Noir,0000,0000,0000,,Dentro de una semana.
+Dialogue: 0,0:00:50.19,0:00:52.03,Gen_Main,Father,0000,0000,0000,,Una semana…
+Dialogue: 0,0:00:52.19,0:00:54.26,Gen_Main,Father,0000,0000,0000,,¿No se puede dentro de un año?
+Dialogue: 0,0:00:54.40,0:00:56.94,Gen_Main,Noir,0000,0000,0000,,Entiendo, yo mismo conseguiré el dinero.
+Dialogue: 0,0:00:57.11,0:01:00.42,Gen_Main,Father,0000,0000,0000,,¡Lo siento! ¡Cuánto lo siento!
+Dialogue: 0,0:01:01.62,0:01:04.04,Gen_Main,Alice,0000,0000,0000,,Pobre de mi hermano…
+Dialogue: 0,0:01:06.33,0:01:09.39,Gen_Italics,Olivia,0000,0000,0000,,¿Trescientos mil para ingresar\Na la academia?
+Dialogue: 0,0:01:09.54,0:01:13.17,Gen_Italics,Olivia,0000,0000,0000,,Pues parece excesivo\Npara un noble pobretón como tú.
+Dialogue: 0,0:01:13.34,0:01:17.47,Gen_Main,Noir,0000,0000,0000,,No hacía falta que fueras\Ntan franca, pero sí.
+Dialogue: 0,0:01:17.64,0:01:22.59,Gen_Italics,Olivia,0000,0000,0000,,¿Y si vences monstruos raros de esta\Nmazmorra para vender sus materiales?
+Dialogue: 0,0:01:22.77,0:01:24.89,Gen_Main,Noir,0000,0000,0000,,No quisiera llamar la atención.
+Dialogue: 0,0:01:25.02,0:01:27.19,Gen_Main,Noir,0000,0000,0000,,Menos aún después de lo del examen.
+Dialogue: 0,0:01:28.31,0:01:32.83,Gen_Main,Noir,0000,0000,0000,,¿Podrías decir que fuiste tú\Nquien venció a la muerte?
+Dialogue: 0,0:01:32.98,0:01:34.11,Gen_Main,Lenore,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:01:34.28,0:01:37.48,Gen_Main,Noir,0000,0000,0000,,Será más fácil de creer\Nque lo hizo la hija de un conde
+Dialogue: 0,0:01:37.66,0:01:39.14,Gen_Main,Noir,0000,0000,0000,,en vez de un baronet.
+Dialogue: 0,0:01:39.66,0:01:43.45,Gen_Main,Lenore,0000,0000,0000,,Pues qué remedio.\NDiré que yo la derroté.
+Dialogue: 0,0:01:44.08,0:01:45.37,Gen_Main,Noir,0000,0000,0000,,Gracias.
+Dialogue: 0,0:01:46.12,0:01:50.84,Gen_Main,Noir,0000,0000,0000,,Dejé que una compañera de clase\Nengreída se quedara con el crédito.
+Dialogue: 0,0:01:51.00,0:01:54.22,Gen_Italics,Olivia,0000,0000,0000,,En ese caso, solo te queda una manera.
+Dialogue: 0,0:01:56.42,0:01:59.34,Gen_Italics,Olivia,0000,0000,0000,,¡Trabajar en el gremio de aventureros!
+Dialogue: 0,0:02:00.26,0:02:01.98,Gen_Main,Noir,0000,0000,0000,,Disculpen…
+Dialogue: 0,0:02:09.73,0:02:14.35,Gen_Main,Lola,0000,0000,0000,,Maestro, no intimide\Na los novatos, por favor.
+Dialogue: 0,0:02:17.36,0:02:20.24,Gen_Main,Lola,0000,0000,0000,,Soy Lola, la recepcionista.
+Dialogue: 0,0:02:25.12,0:02:28.13,Gen_Main,Lola,0000,0000,0000,,¿Es tu primera vez\Nen el gremio de aventureros?
+Dialogue: 0,0:04:01.42,0:04:07.51,Cart_TitleNext,Title,0000,0000,0000,,{\fad(530,555)\pos(40,310)\an1\fscx70\blur2}#02 "El gremio y la recepcionista"
+Dialogue: 0,0:04:03.68,0:04:07.79,Gen_Main_Up,Lola,0000,0000,0000,,Para empezar, te explicaré\Nnuestro sencillo sistema.
+Dialogue: 0,0:04:07.97,0:04:09.76,Gen_Main,Noir,0000,0000,0000,,Claro…
+Dialogue: 0,0:04:10.22,0:04:14.81,Gen_Main,Lola,0000,0000,0000,,En Odín contamos\Ncon varios aventureros destacados.
+Dialogue: 0,0:04:15.02,0:04:18.07,Gen_Main,Lola,0000,0000,0000,,Realizan misiones\Ncomo cosechar extractos naturales,
+Dialogue: 0,0:04:18.23,0:04:23.84,Gen_Main,Lola,0000,0000,0000,,matar monstruos y explorar mazmorras,\Npor darte algunos ejemplos.
+Dialogue: 0,0:04:24.07,0:04:26.97,Gen_Main,Lola,0000,0000,0000,,Los aventureros se clasifican\Nen rangos que determinan
+Dialogue: 0,0:04:26.70,0:04:35.33,Cart_A_Ari,Sign,0000,0000,0000,,{\fnImpact\fad(300,0)\b1\fsp2\c&HEAEFEB&\3c&H2A1E14&\4c&HF6EEEB&\pos(109,175)\frz21.86}Maestro del gremio
+Dialogue: 0,0:04:26.70,0:04:35.33,Cart_A_Ari,Sign,0000,0000,0000,,{\fnImpact\fad(300,0)\b1\fsp4\c&HEFEDEB&\3c&H271B0A&\4c&HF6EEEB&\pos(503,142)}Novato
+Dialogue: 0,0:04:27.12,0:04:30.36,Gen_Main,Lola,0000,0000,0000,,qué misiones pueden tomar\Ny las recompensas que reciben.
+Dialogue: 0,0:04:31.04,0:04:35.33,Gen_Main,Lola,0000,0000,0000,,Aunque, claro, quienes hacen\Nun buen trabajo, suben de rango.
+Dialogue: 0,0:04:35.87,0:04:41.17,Gen_Main,Lola,0000,0000,0000,,Para unirte al gremio,\Nprimero tienes que registrarte.
+Dialogue: 0,0:04:41.34,0:04:44.22,Gen_Main,Noir,0000,0000,0000,,Sí, claro. Sería un placer.
+Dialogue: 0,0:04:45.09,0:04:49.35,Gen_Main,Lola,0000,0000,0000,,En ese caso, necesito saber\Ntodas las habilidades que posees.
+Dialogue: 0,0:04:49.51,0:04:51.45,Gen_Main,Noir,0000,0000,0000,,¿Mis habilidades?
+Dialogue: 0,0:04:51.89,0:04:53.35,Gen_Main,Lola,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:04:53.52,0:04:57.35,Gen_Main,Lola,0000,0000,0000,,Es información clasificada\Nque no saldrá del gremio.
+Dialogue: 0,0:04:58.77,0:05:00.86,Gen_Italics,Noir,0000,0000,0000,,Qué bien huele…
+Dialogue: 0,0:05:02.19,0:05:03.70,Gen_Main,Noir,0000,0000,0000,,Ya las escribí.
+Dialogue: 0,0:05:04.99,0:05:07.59,Gen_Main,Lola,0000,0000,0000,,Veamos, ¿Noir?
+Dialogue: 0,0:05:07.74,0:05:08.82,Gen_Main,Noir,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:05:08.99,0:05:11.20,Gen_Main,Lola,0000,0000,0000,,No tengo tiempo para bromas.
+Dialogue: 0,0:05:11.37,0:05:13.33,Gen_Main,Lola,0000,0000,0000,,Tampoco nos sobra el papel.
+Dialogue: 0,0:05:13.50,0:05:16.16,Gen_Main,Noir,0000,0000,0000,,Ah, comprendo…
+Dialogue: 0,0:05:16.33,0:05:19.11,Gen_Main,Noir,0000,0000,0000,,Seguro que Crear y Editar\Nsuenan bastante raro.
+Dialogue: 0,0:05:19.25,0:05:21.80,Gen_Main,Lola,0000,0000,0000,,No, conozco esas habilidades.
+Dialogue: 0,0:05:21.96,0:05:23.09,Gen_Main,Lola,0000,0000,0000,,Porque…
+Dialogue: 0,0:05:23.67,0:05:28.57,Gen_Main,Lola,0000,0000,0000,,Estás en Odín, el gremio\Nal que pertenecía Olivia Servant.
+Dialogue: 0,0:05:28.72,0:05:30.47,Gen_Main,Noir,0000,0000,0000,,¡¿Qué?! ¡¿Mi maestra?!
+Dialogue: 0,0:05:31.76,0:05:33.09,Gen_Main,Lola,0000,0000,0000,,¿"Maestra"?
+Dialogue: 0,0:05:33.27,0:05:35.28,Gen_Italics,Noir,0000,0000,0000,,¡Demonios! ¡Se me salió!
+Dialogue: 0,0:05:35.43,0:05:38.48,Gen_Main,Lola,0000,0000,0000,,De vez en cuando\Naparecen sujetos como tú
+Dialogue: 0,0:05:38.65,0:05:42.02,Gen_Main,Lola,0000,0000,0000,,que se hacen llamar sucesores de Olivia.
+Dialogue: 0,0:05:42.19,0:05:43.19,Gen_Main,Lola,0000,0000,0000,,Dado el caso…
+Dialogue: 0,0:05:44.99,0:05:47.20,Gen_Main,Lola,0000,0000,0000,,veamos si dices la verdad.
+Dialogue: 0,0:05:47.36,0:05:52.20,Gen_Main,Lola,0000,0000,0000,,Cuando toques este tomo analítico,\Ntus habilidades aparecerán escritas.
+Dialogue: 0,0:05:52.37,0:05:53.38,Gen_Main,Lola,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:05:53.54,0:05:56.22,Gen_Main,Lola,0000,0000,0000,,Aún estás a tiempo de retractarte.
+Dialogue: 0,0:05:56.37,0:05:59.02,Gen_Main,Noir,0000,0000,0000,,-No, te lo demostraré.\N-¿Eh?
+Dialogue: 0,0:05:59.21,0:06:02.21,Gen_Main,Noir,0000,0000,0000,,Pero ¿cómo te disculparás\Nsi no miento?
+Dialogue: 0,0:06:03.25,0:06:05.21,Gen_Main,Lola,0000,0000,0000,,Veamos…
+Dialogue: 0,0:06:05.38,0:06:12.72,Gen_Main,Lola,0000,0000,0000,,¿Qué te parece si me levanto la falda\Ny digo: "Cuánto lo siento, señor Noir"?
+Dialogue: 0,0:06:13.39,0:06:15.15,Gen_Main,Noir,0000,0000,0000,,Si estás tan segura…
+Dialogue: 0,0:06:19.77,0:06:22.73,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(860,1)\an7\c&H6E6E6E&\3c&HF6FBFA&\blur3\shad0\fs16\bord0\b1\frz22.14\frx10\fry358\pos(334,30)\1a&H6F&}Noir Stardia\N16 años\NNivel 33\NHabilidades:\NGran Sabio\NCrear\NEditar\NOtorgar\NConvertir PV\N Bala de Piedra\NOjo Analítico
+Dialogue: 0,0:06:19.77,0:06:22.73,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(860,1)\an7\c&H878FA1&\bord0\3c&HF6FBFA&\shad0\fs16\b1\frz22.14\frx10\fry358\pos(329,25)}Noir Stardia\N16 años\NNivel 33\NHabilidades:\NGran Sabio\NCrear\NEditar\NOtorgar\NConvertir PV\N Bala de Piedra\NOjo Analítico
+Dialogue: 0,0:06:23.94,0:06:25.74,Gen_Main,Lola,0000,0000,0000,,¡¿De verdad eres…
+Dialogue: 0,0:06:26.19,0:06:29.74,Gen_Main,Lola,0000,0000,0000,,el sucesor de Olivia?!
+Dialogue: 0,0:06:29.99,0:06:32.20,Gen_Main,Noir,0000,0000,0000,,Entonces, ¿qué era lo que ibas a hacer?
+Dialogue: 0,0:06:33.37,0:06:36.21,Gen_Main,Noir,0000,0000,0000,,Decirme algo como "Lo adoro, señor Noir"
+Dialogue: 0,0:06:37.58,0:06:39.78,Gen_Main,Noir,0000,0000,0000,,mientras te levantabas la falda, ¿no?
+Dialogue: 0,0:06:44.09,0:06:46.67,Gen_Main,Lola,0000,0000,0000,,Señor Noir…
+Dialogue: 0,0:06:49.76,0:06:54.22,Gen_Main,Lola,0000,0000,0000,,Lo adoro…
+Dialogue: 0,0:06:54.22,0:06:57.10,Cart_Ventana,Sign,0000,0000,0000,,{\an1\fs30\shad2\4a&H00&\pos(66,62)}Noir Stardia
+Dialogue: 0,0:06:59.48,0:07:02.42,Gen_Main,Lola,0000,0000,0000,,¿Y bien? ¿Qué tipo de misión buscas?
+Dialogue: 0,0:07:02.56,0:07:04.66,Gen_Main,Lola,0000,0000,0000,,Aunque partirás desde el rango E.
+Dialogue: 0,0:07:04.82,0:07:06.07,Gen_Italics,Noir,0000,0000,0000,,¡Lo superó muy rápido!
+Dialogue: 0,0:07:06.23,0:07:10.07,Gen_Main,Noir,0000,0000,0000,,A decir verdad, necesito ganar\N300,000 rels en una semana.
+Dialogue: 0,0:07:10.24,0:07:11.63,Gen_Main,Lola,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:07:13.62,0:07:16.15,Gen_Main,Lola,0000,0000,0000,,¿Qué tal si atrapas de estos?
+Dialogue: 0,0:07:16.33,0:07:17.95,Gen_Main,Noir,0000,0000,0000,,¿Saltamontes arcoíris?
+Dialogue: 0,0:07:18.12,0:07:20.18,Gen_Main,Noir,0000,0000,0000,,Como se desconoce su hábitat,
+Dialogue: 0,0:07:20.33,0:07:23.08,Gen_Main,Noir,0000,0000,0000,,son bichos superraros\Nmuy difíciles de encontrar.
+Dialogue: 0,0:07:23.25,0:07:25.08,Gen_Main,Lola,0000,0000,0000,,Era una misión de rango D,
+Dialogue: 0,0:07:25.25,0:07:27.87,Gen_Main,Lola,0000,0000,0000,,pero comenzamos a aceptar\Naventureros de rango E.
+Dialogue: 0,0:07:28.05,0:07:31.21,Gen_Main,Noir,0000,0000,0000,,¿Porque nadie aceptaba la misión?
+Dialogue: 0,0:07:31.38,0:07:33.36,Gen_Main,Lola,0000,0000,0000,,Así es, pero en tu caso,
+Dialogue: 0,0:07:33.93,0:07:35.38,Gen_Main,Lola,0000,0000,0000,,si usaras esa habilidad…
+Dialogue: 0,0:07:35.93,0:07:38.10,Gen_Main,Noir,0000,0000,0000,,Vaya, es verdad.
+Dialogue: 0,0:07:38.27,0:07:42.56,Gen_Main,Lola,0000,0000,0000,,Buena suerte, Noir.\NEspero mucho de ti.
+Dialogue: 0,0:07:42.73,0:07:46.06,Gen_Main,Lola,0000,0000,0000,,Los hombres competentes\Nme parecen muy atractivos.
+Dialogue: 0,0:07:46.23,0:07:49.67,Gen_Italics,Noir,0000,0000,0000,,Cuesta creer que dudara tanto\Nde mí hace un momento…
+Dialogue: 0,0:07:54.45,0:07:57.20,Gen_Italics,Noir,0000,0000,0000,,El hábitat del saltamontes\Ndebería estar cerca.
+Dialogue: 0,0:07:57.37,0:08:01.11,Gen_Italics,Noir,0000,0000,0000,,Con Gran sabio,\Nque contesta cualquier pregunta,
+Dialogue: 0,0:08:01.29,0:08:03.21,Gen_Italics,Noir,0000,0000,0000,,debería poder encontrarlos enseguida.
+Dialogue: 0,0:08:04.50,0:08:08.71,Gen_Italics,Noir,0000,0000,0000,,Pero los besos son absolutamente\Nnecesarios para lidiar con las jaquecas.
+Dialogue: 0,0:08:08.88,0:08:12.85,Gen_Italics,Noir,0000,0000,0000,,Un momento, ¿y si usara Crear\Npara resistir mejor las jaquecas?
+Dialogue: 0,0:08:12.76,0:08:18.97,Cart_Ventana,Sign,0000,0000,0000,,{\fad(441,1)\pos(64,215)\an1\fscx80\shad1.5\4a&H00&}Resistencia a la jaqueca
+Dialogue: 0,0:08:12.97,0:08:18.97,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fad(481,1)\fscx86\4a&H44^\pos(59,269)}PV necesarios:
+Dialogue: 0,0:08:13.76,0:08:14.82,Gen_Italics,Noir,0000,0000,0000,,¡Son muchos!
+Dialogue: 0,0:08:14.97,0:08:18.97,Gen_Italics,Noir,0000,0000,0000,,Pero no puedo depender\Nde Emma para siempre…
+Dialogue: 0,0:08:18.97,0:08:22.94,Cart_Ventana,Sign,0000,0000,0000,,{\fs15\an4\4a&H88&\pos(337,112)\fscy115}Habilidades {\fs16}[Gran Sabio]\N{\fs15\alpha&HFF&}Habilidades {\fs16\alpha&H00&\4a&H88&}[Crear] [Editar] [Otorgar]\N{\fs15\alpha&HFF&}Habilidades {\fs16\alpha&H00&\4a&H88&}[Conversión de PV] [Bala de piedra]\N{\fs15\alpha&HFF&}Habilidades {\fs16\alpha&H00&\4a&H88&}[Ojo Analítico] {\t(2031,2239,1 \alpha&H00&\4a&H88&)}[Res. a jaqueca]
+Dialogue: 0,0:08:18.97,0:08:22.94,Cart_Ventana,Sign,0000,0000,0000,,{\pos(423,53)}Noir Stardia  {\fs18}PV.{\fs30\t(862,1821,1 \alpha&HFF&)}700
+Dialogue: 0,0:08:18.97,0:08:22.94,Cart_Ventana,Sign,0000,0000,0000,,{\alpha&HFF&\pos(423,53)}Noir Stardia  {\fs18}PV.{\fs30\t(862,1821,1 \alpha&H00&)}400
+Dialogue: 0,0:08:21.14,0:08:22.96,Gen_Italics,Noir,0000,0000,0000,,Bien, con esto…
+Dialogue: 0,0:08:25.10,0:08:28.89,Gen_Italics,Noir,0000,0000,0000,,Gran Sabio, ¿dónde están\Nlos saltamontes arcoíris?
+Dialogue: 0,0:08:30.48,0:08:35.95,Gen_Italics,Great Sage,0000,0000,0000,,El más cercano está detrás\Nde una roca 310 metros al sur.
+Dialogue: 0,0:08:38.03,0:08:39.73,Gen_Italics,Noir,0000,0000,0000,,¡Aún duele!
+Dialogue: 0,0:08:39.91,0:08:42.87,Gen_Italics,Noir,0000,0000,0000,,Pero… no es insoportable.
+Dialogue: 0,0:08:47.46,0:08:49.88,Gen_Italics,Noir,0000,0000,0000,,Bien, lo encontré enseguida.
+Dialogue: 0,0:08:50.30,0:08:52.79,Gen_Italics,Noir,0000,0000,0000,,Pero aún detesto las jaquecas.
+Dialogue: 0,0:08:52.97,0:08:55.37,Gen_Italics,Noir,0000,0000,0000,,Desearía tener cerca a Emma.
+Dialogue: 0,0:08:56.01,0:08:58.72,Gen_Main,Emma,0000,0000,0000,,¡Noir, eres un idiota!
+Dialogue: 0,0:09:01.64,0:09:04.93,Gen_Italics,Noir,0000,0000,0000,,¡Emma! ¡Tan oportuna como siempre!
+Dialogue: 0,0:09:05.48,0:09:07.66,Gen_Italics,Noir,0000,0000,0000,,Del mismo modo, sus senos siguen tan…
+Dialogue: 0,0:09:09.98,0:09:12.33,Gen_Main,Emma,0000,0000,0000,,¡Noir, ¿te volviste aventurero?!
+Dialogue: 0,0:09:12.48,0:09:14.49,Gen_Main,Noir,0000,0000,0000,,¿Cómo te enteraste?
+Dialogue: 0,0:09:14.65,0:09:16.93,Gen_Main,Emma,0000,0000,0000,,En tu casa me dijeron\Nque fuiste al gremio.
+Dialogue: 0,0:09:17.07,0:09:18.77,Gen_Main,Emma,0000,0000,0000,,Y cuando fui al gremio…
+Dialogue: 0,0:09:18.95,0:09:20.99,Gen_Main,Emma,0000,0000,0000,,¡¿Qué importan los detalles?!
+Dialogue: 0,0:09:21.16,0:09:24.00,Gen_Main,Emma,0000,0000,0000,,¿Cómo pudiste hacerlo\Nsin decírmelo primero?
+Dialogue: 0,0:09:24.16,0:09:28.01,Gen_Main,Noir,0000,0000,0000,,Lo siento,\Nno quería exponerte al peligro.
+Dialogue: 0,0:09:28.17,0:09:31.84,Gen_Main,Emma,0000,0000,0000,,¿Es que no recuerdas nuestra promesa\Nde hace seis años?
+Dialogue: 0,0:09:32.42,0:09:34.72,Gen_Main,Noir,0000,0000,0000,,¿Hace seis años?
+Dialogue: 0,0:09:35.22,0:09:37.15,Gen_Main,Noir,0000,0000,0000,,¿Hablas del día en que jugábamos
+Dialogue: 0,0:09:37.30,0:09:41.14,Gen_Main,Noir,0000,0000,0000,,y grité: "Estaremos juntos hasta\Nque la muerte nos separe"?
+Dialogue: 0,0:09:41.31,0:09:44.29,Gen_Main,Emma,0000,0000,0000,,¡Sí! ¡Así que buscaré\Nsaltamontes contigo!
+Dialogue: 0,0:09:46.10,0:09:48.07,Gen_Main,Emma,0000,0000,0000,,Usarás a Gran sabio, ¿no?
+Dialogue: 0,0:09:48.23,0:09:49.23,Gen_Main,Emma,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:09:49.40,0:09:53.04,Gen_Main,Noir,0000,0000,0000,,Ah, ya no tienes que besarme.\NObtuve Resistencia a la jaqueca.
+Dialogue: 0,0:09:53.19,0:09:54.21,Gen_Main,Emma,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:09:54.90,0:09:58.25,Gen_Main,Noir,0000,0000,0000,,Pero es prácticamente\Ncomo un saludo entre nosotros.
+Dialogue: 0,0:09:58.41,0:10:00.16,Gen_Main,Noir,0000,0000,0000,,Nos conocemos desde siempre.
+Dialogue: 0,0:10:00.25,0:10:03.01,Gen_Main,Noir,0000,0000,0000,,Y aunque ganara resistencia,\Naún me duele…
+Dialogue: 0,0:10:04.62,0:10:06.85,Gen_Main,Emma,0000,0000,0000,,¿De verdad? Entonces…
+Dialogue: 0,0:10:07.00,0:10:08.00,Gen_Main,Noir,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:16.05,0:10:19.80,Gen_Italics,Noir,0000,0000,0000,,Las jaquecas ya no son\Ntan terribles, pero…
+Dialogue: 0,0:10:27.56,0:10:29.39,Gen_Main,Lola,0000,0000,0000,,Gracias por esperar.
+Dialogue: 0,0:10:30.19,0:10:32.36,Gen_Main,Lola,0000,0000,0000,,Tus 250,000 rels.
+Dialogue: 0,0:10:32.52,0:10:34.95,Gen_Main,Noir,0000,0000,0000,,¡¿Doscientos cincuenta mil?!
+Dialogue: 0,0:10:35.11,0:10:38.45,Gen_Main,Lola,0000,0000,0000,,Sí. Si sigues así,\Nascenderás dentro de poco.
+Dialogue: 0,0:10:38.61,0:10:39.86,Gen_Main,Noir,0000,0000,0000,,Qué bien.
+Dialogue: 0,0:10:40.03,0:10:42.82,Gen_Main,Lola,0000,0000,0000,,Eres tan competente y trabajador…
+Dialogue: 0,0:10:42.99,0:10:45.74,Gen_Main,Lola,0000,0000,0000,,De verdad eres muy bueno\Nen lo que haces.
+Dialogue: 0,0:10:46.37,0:10:50.80,Gen_Main,Lola,0000,0000,0000,,Y es por eso mismo\Nque tengo otra misión para ti.
+Dialogue: 0,0:10:50.96,0:10:52.98,Gen_Main,Lola,0000,0000,0000,,Se trata de eliminar monstruos.
+Dialogue: 0,0:10:53.13,0:10:55.52,Gen_Main,,0000,0000,0000,,Muchísimas gracias.
+Dialogue: 0,0:10:55.67,0:10:59.47,Gen_Main,Lola,0000,0000,0000,,Si tienes cualquier duda,\Nsiempre puedes preguntarme.
+Dialogue: 0,0:11:00.09,0:11:01.93,Gen_Main,Emma,0000,0000,0000,,¡Un momento!
+Dialogue: 0,0:11:04.01,0:11:07.77,Gen_Main,Emma,0000,0000,0000,,Me convertiré en aventurera\Npara acompañarte en la misión.
+Dialogue: 0,0:11:07.93,0:11:09.73,Gen_Main,Noir,0000,0000,0000,,Tus senos…
+Dialogue: 0,0:11:09.89,0:11:11.40,Gen_Main,Lola,0000,0000,0000,,¿Tú?
+Dialogue: 0,0:11:12.23,0:11:13.97,Gen_Main,Emma,0000,0000,0000,,Me llamo Emma Brightness.
+Dialogue: 0,0:11:14.15,0:11:15.98,Gen_Main,Emma,0000,0000,0000,,He sido su amiga desde la infancia.
+Dialogue: 0,0:11:23.32,0:11:26.38,Gen_Italics,Noir,0000,0000,0000,,Esto no me gusta…
+Dialogue: 0,0:11:29.04,0:11:31.55,Gen_Main,Lola,0000,0000,0000,,{\i1}La mazmorra oculta\Na la que solo yo puedo entrar{\i0}.
+Dialogue: 0,0:11:35.88,0:11:38.00,Gen_Main,Noir,0000,0000,0000,,Cálmense, por favor.
+Dialogue: 0,0:11:38.17,0:11:41.80,Gen_Main,Lola,0000,0000,0000,,Estoy a cargo de Noir.\NEs un colega muy valioso.
+Dialogue: 0,0:11:41.97,0:11:43.59,Gen_Main,Lola,0000,0000,0000,,Te pido que no interfieras.
+Dialogue: 0,0:11:43.76,0:11:48.52,Gen_Main,Emma,0000,0000,0000,,Eso te digo yo. Estaremos juntos\Nhasta que la muerte nos separe.
+Dialogue: 0,0:11:48.68,0:11:49.88,Gen_Main,Adventurer 1,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:11:50.06,0:11:52.52,Gen_Main,Adventurer 2,0000,0000,0000,,-¿Problemas de faldas?\N-¡Eso! ¡Peleen!
+Dialogue: 0,0:11:52.81,0:11:55.16,Gen_Italics,Noir,0000,0000,0000,,Esto se convirtió en en un espectáculo…
+Dialogue: 0,0:11:56.52,0:12:00.71,Gen_Main,Noir,0000,0000,0000,,¡Emma! ¡Soy muy afortunado\Nde poder contar con tu ayuda!
+Dialogue: 0,0:12:00.86,0:12:02.49,Gen_Main,Emma,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:12:03.70,0:12:07.79,Gen_Main,Noir,0000,0000,0000,,Lola, daré lo mejor de mí para\Npresentarte los mejores resultados.
+Dialogue: 0,0:12:07.95,0:12:09.07,Gen_Main,Lola,0000,0000,0000,,Cielos.
+Dialogue: 0,0:12:10.04,0:12:11.85,Gen_Main,Lola,0000,0000,0000,,Lo dejaré hasta aquí por hoy.
+Dialogue: 0,0:12:12.00,0:12:13.57,Gen_Main,Emma,0000,0000,0000,,Pues yo también.
+Dialogue: 0,0:12:13.75,0:12:15.77,Gen_Main,Lola,0000,0000,0000,,-Para proteger la imagen de Noir.\N-Para proteger la imagen de Noir.
+Dialogue: 0,0:12:16.17,0:12:17.34,Gen_Main,Adventurer 4,0000,0000,0000,,Qué decepción.
+Dialogue: 0,0:12:17.50,0:12:19.67,Gen_Main,Adventurer 5,0000,0000,0000,,-¿Eso fue todo?\N-Qué aburrido.
+Dialogue: 0,0:12:24.26,0:12:25.59,Gen_Main,Lola,0000,0000,0000,,Que te vaya bien.
+Dialogue: 0,0:12:25.76,0:12:29.11,Gen_Main,Lola,0000,0000,0000,,Cena conmigo algún día\Ndespués del trabajo.
+Dialogue: 0,0:12:29.26,0:12:30.76,Gen_Main,Noir,0000,0000,0000,,¿Eh? Este…
+Dialogue: 0,0:12:30.93,0:12:33.64,Gen_Main,Emma,0000,0000,0000,,¡Tiene el descaro\Nde hacerlo delante de mí!
+Dialogue: 0,0:12:39.19,0:12:42.47,Gen_Main,Emma,0000,0000,0000,,Qué tonto eres, Noir.\N¿No sabes que podría tramar algo?
+Dialogue: 0,0:12:42.61,0:12:45.36,Gen_Main,Emma,0000,0000,0000,,Si cenaras con ella,\Nte arrastraría a un cuarto y…
+Dialogue: 0,0:12:45.53,0:12:47.03,Gen_Main,Noir,0000,0000,0000,,¿Y…?
+Dialogue: 0,0:12:47.20,0:12:49.12,Gen_Main,Emma,0000,0000,0000,,Te abriría las entrañas.
+Dialogue: 0,0:12:49.28,0:12:51.04,Gen_Main,Noir,0000,0000,0000,,¡No quiero!
+Dialogue: 0,0:12:52.37,0:12:54.13,Gen_Main,Emma,0000,0000,0000,,Mira, falta un trozo de pasto.
+Dialogue: 0,0:12:54.29,0:12:57.35,Gen_Main,Emma,0000,0000,0000,,¿Se lo habrá comido\Nel Gran conejo que buscamos?
+Dialogue: 0,0:12:58.59,0:12:59.52,Gen_Main,Noir,0000,0000,0000,,Sí…
+Dialogue: 0,0:12:59.67,0:13:03.28,Gen_Main,Noir,0000,0000,0000,,Parece ser que esos conejos\Nestán alterando el ecosistema.
+Dialogue: 0,0:13:03.80,0:13:06.55,Gen_Main,Noir,0000,0000,0000,,Conseguiremos 50,000 rels\Nsi acabamos con ellos.
+Dialogue: 0,0:13:08.22,0:13:09.32,Gen_Main,Noir,0000,0000,0000,,¿Goblins?
+Dialogue: 0,0:13:09.81,0:13:11.04,Gen_Main,Noir,0000,0000,0000,,¿De qué nivel son?
+Dialogue: 0,0:13:11.81,0:13:14.43,Cart_Ventana,Sign,0000,0000,0000,,{\an4\fs28\move(294,98,221,150)\t(\fs21)}Goblin
+Dialogue: 0,0:13:12.02,0:13:14.43,Gen_Italics,Noir,0000,0000,0000,,Del mismo nivel que Emma. En ese caso…
+Dialogue: 0,0:13:14.60,0:13:16.20,Gen_Main,Noir,0000,0000,0000,,¡Emma, hay que pelear!
+Dialogue: 0,0:13:16.35,0:13:18.42,Gen_Main,Emma,0000,0000,0000,,¡Sí, yo el de la derecha!
+Dialogue: 0,0:13:18.69,0:13:20.90,Cart_Ventana,Sign,0000,0000,0000,,{\fs20\pos(114,182)}Goblin  {\fs18}Nvl.{\fs30}17
+Dialogue: 0,0:13:18.69,0:13:20.90,Cart_Descripciones,Sign,0000,0000,0000,,{\an5\fs22\pos(123,245)}Sexo: {\fs24}Macho
+Dialogue: 0,0:13:19.02,0:13:20.35,Gen_Italics,Noir,0000,0000,0000,,Es macho.
+Dialogue: 0,0:13:21.57,0:13:23.03,Gen_Italics,Noir,0000,0000,0000,,¡Usaré Bala de piedra!
+Dialogue: 0,0:13:26.36,0:13:28.65,Gen_Italics,Noir,0000,0000,0000,,Como hombre, comprendo tu dolor.
+Dialogue: 0,0:13:28.82,0:13:29.83,Gen_Italics,Noir,0000,0000,0000,,¡Perdón!
+Dialogue: 0,0:13:30.70,0:13:32.49,Gen_Italics,Noir,0000,0000,0000,,Bien, ahora ayudaré a Emma.
+Dialogue: 0,0:13:33.54,0:13:34.93,Gen_Main,Emma,0000,0000,0000,,¡Noir, mira!
+Dialogue: 0,0:13:46.09,0:13:48.81,Gen_Main,Noir,0000,0000,0000,,¡Un Gran conejo!
+Dialogue: 0,0:13:51.26,0:13:53.89,Cart_Ventana,Sign,0000,0000,0000,,{\fad(362,1)\an2\fs26\pos(105,223)}Gran conejo
+Dialogue: 0,0:13:52.43,0:13:53.89,Gen_Italics,Noir,0000,0000,0000,,Es de nivel 24.
+Dialogue: 0,0:13:54.06,0:13:55.86,Gen_Main,Noir,0000,0000,0000,,¡Retrocede, Emma!
+Dialogue: 0,0:13:56.02,0:13:59.03,Gen_Main,Emma,0000,0000,0000,,No te metas. Lo venceré yo sola.
+Dialogue: 0,0:13:59.19,0:14:00.40,Gen_Main,Noir,0000,0000,0000,,¿Eh? ¿Por qué?
+Dialogue: 0,0:14:00.98,0:14:02.28,Gen_Main,Emma,0000,0000,0000,,Porque…
+Dialogue: 0,0:14:02.44,0:14:06.64,Gen_Main,Emma,0000,0000,0000,,si vuelves a lucirte en esta misión,\N¡esa tipa volverá a coquetear contigo!
+Dialogue: 0,0:14:10.87,0:14:12.66,Gen_Italics,Noir,0000,0000,0000,,¡Es veloz a pesar de su tamaño!
+Dialogue: 0,0:14:12.83,0:14:15.41,Gen_Italics,Noir,0000,0000,0000,,Pero Emma es mucho más rápida.
+Dialogue: 0,0:14:18.62,0:14:19.73,Gen_Italics,Noir,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:20.50,0:14:22.80,Gen_Italics,Noir,0000,0000,0000,,Parece una mariposa revoloteando.
+Dialogue: 0,0:14:24.34,0:14:25.67,Gen_Main,Emma,0000,0000,0000,,Demasiado lento.
+Dialogue: 0,0:14:27.22,0:14:29.96,Gen_Main,Emma,0000,0000,0000,,¡Bien, aquí voy!
+Dialogue: 0,0:14:30.68,0:14:32.12,Gen_Main,Emma,0000,0000,0000,,¡Golpe de viento!
+Dialogue: 0,0:14:33.68,0:14:35.60,Gen_Italics,Noir,0000,0000,0000,,¡Increíble!
+Dialogue: 0,0:14:40.98,0:14:42.39,Gen_Main,Emma,0000,0000,0000,,¡De nuevo!
+Dialogue: 0,0:14:49.24,0:14:50.51,Gen_Main,Noir,0000,0000,0000,,¡¿Saltó?!
+Dialogue: 0,0:15:08.17,0:15:10.51,Gen_Main,Noir,0000,0000,0000,,Justo a tiempo…
+Dialogue: 0,0:15:14.64,0:15:17.14,Gen_Main,Noir,0000,0000,0000,,¡Emma! ¡Por aquí!
+Dialogue: 0,0:15:20.77,0:15:23.95,Gen_Main,Noir,0000,0000,0000,,Repongámonos aquí.
+Dialogue: 0,0:15:24.73,0:15:26.98,Gen_Main,Noir,0000,0000,0000,,Seguro que pronto vendrá por nosotros.
+Dialogue: 0,0:15:27.30,0:15:29.62,Gen_Main,Noir,0000,0000,0000,,Si no descubrimos\Ncómo lidiar con esa cosa…
+Dialogue: 0,0:15:29.78,0:15:31.90,Gen_Main,Emma,0000,0000,0000,,¿Por qué no pude vencerlo?
+Dialogue: 0,0:15:32.07,0:15:33.78,Gen_Main,Emma,0000,0000,0000,,Le hice varios cortes.
+Dialogue: 0,0:15:33.95,0:15:37.79,Gen_Main,Noir,0000,0000,0000,,Puede que su piel sea demasiado gruesa\Ncomo para dañar sus puntos vitales.
+Dialogue: 0,0:15:37.95,0:15:41.24,Gen_Main,Emma,0000,0000,0000,,Soy demasiado débil…
+Dialogue: 0,0:15:42.17,0:15:43.32,Gen_Main,Noir,0000,0000,0000,,Emma…
+Dialogue: 0,0:15:43.75,0:15:45.80,Gen_Italics,Noir,0000,0000,0000,,Se siente muy mal al respecto.
+Dialogue: 0,0:15:45.96,0:15:48.13,Gen_Italics,Noir,0000,0000,0000,,¿No hay nada que pueda hacer?
+Dialogue: 0,0:15:49.21,0:15:58.68,Cart_Ventana,Sign,0000,0000,0000,,{\fad(655,1)\fs20\pos(478,35)}Emma Brightness  {\fs18}Nvl.{\fs30}17
+Dialogue: 0,0:15:49.21,0:15:58.68,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(655,1)\fs24\an4\4a&H88&\fscy115\pos(378,82)}Skills [{\fs20\fscx82\fscy150}Dagas Dobles (Grado C){\fscx100\fs24}]\N{\fscx100\fscy100\alpha&HFF&}Skills {\alpha}[Golpe de viento]
+Dialogue: 0,0:15:50.34,0:15:54.99,Gen_Italics,Noir,0000,0000,0000,,Muy bien, si creo y le otorgo\Nel grado B de Dagas dobles…
+Dialogue: 0,0:15:51.05,0:15:58.68,Cart_Ventana,Sign,0000,0000,0000,,{\fad(400,1)\q2\fscx100\fs25\pos(481,167)}Dagas Dobles (Grado B)
+Dialogue: 0,0:15:51.05,0:15:58.68,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(400,1)\fscx80\an7\pos(368,190)\fs20\fscy120}PV necesarios:                {\bord1\fnArial\b1}PV.{\fs34}300\N{\fs20\fn\b0\bord\1a&HFF&\3a&HFF&\4a&HFF&\t(2904,3320,1 \1a&H00&\3a&H00&\4a&H44&)}Otorgar a Emma               {\bord1\fnArial\b1}PV.{\fs34}400\N{\fs20\fn\b0\bord\1a&HFF&\3a&HFF&\4a&HFF&\t(3362,3403,1 \1a&H00&\3a&H00&\4a&H44&)}Uso total de PV                {\bord1\fnArial\b1}PV.{\fs34}700
+Dialogue: 0,0:15:51.05,0:15:58.68,Cart_A_Tre,Sign,0000,0000,0000,,{\fscx80\an7\bord1\fs20\fscy120\fnArial\pos(364,258)\shad0\1a&HFF&\3a&HFF&\4a&HFF&\t(2904,3320,1 \1a&H00&\3a&H00&\4a&H44&)}————————————————
+Dialogue: 0,0:15:56.35,0:15:58.68,Gen_Italics,Noir,0000,0000,0000,,¡Son muchos puntos!
+Dialogue: 0,0:15:58.68,0:16:02.02,Cart_Ventana,Sign,0000,0000,0000,,{\fad(1,310)\q2\an7\pos(260,12)\fs24}Dagas Dobles (Grado C)
+Dialogue: 0,0:15:58.68,0:16:02.02,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fad(1,310)\q2\4a&H44&\shad2\fscx80\pos(254,127)}Mejora mucho el uso de dos dagas a la vez
+Dialogue: 0,0:15:58.68,0:16:02.02,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fad(1,310)\q2\4a&H44&\shad2\pos(253,225)}Añadir [mucho] con Editar
+Dialogue: 0,0:15:58.85,0:16:02.50,Gen_Italics,Noir,0000,0000,0000,,Tal vez podría utilizar Editar\Npara ajustar la habilidad en sí…
+Dialogue: 0,0:16:02.06,0:16:07.69,Cart_Ventana,Sign,0000,0000,0000,,{\an4\c&HCEE1CB&\pos(266,22)}Resultados de edición
+Dialogue: 0,0:16:02.31,0:16:07.69,Cart_Ventana,Sign,0000,0000,0000,,{\an4\fad(360,1)\q2\an7\3c&H30251A&\4c&H30251A&\pos(246,85)}Dagas dobles(Grado B)
+Dialogue: 0,0:16:02.39,0:16:07.69,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fad(405,1)\q2\4a&H44&\shad2\pos(247,179)\fscx95}Mejora mucho el uso de dos dagas a la vez
+Dialogue: 0,0:16:02.52,0:16:07.69,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fad(358,1)\q2\4a&H44&\shad2\pos(392,230)}PV necesarios:
+Dialogue: 0,0:16:02.64,0:16:05.58,Gen_Italics,Sign,0000,0000,0000,,¡Eso es! ¡Cuesta menos puntos!
+Dialogue: 0,0:16:05.73,0:16:07.27,Gen_Italics,Sign,0000,0000,0000,,Aunque…
+Dialogue: 0,0:16:07.69,0:16:10.29,Gen_Italics,Noir,0000,0000,0000,,Solo me quedan 700 PV.
+Dialogue: 0,0:16:10.86,0:16:13.82,Gen_Italics,Noir,0000,0000,0000,,Si utilizara 500 ahora,\Nquedaría bastante justo.
+Dialogue: 0,0:16:16.20,0:16:17.97,Gen_Main,Noir,0000,0000,0000,,Oye…
+Dialogue: 0,0:16:19.16,0:16:22.53,Gen_Main,Noir,0000,0000,0000,,Tal vez pueda hacerte más fuerte.
+Dialogue: 0,0:16:22.71,0:16:23.99,Gen_Main,Noir,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:16:24.17,0:16:27.69,Gen_Main,Noir,0000,0000,0000,,Sí, pero necesitaría algo a cambio.
+Dialogue: 0,0:16:27.84,0:16:30.48,Gen_Main,Emma,0000,0000,0000,,¡Si con eso venzo al conejo,\Nharé lo que sea!
+Dialogue: 0,0:16:30.65,0:16:31.67,Gen_Main,Noir,0000,0000,0000,,Entonces…
+Dialogue: 0,0:16:32.17,0:16:33.98,Gen_Main,Noir,0000,0000,0000,,¿Puedo mordisquearte la oreja?
+Dialogue: 0,0:16:35.34,0:16:38.17,Gen_Main,Noir,0000,0000,0000,,Prometo que no lo haré muy fuerte…
+Dialogue: 0,0:16:38.35,0:16:39.68,Gen_Main,Noir,0000,0000,0000,,¿No se puede?
+Dialogue: 0,0:16:42.85,0:16:47.01,Gen_Main,Emma,0000,0000,0000,,De acuerdo, puedes hacer lo que quieras.
+Dialogue: 0,0:16:47.56,0:16:48.65,Gen_Main,Noir,0000,0000,0000,,Emma…
+Dialogue: 0,0:16:52.86,0:16:54.57,Gen_Main,Emma,0000,0000,0000,,¡No te contengas!
+Dialogue: 0,0:16:54.74,0:16:56.03,Gen_Main,Noir,0000,0000,0000,,¡Aquí voy!
+Dialogue: 0,0:17:02.25,0:17:05.83,Gen_Italics,Noir,0000,0000,0000,,Vaya, no sabía\Nque las orejas fueran tan suaves.
+Dialogue: 0,0:17:16.38,0:17:18.93,Gen_Main,Emma,0000,0000,0000,,Noir, ¿todavía no?
+Dialogue: 0,0:17:19.10,0:17:21.38,Gen_Italics,Noir,0000,0000,0000,,¿Serán su punto débil?
+Dialogue: 0,0:17:21.81,0:17:23.32,Gen_Italics,Noir,0000,0000,0000,,La conozco desde la infancia,
+Dialogue: 0,0:17:23.48,0:17:25.94,Gen_Italics,Noir,0000,0000,0000,,pero aún hay mucho que no sé sobre ella.
+Dialogue: 0,0:17:33.82,0:17:36.30,Gen_Main,Emma,0000,0000,0000,,No…
+Dialogue: 0,0:17:43.87,0:17:45.29,Gen_Italics,Noir,0000,0000,0000,,¡Nos encontró!
+Dialogue: 0,0:17:47.04,0:17:49.63,Gen_Italics,Noir,0000,0000,0000,,Deprisa… ¡Deprisa!
+Dialogue: 0,0:17:49.79,0:17:51.17,Gen_Italics,Noir,0000,0000,0000,,¡Necesito esos PV!
+Dialogue: 0,0:17:58.26,0:18:01.51,Cart_Ventana,Sign,0000,0000,0000,,{\an4\fad(442,1)\an7\3c&H262317&\pos(51,43)}Noir Stardia
+Dialogue: 0,0:17:59.76,0:18:01.20,Gen_Italics,Noir,0000,0000,0000,,¡Los tengo!
+Dialogue: 0,0:18:02.06,0:18:03.47,Gen_Italics,Noir,0000,0000,0000,,Ahora su habilidad…
+Dialogue: 0,0:18:21.87,0:18:23.51,Gen_Main,Noir,0000,0000,0000,,Bala de piedra 100.
+Dialogue: 0,0:18:23.66,0:18:26.16,Gen_Main,Noir,0000,0000,0000,,Hay que saber usar las habilidades.
+Dialogue: 0,0:18:26.54,0:18:27.66,Gen_Main,Emma,0000,0000,0000,,¡Noir!
+Dialogue: 0,0:18:29.33,0:18:31.28,Gen_Italics,Noir,0000,0000,0000,,¡Editaré la habilidad de Emma!
+Dialogue: 0,0:18:30.13,0:18:31.67,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fs24\an4\4a&H88&\fscy115\pos(44,257.333)}Habilidades [{\fs20\fscx70\fscy150}[Dagas dobles (Grado C)]{\fscx100\fs24}]\N{\fscx100\fscy100\alpha&HFF&}Habilidades {\alpha}[Golpe de viento]
+Dialogue: 0,0:18:30.13,0:18:34.13,Cart_Ventana,Sign,0000,0000,0000,,{\an4\fs25\pos(43,218)}Emma Brightness
+Dialogue: 0,0:18:31.67,0:18:34.13,Cart_Descripciones,Sign,0000,0000,0000,,{\an4\fs24\an4\shad2\4a&H66&\fscy115\pos(44,257.333)}Habilidades [{\fs20\fscx70\fscy150}[Dagas dobles(Grado B)]{\fscx100\fs24}]\N{\fscx100\fscy100\1a&HFF&\3a&HFF&\4a&HFF&}Habilidades {\1a&H00&\4a&H66&\3a&H66&}[Golpe de viento]
+Dialogue: 0,0:18:59.95,0:19:00.92,Gen_Main,Emma,0000,0000,0000,,¿Me viste?
+Dialogue: 0,0:19:01.07,0:19:05.41,Gen_Main,Noir,0000,0000,0000,,Sí, pero no es la primera vez\Nque lo hago.
+Dialogue: 0,0:19:06.12,0:19:10.42,Gen_Main,Emma,0000,0000,0000,,Está bien. Puedes seguir viendo,\Npero solo por hoy.
+Dialogue: 0,0:19:12.42,0:19:15.50,Gen_Main,Emma,0000,0000,0000,,Como agradecimiento\Npor haberme hecho más fuerte.
+Dialogue: 0,0:19:29.56,0:19:32.91,Gen_Main,Lola,0000,0000,0000,,En efecto, esto prueba\Nque completaron la misión.
+Dialogue: 0,0:19:33.06,0:19:35.17,Gen_Main,Lola,0000,0000,0000,,¿De verdad lo hicieron sin ayuda?
+Dialogue: 0,0:19:35.32,0:19:38.15,Gen_Main,Noir,0000,0000,0000,,Sí, Emma venció\Nal Conejo gigante ella sola.
+Dialogue: 0,0:19:39.69,0:19:41.00,Gen_Main,Emma,0000,0000,0000,,Lola.
+Dialogue: 0,0:19:42.16,0:19:44.43,Gen_Main,Emma,0000,0000,0000,,Te doy las gracias.
+Dialogue: 0,0:19:44.57,0:19:48.16,Gen_Main,Emma,0000,0000,0000,,Confío más en mí misma\Ngracias a esta misión.
+Dialogue: 0,0:19:48.33,0:19:51.95,Gen_Main,Lola,0000,0000,0000,,No… Yo te pido perdón\Npor haber sido tan grosera.
+Dialogue: 0,0:19:52.62,0:19:55.59,Gen_Main,Lola,0000,0000,0000,,Felicidades por completar la misión.
+Dialogue: 0,0:19:55.92,0:20:00.59,Gen_Main,Noir,0000,0000,0000,,A todo esto, dicen que la carne\Nde Conejo gigante es deliciosa.
+Dialogue: 0,0:20:00.76,0:20:04.09,Gen_Main,Lola,0000,0000,0000,,Sí, su carne no suele\Nencontrarse en mercados.
+Dialogue: 0,0:20:04.26,0:20:07.11,Gen_Main,Lola,0000,0000,0000,,Los aventureros se los comen\Nen cuanto los vencen.
+Dialogue: 0,0:20:07.26,0:20:09.92,Gen_Main,Noir,0000,0000,0000,,Creé una habilidad\Nllamada Bolsillo dimensional
+Dialogue: 0,0:20:10.10,0:20:12.34,Gen_Main,Noir,0000,0000,0000,,que me permite guardar cosas\Nen otra dimensión.
+Dialogue: 0,0:20:14.73,0:20:17.26,Gen_Main,Noir,0000,0000,0000,,Compartámoslo y comamos todos juntos.
+Dialogue: 0,0:20:17.44,0:20:19.57,Gen_Main,Adventurer 7,0000,0000,0000,,-¡Vaya!\N-¡Increíble!
+Dialogue: 0,0:20:20.03,0:20:23.57,Gen_Main,Lola,0000,0000,0000,,Además de bueno en el trabajo,\Neres muy considerado…
+Dialogue: 0,0:20:23.74,0:20:25.09,Gen_Main,Lola,0000,0000,0000,,Eres maravilloso.
+Dialogue: 0,0:20:26.91,0:20:28.64,Gen_Main,Emma,0000,0000,0000,,¡Eres el mejor, Noir!
+Dialogue: 0,0:20:36.13,0:20:38.09,Gen_Main,Adventurer 9,0000,0000,0000,,¡Qué bien huele!
+Dialogue: 0,0:20:40.09,0:20:42.28,Gen_Main,Noir,0000,0000,0000,,¡Y hay mucho más!
+Dialogue: 0,0:20:43.30,0:20:45.88,Gen_Main,Adventurer 10,0000,0000,0000,,-¡Qué rico!\N-¡Es maravilloso!
+Dialogue: 0,0:20:48.01,0:20:50.57,Gen_Main,Emma,0000,0000,0000,,¡Mi carne!
+Dialogue: 0,0:20:51.06,0:20:55.10,Cart_C_Tim,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\c&H4F5856&\bord4\shad0\fs30\an4\fscy130\pos(352,269)}Las barbacoas\N\h\h\h\h\h\h\h\h\h\h\h\hson una guerra.\N{\fs20}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEmma Brightness
+Dialogue: 0,0:20:51.14,0:20:55.10,Gen_Italics,Emma,0000,0000,0000,,"Las barbacoas son una guerra",\NEmma Brightness.
+Dialogue: 0,0:20:55.27,0:20:57.47,Gen_Main,Adventurer 1,0000,0000,0000,,Vamos, come.
+Dialogue: 0,0:20:59.36,0:21:01.61,Cart_Ventana,Sign,0000,0000,0000,,{\an4\fad(356,1)\pos(47,219)}Noir Stardia
+Dialogue: 0,0:21:01.78,0:21:04.61,Gen_Main,Lola,0000,0000,0000,,Noir, aquí está\Nla recompensa de la misión.
+Dialogue: 0,0:21:04.78,0:21:06.91,Gen_Main,Noir,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:21:07.07,0:21:09.37,Gen_Main,Lola,0000,0000,0000,,Parece que ya podrás pagar tu matrícula.
+Dialogue: 0,0:21:09.53,0:21:11.93,Gen_Main,Lola,0000,0000,0000,,Felicidades por tu nuevo ingreso.
+Dialogue: 0,0:21:12.08,0:21:15.12,Gen_Main,Adventurers,0000,0000,0000,,¡Felicidades!
+Dialogue: 0,0:21:17.13,0:21:19.32,Gen_Main,Adventurer 12,0000,0000,0000,,¡Suerte en la academia de héroes!
+Dialogue: 0,0:21:19.79,0:21:21.47,Gen_Main,Adventurer 13,0000,0000,0000,,¡Felicidades por tu ingreso!
+Dialogue: 0,0:21:21.63,0:21:23.11,Gen_Main,Adventurer 14,0000,0000,0000,,¡Salud! ¡Felicidades!
+Dialogue: 0,0:21:23.26,0:21:26.62,Gen_Italics,Noir,0000,0000,0000,,¿Eh? ¿Qué es esto?
+Dialogue: 0,0:21:26.80,0:21:29.87,Gen_Italics,Noir,0000,0000,0000,,Parece un sueño… ¿Cómo llegué a esto?
+Dialogue: 0,0:21:30.01,0:21:32.39,Gen_Main,Adventurer 15,0000,0000,0000,,¡Salud por los aventureros de Odín!
+Dialogue: 0,0:21:32.56,0:21:34.18,Gen_Main,Adventurer 16,0000,0000,0000,,¡Llámanos si necesitas ayuda!
+Dialogue: 0,0:21:34.35,0:21:36.64,Gen_Main,Adventurer 17,0000,0000,0000,,¡Deberías unirte a mi grupo\Nun día de estos!
+Dialogue: 0,0:21:36.81,0:21:39.08,Gen_Italics,Noir,0000,0000,0000,,¿Qué me hizo cambiar?
+Dialogue: 0,0:21:39.23,0:21:41.39,Gen_Italics,Noir,0000,0000,0000,,¿Cómo me hice más fuerte?
+Dialogue: 0,0:21:41.57,0:21:44.21,Gen_Italics,Noir,0000,0000,0000,,¿A quién le debo todo esto?
+Dialogue: 0,0:21:48.95,0:21:51.68,Gen_Italics,Noir,0000,0000,0000,,Ya veo…
+Dialogue: 0,0:21:51.83,0:21:53.41,Gen_Italics,Noir,0000,0000,0000,,Todo esto…
+Dialogue: 0,0:21:54.08,0:21:57.08,Gen_Main,Emma,0000,0000,0000,,Noir, todos esperan unas palabras tuyas.
+Dialogue: 0,0:21:57.25,0:21:58.40,Gen_Main,Noir,0000,0000,0000,,Claro.
+Dialogue: 0,0:22:08.72,0:22:11.69,Gen_Main,Noir,0000,0000,0000,,¡Chicos, muchísimas gracias!
+Dialogue: 0,0:22:22.69,0:22:25.75,Gen_Italics,Noir,0000,0000,0000,,Todo es gracias a ti, maestra.
+Dialogue: 0,0:22:26.82,0:22:29.32,Gen_Italics,Noir,0000,0000,0000,,Iré a verte de nuevo…
+Dialogue: 0,0:22:29.49,0:22:30.84,Gen_Italics,Noir,0000,0000,0000,,Muy pronto.
+Dialogue: 0,0:22:37.00,0:22:38.69,Gen_Italics,Olivia,0000,0000,0000,,No…
+Dialogue: 0,0:22:39.62,0:22:43.90,Gen_Italics,Olivia,0000,0000,0000,,¡Ven ahora mismo!
+Dialogue: 0,0:24:18.26,0:24:21.93,Cart_TitleNext,Sign,0000,0000,0000,,{\blur1\fad(647,1)\pos(40,288)}#03 {\fscx90}Compañera afligida"
+Dialogue: 0,0:24:18.43,0:24:20.93,Gen_Main,Emma,0000,0000,0000,,Próximamente: "Compañera afligida".
+Dialogue: 0,0:24:20.93,0:24:22.93,Gen_Main,,0000,0000,0000,,
+Dialogue: 0,0:24:21.93,0:24:26.94,Cart_C_Tre,Sign,0000,0000,0000,,{\an1\c&H93AC90&\4c&HB5C7AF&\blur1\fs18\pos(51,312)}Ilustración: Tetsubuta
+Dialogue: 0,0:24:22.93,0:24:24.93,Gen_Main,,0000,0000,0000,,

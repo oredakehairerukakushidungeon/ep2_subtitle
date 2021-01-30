@@ -1,0 +1,415 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Narration - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Times New Roman,30,&H00FCFFF8,&H000000FF,&H00000000,&H00855143,-1,0,0,0,100,100,0,0,1,0,2,8,0020,0020,0020,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00216DDF,&H00692496,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: Next_Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,2,0,1,0040,0010,0055,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: Illustration,Trebuchet MS,20,&H00E166E7,&H000000FF,&H00FFFFFF,&H00D683DB,0,0,0,0,100,100,0,0,1,1,1,3,0036,0040,0045,1
+Style: sign_3576_25_Aristocratic_Soc,Times New Roman,34,&H0059A7BA,&H000000FF,&H00FFFFFF,&H00376179,-1,0,0,0,100,100,0,0,1,2,3,8,0158,0158,0080,1
+Style: sign_3704_34_Baron,Arial,16,&H00131D2B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0132,0455,0263,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: sign_7206_94_Q__What_s_tomorr,Comic Sans MS,24,&H00DD7E60,&H000000FF,&H00C0705B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0010,0390,0000,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+Style: Text_Box_Header,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,1,1,0203,0213,0075,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.44,0:00:08.52,Main,Alice,0000,0000,0000,,Fratellone!
+Dialogue: 0,0:00:12.33,0:00:15.07,Main,Noir,0000,0000,0000,,Certo che ti piace proprio starmi appiccicata, Alice.
+Dialogue: 0,0:00:16.57,0:00:20.37,Main,Alice,0000,0000,0000,,Volevo anch'io un po' della tua fortuna!
+Dialogue: 0,0:00:20.83,0:00:23.75,Main,Alice,0000,0000,0000,,Sei stato accettato \Nall'Accademia degli Eroi, dopotutto!
+Dialogue: 0,0:00:23.75,0:00:25.30,Main,Noir,0000,0000,0000,,G-Giusto...
+Dialogue: 0,0:00:25.30,0:00:27.78,Main,Alice,0000,0000,0000,,In pratica adesso sei tu il capofamiglia!
+Dialogue: 0,0:00:28.24,0:00:31.24,Main,Father,0000,0000,0000,,Alice, ti prego di smetterla! La mia dignità!
+Dialogue: 0,0:00:31.24,0:00:32.88,Main,Noir,0000,0000,0000,,P-Padre!
+Dialogue: 0,0:00:32.88,0:00:35.27,Main,Noir,0000,0000,0000,,Devo parlarti, riguarda l'Accademia degli Eroi.
+Dialogue: 0,0:00:35.27,0:00:38.39,Main,Noir,0000,0000,0000,,Ecco, la tassa d'iscrizione è...
+Dialogue: 0,0:00:38.39,0:00:40.27,Main,Father,0000,0000,0000,,Tassa d'iscrizione?
+Dialogue: 0,0:00:40.85,0:00:44.85,Main,Father,0000,0000,0000,,Ho un po' di soldi da parte. Quant'è?
+Dialogue: 0,0:00:45.52,0:00:47.10,Main,Noir,0000,0000,0000,,300.000 rel.
+Dialogue: 0,0:00:47.10,0:00:48.32,Main,Father,0000,0000,0000,,300...
+Dialogue: 0,0:00:48.32,0:00:50.03,Main,Noir,0000,0000,0000,,Entro una settimana.
+Dialogue: 0,0:00:50.03,0:00:52.03,Main,Father,0000,0000,0000,,Una settimana...
+Dialogue: 0,0:00:52.03,0:00:54.26,Main,Father,0000,0000,0000,,Entro un anno potrebbe andare lo stesso?
+Dialogue: 0,0:00:54.26,0:00:56.94,Main,Noir,0000,0000,0000,,Ho capito, li guadagnerò da solo.
+Dialogue: 0,0:00:56.94,0:01:00.42,Main,Father,0000,0000,0000,,Mi dispiace! Mi dispiace così tanto!
+Dialogue: 0,0:01:01.55,0:01:04.04,Main,Alice,0000,0000,0000,,Il mio povero, sfortunato fratellone...
+Dialogue: 0,0:01:06.29,0:01:09.39,Italics,Olivia,0000,0000,0000,,300.000 rel per iscriverti all'Accademia, eh?
+Dialogue: 0,0:01:09.39,0:01:13.17,Italics,Olivia,0000,0000,0000,,Non dev'essere facile per un nobile pezzente come te.
+Dialogue: 0,0:01:13.17,0:01:17.47,Main,Noir,0000,0000,0000,,Non credo fosse necessario essere così diretta, ma sì.
+Dialogue: 0,0:01:17.47,0:01:22.59,Italics,Olivia,0000,0000,0000,,E allora perché non fai fuori qualche mostro raro \Nqui nel dungeon per rivendere i materiali?
+Dialogue: 0,0:01:22.59,0:01:25.03,Main,Noir,0000,0000,0000,,Preferirei non attirare troppa attenzione.
+Dialogue: 0,0:01:25.03,0:01:27.19,Main,Noir,0000,0000,0000,,Specialmente dopo l'esame d'ingresso.
+Dialogue: 0,0:01:28.26,0:01:32.83,Flashback,Noir,0000,0000,0000,,Potresti dire che sei stata tu\N a sconfiggere il Mietitore?
+Dialogue: 0,0:01:32.83,0:01:34.11,Flashback,Lenore,0000,0000,0000,,Eh?
+Dialogue: 0,0:01:34.11,0:01:37.48,Flashback,Noir,0000,0000,0000,,Risulterebbe più facile credere che \Nl'abbia sconfitto la figlia di un conte
+Dialogue: 0,0:01:37.48,0:01:39.14,Flashback,Noir,0000,0000,0000,,piuttosto che il figlio di un baronetto.
+Dialogue: 0,0:01:39.61,0:01:43.45,Flashback,Lenore,0000,0000,0000,,Molto bene. Dirò che l'ho sconfitto io.
+Dialogue: 0,0:01:44.00,0:01:45.37,Flashback,Noir,0000,0000,0000,,Te ne sono grato.
+Dialogue: 0,0:01:45.96,0:01:50.84,Main,Noir,0000,0000,0000,,Alla fine ho dovuto cedere il merito \Nalla mia vanitosa compagna di classe.
+Dialogue: 0,0:01:50.84,0:01:54.22,Italics,Olivia,0000,0000,0000,,Allora suppongo ci sia un unico modo.
+Dialogue: 0,0:01:56.36,0:01:59.34,Italics,Olivia,0000,0000,0000,,Devi lavorare alla Gilda degli Avventurieri.
+Dialogue: 0,0:02:00.09,0:02:01.98,Main,Noir,0000,0000,0000,,S-Salve...
+Dialogue: 0,0:02:02.59,0:02:04.10,Main,Guild Master,0000,0000,0000,,Ah?
+Dialogue: 0,0:02:09.67,0:02:14.35,Main,Lola,0000,0000,0000,,Capo, non intimidire il novellino.
+Dialogue: 0,0:02:17.28,0:02:20.24,Main,Lola,0000,0000,0000,,Io sono l'addetta alla reception, Lola.
+Dialogue: 0,0:02:25.07,0:02:28.13,Main,Lola,0000,0000,0000,,È la tua prima volta alla Gilda degli Avventurieri?
+Dialogue: 0,0:04:01.42,0:04:07.51,Ep_Title,Title,0000,0000,0000,,{\fad(530,555)\pos(40,310)\an1\fscx70\blur2}"La gilda e l'addetta alla reception"
+Dialogue: 0,0:04:03.60,0:04:07.79,Main Top,Lola,0000,0000,0000,,Per prima cosa, permettimi di spiegarti \Nil semplicissimo sistema che adottiamo qui.
+Dialogue: 0,0:04:07.79,0:04:09.76,Main,Noir,0000,0000,0000,,M-Ma certo.
+Dialogue: 0,0:04:10.15,0:04:14.81,Main,Lola,0000,0000,0000,,Ci sono molti avventurieri di spicco \Nche fanno parte di Odin.
+Dialogue: 0,0:04:15.14,0:04:18.07,Main,Lola,0000,0000,0000,,Abbiamo avventurieri che raccolgono piante,
+Dialogue: 0,0:04:18.07,0:04:24.07,Main,Lola,0000,0000,0000,,che eliminano mostri, che esplorano dungeon \Ne che si occupano di molte altre missioni.
+Dialogue: 0,0:04:24.07,0:04:27.12,Main,Lola,0000,0000,0000,,A ogni avventuriero viene assegnato un grado,
+Dialogue: 0,0:04:26.70,0:04:35.33,Main,Sign,0000,0000,0000,,{\fnImpact\b1\fsp4\c&HEAEFEB&\3c&H2A1E14&\4c&HF6EEEB&\frz20.82\pos(114,195)}Capogilda
+Dialogue: 0,0:04:26.70,0:04:35.33,Main,Sign,0000,0000,0000,,{\fnImpact\b1\fsp4\c&HEFEDEB&\3c&H271B0A&\4c&HF6EEEB&\pos(504,172)}Novellino
+Dialogue: 0,0:04:27.12,0:04:30.36,Main,Lola,0000,0000,0000,,che determina le missioni che può accettare\Ne la ricompensa che riceverà alla fine.
+Dialogue: 0,0:04:30.99,0:04:35.33,Main,Lola,0000,0000,0000,,Ovviamente, chi mostra risultati costanti \Npuò salire di grado.
+Dialogue: 0,0:04:35.83,0:04:41.17,Main,Lola,0000,0000,0000,,Per poterti unire alla gilda, \Ndevi prima registrarti.
+Dialogue: 0,0:04:41.17,0:04:44.22,Main,Noir,0000,0000,0000,,Oh, ma certo. Non c'è problema.
+Dialogue: 0,0:04:45.02,0:04:49.35,Main,Lola,0000,0000,0000,,Per prima cosa, devo sapere \Nquali abilità possiedi attualmente.
+Dialogue: 0,0:04:49.35,0:04:51.45,Main,Noir,0000,0000,0000,,Le mie abilità?
+Dialogue: 0,0:04:51.81,0:04:53.35,Main,Lola,0000,0000,0000,,Non aver paura.
+Dialogue: 0,0:04:53.35,0:04:57.35,Main,Lola,0000,0000,0000,,Sono informazioni riservate, \Naccessibili solo alla gilda.
+Dialogue: 0,0:04:58.72,0:05:00.86,Italics,Noir,0000,0000,0000,,Che buon profumo...
+Dialogue: 0,0:05:02.15,0:05:03.70,Main,Noir,0000,0000,0000,,Le ho scritte tutte.
+Dialogue: 0,0:05:05.07,0:05:07.59,Main,Lola,0000,0000,0000,,Ehm, Noir.
+Dialogue: 0,0:05:07.59,0:05:08.82,Main,Noir,0000,0000,0000,,S-Sì?
+Dialogue: 0,0:05:08.82,0:05:11.20,Main,Lola,0000,0000,0000,,Se evitassi di scherzare lo apprezzerei molto.
+Dialogue: 0,0:05:11.20,0:05:13.33,Main,Lola,0000,0000,0000,,Non abbiamo una scorta infinita di carta.
+Dialogue: 0,0:05:13.33,0:05:16.16,Main,Noir,0000,0000,0000,,Oh, in effetti...
+Dialogue: 0,0:05:16.16,0:05:19.11,Main,Noir,0000,0000,0000,,immagino che Creazione e Modifica\N suonino piuttosto strane.
+Dialogue: 0,0:05:19.11,0:05:21.80,Main,Lola,0000,0000,0000,,Non è questo, conosco quelle abilità.
+Dialogue: 0,0:05:21.80,0:05:23.09,Main,Lola,0000,0000,0000,,Dato che...
+Dialogue: 0,0:05:23.60,0:05:28.57,Main,Lola,0000,0000,0000,,questa è Odin. \NLa gilda di cui faceva parte Olivia Servant.
+Dialogue: 0,0:05:28.57,0:05:30.47,Main,Noir,0000,0000,0000,,Eh?! La Maestra era in questa gilda?
+Dialogue: 0,0:05:31.70,0:05:33.09,Main,Lola,0000,0000,0000,,Maestra?
+Dialogue: 0,0:05:33.09,0:05:35.28,Italics,Noir,0000,0000,0000,,Merda! Me lo sono lasciato sfuggire.
+Dialogue: 0,0:05:35.28,0:05:38.48,Main,Lola,0000,0000,0000,,Di tanto in tanto, capitano persone come te,
+Dialogue: 0,0:05:38.48,0:05:42.02,Main,Lola,0000,0000,0000,,che si dichiarano successori di Olivia.
+Dialogue: 0,0:05:42.02,0:05:43.19,Main,Lola,0000,0000,0000,,In tal caso...
+Dialogue: 0,0:05:44.91,0:05:47.20,Main,Lola,0000,0000,0000,,scopriamo la verità.
+Dialogue: 0,0:05:47.20,0:05:52.20,Main,Lola,0000,0000,0000,,Quando tocchi questo Tomo Perspicace,\Nappaiono per iscritto le tue abilità.
+Dialogue: 0,0:05:52.20,0:05:53.38,Main,Lola,0000,0000,0000,,Beh? Che farai adesso?
+Dialogue: 0,0:05:53.38,0:05:56.22,Main,Lola,0000,0000,0000,,Hai ancora la possibilità di rimangiarti\N ciò che hai detto.
+Dialogue: 0,0:05:56.22,0:05:58.26,Main,Noir,0000,0000,0000,,Oh, no. Lo farò senza problemi.
+Dialogue: 0,0:05:58.26,0:05:59.21,Main,Lola,0000,0000,0000,,Eh?
+Dialogue: 0,0:05:59.21,0:06:02.21,Main,Noir,0000,0000,0000,,Ma che succede se si scopre che non sto mentendo?
+Dialogue: 0,0:06:03.21,0:06:05.21,Main,Lola,0000,0000,0000,,Vediamo...
+Dialogue: 0,0:06:05.21,0:06:12.72,Main,Lola,0000,0000,0000,,che ne dici se mi alzassi la gonna e dicessi \N"Sono terribilmente spiacente, nobile Noir"?
+Dialogue: 0,0:06:13.31,0:06:15.15,Main,Noir,0000,0000,0000,,Beh, in tal caso...
+Dialogue: 0,0:06:19.77,0:06:22.73,Main,Sign,0000,0000,0000,,{\fad(860,1)\pos(40,20)\an7\c&H878FA1&\3c&HF6FBFA&\shad0\fs16\b1}Noir Stardia\N16 anni\NLv. 33\NAbilità:\NGrande Saggio\NCreazione\NModifica\NConcessione\NConversione dei LP\NProiettile di Pietra\NOcchio Perspicace
+Dialogue: 0,0:06:23.90,0:06:26.03,Main,Lola,0000,0000,0000,,M-Ma allora tu sei davvero...
+Dialogue: 0,0:06:26.03,0:06:29.74,Main,Lola,0000,0000,0000,,il s-s-s-successore di Olivia?!
+Dialogue: 0,0:06:29.99,0:06:32.20,Main,Noir,0000,0000,0000,,Molto bene, che dovevi fare in questo caso?
+Dialogue: 0,0:06:33.31,0:06:36.21,Main,Noir,0000,0000,0000,,Dovevi dire "Nobile Noir, ti adoro"?
+Dialogue: 0,0:06:37.50,0:06:39.78,Main,Noir,0000,0000,0000,,Mentre ti alzavi la gonna.
+Dialogue: 0,0:06:44.03,0:06:46.67,Main,Lola,0000,0000,0000,,N-Nobile Noir...
+Dialogue: 0,0:06:49.59,0:06:54.22,Main,Lola,0000,0000,0000,,t-ti adoro...
+Dialogue: 0,0:06:54.22,0:06:57.10,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\an1\pos(64,62)\fs30\shad2\4a&H00&}Noir Stardia
+Dialogue: 0,0:06:59.43,0:07:02.42,Main,Lola,0000,0000,0000,,Allora, che missione preferiresti?
+Dialogue: 0,0:07:02.42,0:07:04.66,Main,Lola,0000,0000,0000,,Devi cominciare dal Grado E.
+Dialogue: 0,0:07:04.66,0:07:06.07,Italics,Noir,0000,0000,0000,,Beh, si è ripresa in un lampo.
+Dialogue: 0,0:07:06.07,0:07:10.07,Main,Noir,0000,0000,0000,,Ecco, dovrei guadagnare 300.000 rel in una settimana.
+Dialogue: 0,0:07:10.07,0:07:11.63,Main,Lola,0000,0000,0000,,Se è così...
+Dialogue: 0,0:07:13.55,0:07:16.15,Main,Lola,0000,0000,0000,,Che ne dici di catturare queste?
+Dialogue: 0,0:07:16.15,0:07:17.95,Main,Noir,0000,0000,0000,,Cavallette arcobaleno?
+Dialogue: 0,0:07:17.95,0:07:20.18,Main,Noir,0000,0000,0000,,Si sa dove vivono
+Dialogue: 0,0:07:20.18,0:07:23.08,Main,Noir,0000,0000,0000,,eppure sono insetti davvero rari \Nche appaiono di rado, giusto?
+Dialogue: 0,0:07:23.08,0:07:25.08,Main,Lola,0000,0000,0000,,Era una missione di Grado D,
+Dialogue: 0,0:07:25.08,0:07:27.87,Main,Lola,0000,0000,0000,,ma abbiamo iniziato ad accettare \Nanche persone di Grado E.
+Dialogue: 0,0:07:27.87,0:07:31.21,Main,Noir,0000,0000,0000,,Perché non siete riusciti a trovare nessuno \Nche volesse farla, suppongo...
+Dialogue: 0,0:07:31.21,0:07:33.78,Main,Lola,0000,0000,0000,,Esatto. Ma tu, Noir, hai un'utilissima abilità
+Dialogue: 0,0:07:33.78,0:07:35.30,Main,Lola,0000,0000,0000,,che dovrebbe aiutarti non poco.
+Dialogue: 0,0:07:35.86,0:07:38.10,Main,Noir,0000,0000,0000,,Oh, hai ragione.
+Dialogue: 0,0:07:38.10,0:07:42.56,Main,Lola,0000,0000,0000,,Buona fortuna, Noir. Mi aspetto grandi cose da te.
+Dialogue: 0,0:07:42.56,0:07:46.06,Main,Lola,0000,0000,0000,,Trovo molto attraenti gli uomini capaci.
+Dialogue: 0,0:07:46.06,0:07:49.67,Italics,Noir,0000,0000,0000,,È-È difficile credere che dubitasse di me \Nfino a poco fa...
+Dialogue: 0,0:07:54.38,0:07:57.20,Main,Noir,0000,0000,0000,,L'habitat delle cavallette\N dovrebbe essere nei paraggi.
+Dialogue: 0,0:07:57.20,0:08:01.11,Italics,Noir,0000,0000,0000,,Se uso l'abilità Grande Saggio, \Nche risponde a ogni domanda,
+Dialogue: 0,0:08:01.11,0:08:03.21,Italics,Noir,0000,0000,0000,,dovrei riuscire a trovarle all'istante.
+Dialogue: 0,0:08:04.43,0:08:08.71,Italics,Noir,0000,0000,0000,,Però per evitare il mal di testa \Nsono indispensabili i baci.
+Dialogue: 0,0:08:08.71,0:08:12.85,Italics,Noir,0000,0000,0000,,Momento. Potrei usare Creazione per inventare \Nl'abilità Immunità al Mal di Testa.
+Dialogue: 0,0:08:12.76,0:08:18.97,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(441,1)\pos(64,215)\an1\fscx80\shad1.5\4a&H00&}Immunità al Mal di Testa
+Dialogue: 0,0:08:12.76,0:08:18.97,Text_Box_Text,Sign,0000,0000,0000,,{\fad(481,1)\fscx72\pos(58,272)\4a&H44^}Necessari per Creazione
+Dialogue: 0,0:08:13.68,0:08:14.82,Italics,Noir,0000,0000,0000,,Ma sono tantissimi!
+Dialogue: 0,0:08:14.82,0:08:18.97,Italics,Noir,0000,0000,0000,,Però non posso mica dipendere sempre da Emma...
+Dialogue: 0,0:08:18.97,0:08:22.94,Text_Box_Body,,0000,0000,0000,,{\p1\fscx360\fscy580\bord4\blur1\an4\3c&H000000&\pos(476,170)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:08:18.97,0:08:22.94,Text_Box_Body,,0000,0000,0000,,{\p1\fscx360\fscy580\bord3\1a&HAA&\c&HAF8264&\an4\pos(476,170)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:08:18.97,0:08:22.94,Text_Box_Text,Sign,0000,0000,0000,,{\fs15\an4\4a&H88&\pos(337,112)\fscy115}Abilità {\fs16}[Grande Saggio]\N{\fs15\alpha&HFF&}Abilità {\fs16\alpha&H00&\4a&H88&}[Creazione] [Modifica] [Concessione]\N{\fs15\alpha&HFF&}Abilità {\fs16\alpha&H00&\4a&H88&}[Conversione dei LP] [Proiettile \N{\fs15\alpha&HFF&}Abilità {\fs16\alpha&H00&\4a&H88&}di Pietra][Occhio Perspicace]\N{\fs15\alpha&HFF&}Abilità {\fs16\alpha&H00&\4a&H88&}[Immunità al Mal di Testa]
+Dialogue: 0,0:08:18.97,0:08:22.94,Text_Box_Header,Sign,0000,0000,0000,,{\pos(346,62)}Noir Stardia  {\fs18}LP.{\fs30\t(862,1821,1 \alpha&HFF&)}700
+Dialogue: 0,0:08:18.97,0:08:22.94,Text_Box_Header,Sign,0000,0000,0000,,{\pos(346,62)\alpha&HFF&}Noir Stardia  {\fs18}LP.{\fs30\t(862,1821,1 \alpha&H00&)}400
+Dialogue: 0,0:08:21.10,0:08:22.96,Italics,Noir,0000,0000,0000,,Bene, così dovrebbe andare!
+Dialogue: 0,0:08:25.03,0:08:28.89,Italics,Noir,0000,0000,0000,,Grande Saggio, dove sono le cavallette arcobaleno?
+Dialogue: 0,0:08:30.44,0:08:35.95,Italics,Great Sage,0000,0000,0000,,La più vicina si trova a 310 metri a sud, \Ndietro un masso.
+Dialogue: 0,0:08:37.87,0:08:39.73,Main,Noir,0000,0000,0000,,Cavolo, fa male lo stesso.
+Dialogue: 0,0:08:39.73,0:08:42.87,Main,Noir,0000,0000,0000,,Però... non è insopportabile.
+Dialogue: 0,0:08:47.40,0:08:49.88,Italics,Noir,0000,0000,0000,,Bene, l'ho trovata piuttosto in fretta.
+Dialogue: 0,0:08:50.22,0:08:52.79,Italics,Noir,0000,0000,0000,,I mal di testa però non sono il massimo.
+Dialogue: 0,0:08:52.79,0:08:55.37,Italics,Noir,0000,0000,0000,,Sarebbe decisamente meglio se ci fosse Emma.
+Dialogue: 0,0:08:55.84,0:08:58.72,Main,Emma,0000,0000,0000,,Noir, sei un idiota!
+Dialogue: 0,0:09:01.47,0:09:04.93,Italics,Noir,0000,0000,0000,,Emma! Tempismo perfetto, come sempre!
+Dialogue: 0,0:09:05.48,0:09:07.66,Italics,Noir,0000,0000,0000,,E come sempre le tue tette sono...
+Dialogue: 0,0:09:09.91,0:09:12.33,Main,Emma,0000,0000,0000,,Noir, sei diventato un avventuriero?!
+Dialogue: 0,0:09:12.33,0:09:14.49,Main,Noir,0000,0000,0000,,C-Come hai fatto a scoprirlo?
+Dialogue: 0,0:09:14.49,0:09:16.93,Main,Emma,0000,0000,0000,,Sono andata a casa tua \Ne mi hanno detto che eri diretto alla gilda.
+Dialogue: 0,0:09:16.93,0:09:18.77,Main,Emma,0000,0000,0000,,Poi sono andata alla gilda e...
+Dialogue: 0,0:09:18.77,0:09:20.99,Main,Emma,0000,0000,0000,,Ma ora i dettagli non hanno importanza!
+Dialogue: 0,0:09:20.99,0:09:24.00,Main,Emma,0000,0000,0000,,Come hai potuto farlo senza prima parlarne con me?
+Dialogue: 0,0:09:24.00,0:09:28.01,Main,Noir,0000,0000,0000,,S-Scusami. \NHo pensato fosse troppo pericoloso per te.
+Dialogue: 0,0:09:28.01,0:09:31.84,Main,Emma,0000,0000,0000,,Ma insomma! \NNon ricordi la promessa che ci siamo fatti 6 anni fa?
+Dialogue: 0,0:09:32.35,0:09:34.72,Main,Noir,0000,0000,0000,,6 anni fa?
+Dialogue: 0,0:09:35.34,0:09:37.15,Main,Noir,0000,0000,0000,,Intendi quando stavamo giocando insieme
+Dialogue: 0,0:09:37.15,0:09:41.14,Main,Noir,0000,0000,0000,,e ho urlato "Staremo insieme per sempre \Nfinché morte non ci separi"?
+Dialogue: 0,0:09:41.14,0:09:44.29,Main,Emma,0000,0000,0000,,Già. Quindi cercherò quelle cavallette insieme a te!
+Dialogue: 0,0:09:46.05,0:09:48.07,Main,Emma,0000,0000,0000,,Devi usare Grande Saggio, non è così?
+Dialogue: 0,0:09:48.07,0:09:49.23,Main,Emma,0000,0000,0000,,Per cui, ecco...
+Dialogue: 0,0:09:49.23,0:09:53.04,Main,Noir,0000,0000,0000,,Oh, non sei più costretta a baciarmi. \NHo appreso Immunità al Mal di Testa.
+Dialogue: 0,0:09:53.04,0:09:54.10,Main,Emma,0000,0000,0000,,Eh?!
+Dialogue: 0,0:09:54.82,0:09:58.25,Main,Noir,0000,0000,0000,,P-Però, visto che in pratica è un saluto, \Npuoi darmene comunque uno quando ti va.
+Dialogue: 0,0:09:58.25,0:09:59.77,Main,Noir,0000,0000,0000,,E poi siamo amici da sempre.
+Dialogue: 0,0:09:59.77,0:10:03.01,Main,Noir,0000,0000,0000,,E nonostante l'immunità, \Nmi viene comunque un po' di mal di testa...
+Dialogue: 0,0:10:04.56,0:10:06.85,Main,Emma,0000,0000,0000,,S-Sul serio? Se è così...
+Dialogue: 0,0:10:06.85,0:10:08.00,Main,Noir,0000,0000,0000,,V-Va bene.
+Dialogue: 0,0:10:15.88,0:10:19.80,Italics,Noir,0000,0000,0000,,Anche se, in realtà, \Nquesto mal di testa è abbastanza gestibile.
+Dialogue: 0,0:10:27.48,0:10:29.39,Main,Lola,0000,0000,0000,,Scusate per l'attesa.
+Dialogue: 0,0:10:30.12,0:10:32.36,Main,Lola,0000,0000,0000,,Ecco i tuoi 250.000 rel.
+Dialogue: 0,0:10:32.36,0:10:34.95,Main,Noir,0000,0000,0000,,2-250.000?!
+Dialogue: 0,0:10:34.95,0:10:38.45,Main,Lola,0000,0000,0000,,Sì. Di questo passo, salirai di grado \Nin men che non si dica.
+Dialogue: 0,0:10:38.45,0:10:39.86,Main,Noir,0000,0000,0000,,G-Grande...
+Dialogue: 0,0:10:39.86,0:10:42.82,Main,Lola,0000,0000,0000,,Quindi sei capace e ti impegni molto.
+Dialogue: 0,0:10:42.82,0:10:45.74,Main,Lola,0000,0000,0000,,Un vero gentiluomo...
+Dialogue: 0,0:10:46.32,0:10:50.80,Main,Lola,0000,0000,0000,,E dato che sei un tale gentiluomo, \Navrei un'altra missione per te.
+Dialogue: 0,0:10:50.80,0:10:52.98,Main,Lola,0000,0000,0000,,Dovresti occuparti di alcuni mostri.
+Dialogue: 0,0:10:52.98,0:10:55.52,Main,Noir,0000,0000,0000,,G-Grazie mille.
+Dialogue: 0,0:10:55.52,0:10:59.47,Main,Lola,0000,0000,0000,,Sentiti libero di chiedermi qualsiasi cosa...
+Dialogue: 0,0:11:00.04,0:11:01.93,Main,Emma,0000,0000,0000,,Fermi un secondo!
+Dialogue: 0,0:11:03.85,0:11:07.77,Main,Emma,0000,0000,0000,,Diventerò anch'io un'avventuriera, \Ncosì potrò venire in missione con te, Noir.
+Dialogue: 0,0:11:07.77,0:11:09.73,Italics,Noir,0000,0000,0000,,Le tue tette...
+Dialogue: 0,0:11:09.73,0:11:11.40,Main,Lola,0000,0000,0000,,Tu? Un'avventuriera?
+Dialogue: 0,0:11:12.23,0:11:13.97,Main,Emma,0000,0000,0000,,Mi chiamo Emma Brightness.
+Dialogue: 0,0:11:13.97,0:11:15.98,Main,Emma,0000,0000,0000,,Noir e io siamo amici sin da piccoli.
+Dialogue: 0,0:11:23.26,0:11:26.38,Italics,Noir,0000,0000,0000,,C-Cavolo...
+Dialogue: 0,0:11:28.98,0:11:31.36,Main,Lola,0000,0000,0000,,The Hidden Dungeon Only I Can Enter.
+Dialogue: 0,0:11:35.83,0:11:38.00,Main,Noir,0000,0000,0000,,C-Cercate di calmarvi, voi due.
+Dialogue: 0,0:11:38.00,0:11:41.80,Main,Lola,0000,0000,0000,,Sono la responsabile di Noir. \NÈ un collaboratore molto prezioso.
+Dialogue: 0,0:11:41.80,0:11:43.59,Main,Lola,0000,0000,0000,,Apprezzerei molto se non interferissi.
+Dialogue: 0,0:11:43.59,0:11:48.52,Main,Emma,0000,0000,0000,,Questo dovrei dirlo io. Staremo insieme\N per sempre, finché morte non ci separi.
+Dialogue: 0,0:11:48.52,0:11:49.88,Main,Adventurer 1,0000,0000,0000,,Ma che succede?
+Dialogue: 0,0:11:49.88,0:11:51.08,Main,Adventurer 2,0000,0000,0000,,È una lite tra innamorati.
+Dialogue: 0,0:11:51.08,0:11:52.81,Main,Adventurer 3,0000,0000,0000,,Brave! Di più!
+Dialogue: 0,0:11:52.81,0:11:55.16,Italics,Noir,0000,0000,0000,,C-Cavolo, è diventato uno spettacolo...
+Dialogue: 0,0:11:56.52,0:12:00.71,Main,Noir,0000,0000,0000,,Emma! \NSono così fortunato a poter contare sul tuo aiuto!
+Dialogue: 0,0:12:00.71,0:12:02.49,Main,Emma,0000,0000,0000,,D-Dici davvero?
+Dialogue: 0,0:12:03.53,0:12:07.79,Main,Noir,0000,0000,0000,,Lola, farò del mio meglio \Nper portarti i migliori risultati possibili!
+Dialogue: 0,0:12:07.79,0:12:09.07,Main,Lola,0000,0000,0000,,Oh, cielo.
+Dialogue: 0,0:12:10.04,0:12:11.85,Main,Lola,0000,0000,0000,,Credo che per oggi possa bastare.
+Dialogue: 0,0:12:11.85,0:12:13.57,Main,Emma,0000,0000,0000,,Sì, meglio lasciar perdere.
+Dialogue: 0,0:12:13.57,0:12:15.77,Main,Lola,0000,0000,0000,,Per il bene del signor Noir.
+Dialogue: 0,0:12:13.58,0:12:15.77,Overlap,Emma,0000,0000,0000,,Per il bene di Noir.
+Dialogue: 0,0:12:16.17,0:12:17.34,Main,Adventurer 4,0000,0000,0000,,Ah, cavolo.
+Dialogue: 0,0:12:17.34,0:12:18.40,Main,Adventurer 5,0000,0000,0000,,Hanno già finito?
+Dialogue: 0,0:12:18.40,0:12:19.67,Main,Adventurer 6,0000,0000,0000,,Non è stato così divertente.
+Dialogue: 0,0:12:24.09,0:12:25.59,Main,Lola,0000,0000,0000,,Fa' attenzione là fuori.
+Dialogue: 0,0:12:25.59,0:12:29.11,Main,Lola,0000,0000,0000,,Magari qualche volta ceniamo insieme \Nquando non sono in servizio.
+Dialogue: 0,0:12:29.11,0:12:30.76,Main,Noir,0000,0000,0000,,Eh? Io, ecco...
+Dialogue: 0,0:12:30.76,0:12:33.43,Main,Emma,0000,0000,0000,,Hai seriamente avuto il coraggio di farlo\N proprio davanti a me?!
+Dialogue: 0,0:12:39.02,0:12:42.47,Main,Emma,0000,0000,0000,,Noir, sei un idiota. Non lo sai che \Nle ragazze possono essere subdole?
+Dialogue: 0,0:12:42.47,0:12:45.36,Main,Emma,0000,0000,0000,,Se vai a cena con lei \Nfinirà per trascinarti in una camera e poi...
+Dialogue: 0,0:12:45.36,0:12:47.03,Main,Noir,0000,0000,0000,,E poi... ?
+Dialogue: 0,0:12:47.03,0:12:49.12,Main,Emma,0000,0000,0000,,Potrebbe dissezionarti.
+Dialogue: 0,0:12:49.12,0:12:51.04,Main,Noir,0000,0000,0000,,N-Non può essere!
+Dialogue: 0,0:12:52.32,0:12:54.13,Main,Emma,0000,0000,0000,,Guarda, manca una zolla d'erba.
+Dialogue: 0,0:12:54.13,0:12:57.35,Main,Emma,0000,0000,0000,,Mi chiedo se sia opera del Big Rabbit \Nche stiamo cercando.
+Dialogue: 0,0:12:58.42,0:12:59.52,Main,Noir,0000,0000,0000,,G-Già...
+Dialogue: 0,0:12:59.52,0:13:03.28,Main,Noir,0000,0000,0000,,A quanto pare quei conigli \Nstanno distruggendo l'ecosistema.
+Dialogue: 0,0:13:03.92,0:13:06.55,Main,Noir,0000,0000,0000,,Se li eliminiamo ci daranno 50.000 rel.
+Dialogue: 0,0:13:08.31,0:13:09.32,Main,Noir,0000,0000,0000,,Dei goblin?!
+Dialogue: 0,0:13:09.81,0:13:11.04,Main,Noir,0000,0000,0000,,Di che livello sono?
+Dialogue: 0,0:13:11.81,0:13:14.43,Text_Box_Header,Sign,0000,0000,0000,,{\an4\fs28\move(294,98,221,150)\t(\fs21)}Goblin
+Dialogue: 0,0:13:12.10,0:13:14.43,Italics,Noir,0000,0000,0000,,Lo stesso di Emma. In tal caso...
+Dialogue: 0,0:13:14.43,0:13:16.20,Main,Noir,0000,0000,0000,,Affrontiamoli, Emma!
+Dialogue: 0,0:13:16.20,0:13:18.42,Main,Emma,0000,0000,0000,,Sì! Io mi occuperò di quello a destra!
+Dialogue: 0,0:13:18.69,0:13:20.90,Text_Box_Body,,0000,0000,0000,,{\p1\fscx226\fscy500\bord4\blur1\an4\3c&H000000&\pos(126,190)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:13:18.69,0:13:20.90,Text_Box_Body,,0000,0000,0000,,{\p1\fscx226\fscy500\bord3\1a&HAA&\c&HAF8264&\an4\pos(126,190)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:13:18.69,0:13:20.90,Text_Box_Header,Sign,0000,0000,0000,,{\fs20\pos(54,97)}Goblin  {\fs18}Lv.{\fs30}17
+Dialogue: 0,0:13:18.69,0:13:20.90,Text_Box_Text,Sign,0000,0000,0000,,{\pos(126,140)\an5\fs22}Sesso: {\fs24}Maschio
+Dialogue: 0,0:13:19.12,0:13:20.35,Italics,Noir,0000,0000,0000,,È un maschio.
+Dialogue: 0,0:13:21.67,0:13:23.07,Italics,Noir,0000,0000,0000,,Allora userò il Proiettile di Pietra!
+Dialogue: 0,0:13:26.32,0:13:28.65,Italics,Noir,0000,0000,0000,,In quanto maschio capisco come ti senti, però...
+Dialogue: 0,0:13:28.65,0:13:29.69,Italics,Noir,0000,0000,0000,,Scusa, amico!
+Dialogue: 0,0:13:30.81,0:13:32.49,Italics,Noir,0000,0000,0000,,Bene, ora posso aiutare Emma.
+Dialogue: 0,0:13:33.64,0:13:34.93,Main,Emma,0000,0000,0000,,Noir, guarda!
+Dialogue: 0,0:13:45.92,0:13:48.81,Main,Noir,0000,0000,0000,,Un B-Big Rabbit!
+Dialogue: 0,0:13:51.26,0:13:53.89,Text_Box_Header,Sign,0000,0000,0000,,{\fad(362,1)\pos(143.333,215)\an2}Big Rabbit
+Dialogue: 0,0:13:52.54,0:13:53.89,Italics,Noir,0000,0000,0000,,Livello 24.
+Dialogue: 0,0:13:53.89,0:13:55.86,Main,Noir,0000,0000,0000,,S-Sta' indietro, Emma!
+Dialogue: 0,0:13:55.86,0:13:59.03,Main,Emma,0000,0000,0000,,Non ti intromettere. \NMe ne occuperò da sola.
+Dialogue: 0,0:13:59.03,0:14:00.40,Main,Noir,0000,0000,0000,,Eh? Ma perché?
+Dialogue: 0,0:14:00.91,0:14:02.28,Main,Emma,0000,0000,0000,,Perché...
+Dialogue: 0,0:14:02.28,0:14:06.64,Main,Emma,0000,0000,0000,,Se compi tu la missione, \Nquella ragazza ti starà di nuovo addosso!
+Dialogue: 0,0:14:10.70,0:14:12.66,Italics,Noir,0000,0000,0000,,È veloce nonostante la stazza!
+Dialogue: 0,0:14:12.66,0:14:15.41,Italics,Noir,0000,0000,0000,,Ma Emma è ancora più veloce!
+Dialogue: 0,0:14:20.33,0:14:22.80,Italics,Noir,0000,0000,0000,,È come una farfalla che danza nel vento.
+Dialogue: 0,0:14:24.34,0:14:25.67,Main,Emma,0000,0000,0000,,Sei troppo lento.
+Dialogue: 0,0:14:27.22,0:14:29.96,Main,Emma,0000,0000,0000,,Bene, facciamola finita!
+Dialogue: 0,0:14:30.67,0:14:32.12,Main,Emma,0000,0000,0000,,Colpo di Vento!
+Dialogue: 0,0:14:33.68,0:14:35.60,Italics,Noir,0000,0000,0000,,I-Incredibile!
+Dialogue: 0,0:14:40.94,0:14:42.39,Main,Emma,0000,0000,0000,,Ancora uno!
+Dialogue: 0,0:14:49.24,0:14:50.51,Main,Noir,0000,0000,0000,,Ha saltato?!
+Dialogue: 0,0:15:08.17,0:15:10.51,Main,Noir,0000,0000,0000,,A-Appena in tempo...
+Dialogue: 0,0:15:14.73,0:15:17.14,Main,Noir,0000,0000,0000,,Emma! Da questa parte!
+Dialogue: 0,0:15:20.77,0:15:23.95,Main,Noir,0000,0000,0000,,F-Fermiamoci un attimo qui per riordinare le idee.
+Dialogue: 0,0:15:24.69,0:15:27.29,Main,Noir,0000,0000,0000,,Verrà presto a cercarci con tutta probabilità.
+Dialogue: 0,0:15:27.29,0:15:29.62,Main,Noir,0000,0000,0000,,Dobbiamo capire come affrontarlo.
+Dialogue: 0,0:15:29.62,0:15:31.90,Main,Emma,0000,0000,0000,,Perché non sono riuscita a sconfiggerlo?
+Dialogue: 0,0:15:31.90,0:15:33.78,Main,Emma,0000,0000,0000,,Continuavo a menar fendenti...
+Dialogue: 0,0:15:33.78,0:15:37.79,Main,Noir,0000,0000,0000,,Forse la sua pelle era troppo spessa \Ne non riuscivi a raggiungere i punti vitali.
+Dialogue: 0,0:15:37.79,0:15:41.24,Main,Emma,0000,0000,0000,,Sono troppo debole...
+Dialogue: 0,0:15:42.17,0:15:43.21,Main,Noir,0000,0000,0000,,Emma...
+Dialogue: 0,0:15:43.70,0:15:45.80,Italics,Noir,0000,0000,0000,,Questa cosa l'ha buttata davvero giù.
+Dialogue: 0,0:15:45.80,0:15:48.13,Italics,Noir,0000,0000,0000,,Dev'esserci qualcosa che posso fare.
+Dialogue: 0,0:15:49.21,0:15:58.68,Text_Box_Body,,0000,0000,0000,,{\fad(655,1)\p1\fscx300\fscy540\bord6\blur1\an4\3c&H000000&\pos(492,140)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:49.21,0:15:58.68,Text_Box_Body,,0000,0000,0000,,{\fad(655,1)\p1\fscx300\fscy540\bord4\1a&HAA&\c&HAF8264&\an4\pos(492,140)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:49.21,0:15:58.68,Text_Box_Header,Sign,0000,0000,0000,,{\fad(655,1)\fs20\pos(384,38)}Emma Brightness  {\fs18}Lv.{\fs30}17
+Dialogue: 0,0:15:49.21,0:15:58.68,Text_Box_Text,Sign,0000,0000,0000,,{\fad(655,1)\fs24\an4\4a&H88&\fscy115\pos(378,82)}Abilità [{\fs20\fscx62\fscy150}Due Pugnali (Grado C){\fscx100\fs24}]\N{\fscx100\fscy100\alpha&HFF&}Abilità {\alpha}[Colpo di Vento]
+Dialogue: 0,0:15:50.26,0:15:52.09,Italics,Noir,0000,0000,0000,,Bene, se usassi Creazione
+Dialogue: 0,0:15:51.05,0:15:58.68,Text_Box_Body,,0000,0000,0000,,{\fad(355,1)\p1\fscx338\fscy385\bord6\blur1\an4\3c&H000000&\move(479,245,479,330,2820,3194)\t(2820,3194,1 \fscy800)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:51.05,0:15:58.68,Text_Box_Body,,0000,0000,0000,,{\fad(355,1)\p1\fscx338\fscy385\bord4\1a&HAA&\c&HAF8264&\an4\move(479,245,479,330,2820,3194)\t(2820,3194,1 \fscy800)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:51.05,0:15:58.68,Text_Box_Header,Sign,0000,0000,0000,,{\fad(400,1)\q2\fscx70\pos(357,175)}Due Pugnali (Grado B)
+Dialogue: 0,0:15:51.05,0:15:58.68,Text_Box_Text,Sign,0000,0000,0000,,{\fad(400,1)\fscx80\an7\pos(368,190)\fs20\fscy120}Necessari per Creazione {\bord1\fnArial\b1}LP.{\fs34}300\N{\fs20\fn\b0\bord\1a&HFF&\3a&HFF&\4a&HFF&\t(2904,3320,1 \1a&H00&\3a&H00&\4a&H44&)}Concessione a Emma        {\bord1\fnArial\b1}LP.{\fs34}400\N{\fs20\fn\b0\bord\1a&HFF&\3a&HFF&\4a&HFF&\t(3362,3403,1 \1a&H00&\3a&H00&\4a&H44&)}Necessari in totale           {\bord1\fnArial\b1}LP.{\fs34}700
+Dialogue: 0,0:15:51.05,0:15:58.68,Text_Box_Text,Sign,0000,0000,0000,,{\fscx80\an7\fs20\fscy120\fnArial\pos(364,258)\shad0\1a&HFF&\3a&HFF&\4a&HFF&\t(2904,3320,1 \1a&H00&\3a&H00&\4a&H44&)}————————————————
+Dialogue: 0,0:15:52.09,0:15:54.99,Italics,Noir,0000,0000,0000,,e poi Concessione per assegnarle \Nl'abilità migliorata Due Pugnali (Grado B)...
+Dialogue: 0,0:15:56.29,0:15:58.68,Italics,Noir,0000,0000,0000,,Sono un bel po'...
+Dialogue: 0,0:15:58.68,0:16:02.02,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,310)\q2\fscx70\an7\pos(260,12)}Due Pugnali (Grado C)
+Dialogue: 0,0:15:58.68,0:16:02.02,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,310)\q2\pos(255,135)\4a&H44&\shad2\fscx80}Migliora l'abilità del combattente con i due pugnali.
+Dialogue: 0,0:15:58.68,0:16:02.02,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,310)\q2\4a&H44&\shad2\pos(232,222)}Usare Modifica per aggiungere [Significativamente]
+Dialogue: 0,0:15:58.68,0:16:02.50,Italics,Noir,0000,0000,0000,,Allora potrei usare Modifica \Ne agire direttamente sulla sua abilità...
+Dialogue: 0,0:16:02.06,0:16:07.69,Text_Box_Header,Sign,0000,0000,0000,,{\pos(265,38)\c&HCEE1CB&}Risultato
+Dialogue: 0,0:16:02.31,0:16:07.69,Text_Box_Header,Sign,0000,0000,0000,,{\fad(360,1)\q2\fscx80\an7\pos(245,71)\3c&H30251A&\4c&H30251A&}Due Pugnali (Grado B)
+Dialogue: 0,0:16:02.39,0:16:07.69,Text_Box_Text,Sign,0000,0000,0000,,{\fad(405,1)\q2\4a&H44&\shad2\pos(247,179)\fscx95}Migliora significativamente l'abilità\N del combattente con i due pugnali.
+Dialogue: 0,0:16:02.50,0:16:05.58,Italics,Noir,0000,0000,0000,,Ci siamo! Ho avuto uno sconto!
+Dialogue: 0,0:16:02.52,0:16:07.69,Text_Box_Text,Sign,0000,0000,0000,,{\fad(358,1)\q2\4a&H44&\shad2\pos(385,228)}LP necessari:
+Dialogue: 0,0:16:05.58,0:16:07.27,Italics,Noir,0000,0000,0000,,Un attimo però...
+Dialogue: 0,0:16:07.69,0:16:10.29,Italics,Noir,0000,0000,0000,,Al momento dispongo di 700 LP.
+Dialogue: 0,0:16:10.96,0:16:13.82,Italics,Noir,0000,0000,0000,,Se ne usassi 500 subito, \Npotrebbe essere un bel problema.
+Dialogue: 0,0:16:16.20,0:16:17.97,Main,Noir,0000,0000,0000,,A-Ascolta...
+Dialogue: 0,0:16:19.16,0:16:22.53,Main,Noir,0000,0000,0000,,io potrei farti diventare più forte.
+Dialogue: 0,0:16:22.53,0:16:23.99,Main,Noir,0000,0000,0000,,D-Davvero?!
+Dialogue: 0,0:16:23.99,0:16:27.69,Main,Noir,0000,0000,0000,,S-Sì, ma ho bisogno di qualcosa in cambio.
+Dialogue: 0,0:16:27.69,0:16:30.72,Main,Emma,0000,0000,0000,,S-Se mi aiuterà a sconfiggere quel coniglio, \Nfarò qualsiasi cosa!
+Dialogue: 0,0:16:30.72,0:16:31.67,Main,Noir,0000,0000,0000,,Va bene, allora...
+Dialogue: 0,0:16:32.27,0:16:33.98,Main,Noir,0000,0000,0000,,posso mordicchiarti l'orecchio?
+Dialogue: 0,0:16:35.18,0:16:38.17,Main,Noir,0000,0000,0000,,T-Ti prometto che faccio piano...
+Dialogue: 0,0:16:38.17,0:16:39.68,Main,Noir,0000,0000,0000,,Non ti va?
+Dialogue: 0,0:16:42.68,0:16:47.01,Main,Emma,0000,0000,0000,,D-D'accordo. Fammi tutto ciò che vuoi...
+Dialogue: 0,0:16:47.67,0:16:48.65,Main,Noir,0000,0000,0000,,Emma...
+Dialogue: 0,0:16:52.96,0:16:54.57,Main,Emma,0000,0000,0000,,Non trattenerti!
+Dialogue: 0,0:16:54.57,0:16:56.03,Main,Noir,0000,0000,0000,,Non lo farò!
+Dialogue: 0,0:17:02.08,0:17:05.83,Italics,Noir,0000,0000,0000,,Wow... non sapevo che le orecchie\N fossero così morbide.
+Dialogue: 0,0:17:16.32,0:17:18.93,Main,Emma,0000,0000,0000,,Noir... non hai ancora finito?
+Dialogue: 0,0:17:18.93,0:17:21.38,Italics,Noir,0000,0000,0000,,Forse le sue sono particolarmente sensibili.
+Dialogue: 0,0:17:21.91,0:17:23.32,Italics,Noir,0000,0000,0000,,Siamo amici da sempre
+Dialogue: 0,0:17:23.32,0:17:25.94,Italics,Noir,0000,0000,0000,,ma immagino ci siano ancora molte cose \Nche non so di lei.
+Dialogue: 0,0:17:33.74,0:17:36.30,Main,Emma,0000,0000,0000,,N-No!
+Dialogue: 0,0:17:43.96,0:17:45.29,Italics,Noir,0000,0000,0000,,Ci ha trovati!
+Dialogue: 0,0:17:46.98,0:17:49.63,Italics,Noir,0000,0000,0000,,Presto... Devo sbrigarmi!
+Dialogue: 0,0:17:49.63,0:17:51.17,Italics,Noir,0000,0000,0000,,Mi servono quei LP!
+Dialogue: 0,0:17:58.26,0:18:01.51,Text_Box_Header,Sign,0000,0000,0000,,{\fad(442,1)\an7\3c&H262317&\pos(48,32)}Noir Stardia
+Dialogue: 0,0:17:59.86,0:18:01.20,Italics,Noir,0000,0000,0000,,Ho fatto il pieno di LP!
+Dialogue: 0,0:18:01.99,0:18:03.47,Italics,Noir,0000,0000,0000,,Ora, per potenziare l'abilità di Emma—
+Dialogue: 0,0:18:21.97,0:18:23.51,Main,Noir,0000,0000,0000,,Proiettile di Pietra 100.
+Dialogue: 0,0:18:23.51,0:18:26.16,Main,Noir,0000,0000,0000,,Nulla è impossibile se si usa la testa, no?
+Dialogue: 0,0:18:26.64,0:18:27.66,Main,Emma,0000,0000,0000,,Noir!
+Dialogue: 0,0:18:29.44,0:18:31.28,Italics,Noir,0000,0000,0000,,Ora userò Modifica per migliorare l'abilità di Emma!
+Dialogue: 0,0:18:30.13,0:18:31.67,Text_Box_Text,Sign,0000,0000,0000,,{\fs24\an4\4a&H88&\fscy115\pos(44,257.333)}Abilità [{\fs20\fscx70\fscy150}Due Pugnali (Grado C){\fscx100\fs24}]\N{\fscx100\fscy100\alpha&HFF&}Abilità {\alpha}[Colpo di Vento]
+Dialogue: 0,0:18:30.13,0:18:34.13,Text_Box_Body,,0000,0000,0000,,{\p1\fscx350\fscy520\bord6\blur1\an4\3c&H000000&\pos(164,315)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:18:30.13,0:18:34.13,Text_Box_Body,,0000,0000,0000,,{\p1\fscx350\fscy520\bord4\1a&HAA&\c&HAF8264&\an4\pos(164,315)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:18:30.13,0:18:34.13,Text_Box_Header,Sign,0000,0000,0000,,{\fs20\pos(46,216)}Emma Brightness
+Dialogue: 0,0:18:31.67,0:18:34.13,Text_Box_Text,Sign,0000,0000,0000,,{\fs24\an4\shad2\4a&H66&\fscy115\pos(44,257.333)}Abilità [{\fs20\fscx70\fscy150}Due Pugnali (Grado B){\fscx100\fs24}]\N{\fscx100\fscy100\1a&HFF&\4a&HFF&}Abilità {\1a&H00&\4a&H66&}[Colpo di Vento]
+Dialogue: 0,0:18:59.90,0:19:00.92,Main,Emma,0000,0000,0000,,Le hai viste?
+Dialogue: 0,0:19:00.92,0:19:05.41,Main,Noir,0000,0000,0000,,L-Le ho viste, ma... \Nin realtà le avevo già viste un sacco di volte.
+Dialogue: 0,0:19:06.07,0:19:10.42,Main,Emma,0000,0000,0000,,Non fa niente. \NSolo per oggi, puoi guardarle quanto ti pare.
+Dialogue: 0,0:19:10.42,0:19:11.36,Main,Noir,0000,0000,0000,,Eh?
+Dialogue: 0,0:19:12.42,0:19:15.50,Main,Emma,0000,0000,0000,,È grazie a te... se sono diventata più forte!
+Dialogue: 0,0:19:29.39,0:19:32.91,Main,Lola,0000,0000,0000,,Q-Questa è... \Nla prova che hai davvero completato la missione.
+Dialogue: 0,0:19:32.91,0:19:35.17,Main,Lola,0000,0000,0000,,Sul serio ci sei riuscita da sola?
+Dialogue: 0,0:19:35.17,0:19:38.15,Main,Noir,0000,0000,0000,,Sì! Emma ha eliminato il coniglio gigante\N tutto da sola!
+Dialogue: 0,0:19:39.64,0:19:41.00,Main,Emma,0000,0000,0000,,Lola.
+Dialogue: 0,0:19:42.16,0:19:44.43,Main,Emma,0000,0000,0000,,Ecco... grazie.
+Dialogue: 0,0:19:44.43,0:19:48.16,Main,Emma,0000,0000,0000,,Grazie a questa missione \Nho guadagnato più fiducia in me stessa.
+Dialogue: 0,0:19:48.16,0:19:51.95,Main,Lola,0000,0000,0000,,Oh, no... Scusami per essere stata scortese prima.
+Dialogue: 0,0:19:52.62,0:19:55.59,Main,Lola,0000,0000,0000,,Congratulazioni per aver completato la missione.
+Dialogue: 0,0:19:56.04,0:20:00.59,Main,Noir,0000,0000,0000,,Oh, a proposito! \NHo sentito che la carne di Big Rabbit è deliziosa.
+Dialogue: 0,0:20:00.59,0:20:04.09,Main,Lola,0000,0000,0000,,Sì, ed è piuttosto difficile da trovare.
+Dialogue: 0,0:20:04.09,0:20:07.11,Main,Lola,0000,0000,0000,,Dicono che gli avventurieri la mangiano \Nsubito dopo averli sconfitti.
+Dialogue: 0,0:20:07.11,0:20:09.92,Main,Noir,0000,0000,0000,,Beh, devi sapere che ho creato un'abilità \Nchiamata Dimensione Tascabile,
+Dialogue: 0,0:20:09.92,0:20:12.50,Main,Noir,0000,0000,0000,,mi permette di depositare gli oggetti \Npiù grandi in un'altra dimensione.
+Dialogue: 0,0:20:14.56,0:20:17.26,Main,Noir,0000,0000,0000,,Mangiamolo tutti insieme.
+Dialogue: 0,0:20:17.26,0:20:18.32,Main,Adventurer 7,0000,0000,0000,,Wow!
+Dialogue: 0,0:20:18.32,0:20:19.57,Main,Adventurer 8,0000,0000,0000,,Grande!
+Dialogue: 0,0:20:19.95,0:20:23.57,Main,Lola,0000,0000,0000,,Sei fantastico nel tuo lavoro {\i1}e{\i0} altruista...
+Dialogue: 0,0:20:23.57,0:20:24.78,Main,Lola,0000,0000,0000,,Meraviglioso...
+Dialogue: 0,0:20:26.83,0:20:28.64,Main,Emma,0000,0000,0000,,Sei il migliore, Noir!
+Dialogue: 0,0:20:36.07,0:20:38.09,Main,Adventurer 9,0000,0000,0000,,Che profumino!
+Dialogue: 0,0:20:40.09,0:20:42.28,Main,Noir,0000,0000,0000,,Ce n'è ancora un sacco!
+Dialogue: 0,0:20:43.24,0:20:44.09,Main,Adventurer 10,0000,0000,0000,,Buonissimo!
+Dialogue: 0,0:20:44.09,0:20:45.88,Main,Adventurer 11,0000,0000,0000,,Che delizia!
+Dialogue: 0,0:20:47.97,0:20:50.57,Main,Emma,0000,0000,0000,,Questa carne è mia!
+Dialogue: 0,0:20:51.06,0:20:55.10,Text_Box_Body,,0000,0000,0000,,{\p1\fscx310\fscy520\bord4\1a&H00&\c&HFFFFFF&\an4\pos(469.333,168.666)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:20:51.06,0:20:55.10,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\c&H4F5856&\bord0\shad0\fs30\an4\fscy130\pos(347,120.001)}Il barbecue è\Nun campo di battaglia\N{\fs20}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEmma Brightness
+Dialogue: 0,0:20:51.06,0:20:55.10,Main,Emma,0000,0000,0000,,"Il barbeque è un campo di battaglia", Emma Brightness.
+Dialogue: 0,0:20:55.10,0:20:57.47,Main,Adventurer 1,0000,0000,0000,,Tieni, mangiane un po' anche tu.
+Dialogue: 0,0:20:59.36,0:21:01.61,Text_Box_Header,Sign,0000,0000,0000,,{\fad(356,1)\pos(44,228)}Noir Stardia
+Dialogue: 0,0:21:01.61,0:21:04.61,Main,Lola,0000,0000,0000,,Noir, ecco a te la ricompensa di questa missione.
+Dialogue: 0,0:21:04.61,0:21:06.91,Main,Noir,0000,0000,0000,,Oh, grazie mille!
+Dialogue: 0,0:21:06.91,0:21:09.37,Main,Lola,0000,0000,0000,,A quanto pare adesso ne hai abbastanza \Nper pagare la tassa d'iscrizione.
+Dialogue: 0,0:21:09.37,0:21:11.93,Main,Lola,0000,0000,0000,,Congratulazioni \Nper essere stato accettato all'Accademia.
+Dialogue: 0,0:21:11.93,0:21:15.12,Main,Adventurers,0000,0000,0000,,Congratulazioni!
+Dialogue: 0,0:21:17.13,0:21:19.32,Main,Adventurer 12,0000,0000,0000,,Buona fortuna all'Accademia degli Eroi!
+Dialogue: 0,0:21:19.89,0:21:21.47,Main,Adventurer 13,0000,0000,0000,,Congratulazioni per essere entrato!
+Dialogue: 0,0:21:21.47,0:21:23.11,Main,Adventurer 14,0000,0000,0000,,Cin cin! Congratulazioni!
+Dialogue: 0,0:21:23.11,0:21:26.62,Italics,Noir,0000,0000,0000,,Un momento... Ma cos'è questo?
+Dialogue: 0,0:21:26.62,0:21:29.87,Italics,Noir,0000,0000,0000,,È come un sogno... Ma com'è successo?
+Dialogue: 0,0:21:29.87,0:21:32.39,Main,Adventurer 15,0000,0000,0000,,Un brindisi agli avventurieri di Odin!
+Dialogue: 0,0:21:32.39,0:21:34.18,Main,Adventurer 16,0000,0000,0000,,Chiamaci se dovessi aver bisogno d'aiuto!
+Dialogue: 0,0:21:34.18,0:21:36.64,Main,Adventurer 17,0000,0000,0000,,Unisciti al mio gruppo la prossima volta!
+Dialogue: 0,0:21:36.64,0:21:39.08,Italics,Noir,0000,0000,0000,,Cosa mi ha cambiato?
+Dialogue: 0,0:21:39.08,0:21:41.39,Italics,Noir,0000,0000,0000,,Come sono diventato più forte?
+Dialogue: 0,0:21:41.39,0:21:44.21,Italics,Noir,0000,0000,0000,,Chi devo ringraziare per questo?
+Dialogue: 0,0:21:48.87,0:21:51.68,Italics,Noir,0000,0000,0000,,Oh, giusto...
+Dialogue: 0,0:21:51.68,0:21:53.41,Italics,Noir,0000,0000,0000,,Questo è tutto...
+Dialogue: 0,0:21:54.08,0:21:57.08,Main,Emma,0000,0000,0000,,Noir, aspettano tutti che tu dica qualcosa!
+Dialogue: 0,0:22:08.65,0:22:11.69,Main,Noir,0000,0000,0000,,Grazie infinite a tutti voi!
+Dialogue: 0,0:22:22.63,0:22:25.75,Italics,Noir,0000,0000,0000,,È tutto merito tuo, Maestra!
+Dialogue: 0,0:22:26.74,0:22:29.32,Italics,Noir,0000,0000,0000,,Verrò a trovarti...
+Dialogue: 0,0:22:29.32,0:22:30.84,Italics,Noir,0000,0000,0000,,molto presto.
+Dialogue: 0,0:22:36.93,0:22:38.69,Italics,Olivia,0000,0000,0000,,Oppure, sai com'è...
+Dialogue: 0,0:22:39.56,0:22:43.90,Italics,Olivia,0000,0000,0000,,potresti venire anche subitoooo!
+Dialogue: 0,0:24:18.26,0:24:21.93,Next_Ep_Title,Sign,0000,0000,0000,,{\blur1\fad(647,1)}#03 {\fscx90}"La compagna di classe in difficoltà"
+Dialogue: 0,0:24:18.35,0:24:20.93,Main Top,Emma,0000,0000,0000,,Prossimo episodio, "La compagna di classe in difficoltà".
+Dialogue: 0,0:24:21.93,0:24:26.94,Illustration,Sign,0000,0000,0000,,{\an1\c&H93AC90&\4c&HB5C7AF&\blur1}Illustrazione: Tetsubuta

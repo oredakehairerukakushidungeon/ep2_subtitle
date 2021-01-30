@@ -1,0 +1,1545 @@
+﻿1
+00:00:06,440 --> 00:00:08,520
+Fratellone!
+
+2
+00:00:12,330 --> 00:00:15,070
+Certo che ti piace proprio starmi appiccicata, Alice.
+
+3
+00:00:16,570 --> 00:00:20,370
+Volevo anch'io un po' della tua fortuna!
+
+4
+00:00:20,830 --> 00:00:23,750
+Sei stato accettato
+all'Accademia degli Eroi, dopotutto!
+
+5
+00:00:23,750 --> 00:00:25,300
+G-Giusto...
+
+6
+00:00:25,300 --> 00:00:27,780
+In pratica adesso sei tu il capofamiglia!
+
+7
+00:00:28,240 --> 00:00:31,240
+Alice, ti prego di smetterla! La mia dignità!
+
+8
+00:00:31,240 --> 00:00:32,880
+P-Padre!
+
+9
+00:00:32,880 --> 00:00:35,270
+Devo parlarti, riguarda l'Accademia degli Eroi.
+
+10
+00:00:35,270 --> 00:00:38,390
+Ecco, la tassa d'iscrizione è...
+
+11
+00:00:38,390 --> 00:00:40,270
+Tassa d'iscrizione?
+
+12
+00:00:40,850 --> 00:00:44,850
+Ho un po' di soldi da parte. Quant'è?
+
+13
+00:00:45,520 --> 00:00:47,100
+300.000 rel.
+
+14
+00:00:47,100 --> 00:00:48,320
+300...
+
+15
+00:00:48,320 --> 00:00:50,030
+Entro una settimana.
+
+16
+00:00:50,030 --> 00:00:52,030
+Una settimana...
+
+17
+00:00:52,030 --> 00:00:54,260
+Entro un anno potrebbe andare lo stesso?
+
+18
+00:00:54,260 --> 00:00:56,940
+Ho capito, li guadagnerò da solo.
+
+19
+00:00:56,940 --> 00:01:00,420
+Mi dispiace! Mi dispiace così tanto!
+
+20
+00:01:01,550 --> 00:01:04,040
+Il mio povero, sfortunato fratellone...
+
+21
+00:01:06,290 --> 00:01:09,390
+300.000 rel per iscriverti all'Accademia, eh?
+
+22
+00:01:09,390 --> 00:01:13,170
+Non dev'essere facile per un nobile pezzente come te.
+
+23
+00:01:13,170 --> 00:01:17,470
+Non credo fosse necessario essere così diretta, ma sì.
+
+24
+00:01:17,470 --> 00:01:22,590
+E allora perché non fai fuori qualche mostro raro
+qui nel dungeon per rivendere i materiali?
+
+25
+00:01:22,590 --> 00:01:25,030
+Preferirei non attirare troppa attenzione.
+
+26
+00:01:25,030 --> 00:01:27,190
+Specialmente dopo l'esame d'ingresso.
+
+27
+00:01:28,260 --> 00:01:32,830
+Potresti dire che sei stata tu
+a sconfiggere il Mietitore?
+
+28
+00:01:32,830 --> 00:01:34,110
+Eh?
+
+29
+00:01:34,110 --> 00:01:37,480
+Risulterebbe più facile credere che
+l'abbia sconfitto la figlia di un conte
+
+30
+00:01:37,480 --> 00:01:39,140
+piuttosto che il figlio di un baronetto.
+
+31
+00:01:39,610 --> 00:01:43,450
+Molto bene. Dirò che l'ho sconfitto io.
+
+32
+00:01:44,000 --> 00:01:45,370
+Te ne sono grato.
+
+33
+00:01:45,960 --> 00:01:50,840
+Alla fine ho dovuto cedere il merito
+alla mia vanitosa compagna di classe.
+
+34
+00:01:50,840 --> 00:01:54,220
+Allora suppongo ci sia un unico modo.
+
+35
+00:01:56,360 --> 00:01:59,340
+Devi lavorare alla Gilda degli Avventurieri.
+
+36
+00:02:00,090 --> 00:02:01,980
+S-Salve...
+
+37
+00:02:02,590 --> 00:02:04,100
+Ah?
+
+38
+00:02:09,670 --> 00:02:14,350
+Capo, non intimidire il novellino.
+
+39
+00:02:17,280 --> 00:02:20,240
+Io sono l'addetta alla reception, Lola.
+
+40
+00:02:25,070 --> 00:02:28,130
+È la tua prima volta alla Gilda degli Avventurieri?
+
+41
+00:04:01,420 --> 00:04:07,510
+"La gilda e l'addetta alla reception"
+
+42
+00:04:03,600 --> 00:04:07,790
+Per prima cosa, permettimi di spiegarti
+il semplicissimo sistema che adottiamo qui.
+
+43
+00:04:07,790 --> 00:04:09,760
+M-Ma certo.
+
+44
+00:04:10,150 --> 00:04:14,810
+Ci sono molti avventurieri di spicco
+che fanno parte di Odin.
+
+45
+00:04:15,140 --> 00:04:18,070
+Abbiamo avventurieri che raccolgono piante,
+
+46
+00:04:18,070 --> 00:04:24,070
+che eliminano mostri, che esplorano dungeon
+e che si occupano di molte altre missioni.
+
+47
+00:04:24,070 --> 00:04:27,120
+A ogni avventuriero viene assegnato un grado,
+
+48
+00:04:26,700 --> 00:04:35,330
+Capogilda
+
+49
+00:04:26,700 --> 00:04:35,330
+Novellino
+
+50
+00:04:27,120 --> 00:04:30,360
+che determina le missioni che può accettare
+e la ricompensa che riceverà alla fine.
+
+51
+00:04:30,990 --> 00:04:35,330
+Ovviamente, chi mostra risultati costanti
+può salire di grado.
+
+52
+00:04:35,830 --> 00:04:41,170
+Per poterti unire alla gilda,
+devi prima registrarti.
+
+53
+00:04:41,170 --> 00:04:44,220
+Oh, ma certo. Non c'è problema.
+
+54
+00:04:45,020 --> 00:04:49,350
+Per prima cosa, devo sapere
+quali abilità possiedi attualmente.
+
+55
+00:04:49,350 --> 00:04:51,450
+Le mie abilità?
+
+56
+00:04:51,810 --> 00:04:53,350
+Non aver paura.
+
+57
+00:04:53,350 --> 00:04:57,350
+Sono informazioni riservate,
+accessibili solo alla gilda.
+
+58
+00:04:58,720 --> 00:05:00,860
+Che buon profumo...
+
+59
+00:05:02,150 --> 00:05:03,700
+Le ho scritte tutte.
+
+60
+00:05:05,070 --> 00:05:07,590
+Ehm, Noir.
+
+61
+00:05:07,590 --> 00:05:08,820
+S-Sì?
+
+62
+00:05:08,820 --> 00:05:11,200
+Se evitassi di scherzare lo apprezzerei molto.
+
+63
+00:05:11,200 --> 00:05:13,330
+Non abbiamo una scorta infinita di carta.
+
+64
+00:05:13,330 --> 00:05:16,160
+Oh, in effetti...
+
+65
+00:05:16,160 --> 00:05:19,110
+immagino che Creazione e Modifica
+suonino piuttosto strane.
+
+66
+00:05:19,110 --> 00:05:21,800
+Non è questo, conosco quelle abilità.
+
+67
+00:05:21,800 --> 00:05:23,090
+Dato che...
+
+68
+00:05:23,600 --> 00:05:28,570
+questa è Odin.
+La gilda di cui faceva parte Olivia Servant.
+
+69
+00:05:28,570 --> 00:05:30,470
+Eh?! La Maestra era in questa gilda?
+
+70
+00:05:31,700 --> 00:05:33,090
+Maestra?
+
+71
+00:05:33,090 --> 00:05:35,280
+Merda! Me lo sono lasciato sfuggire.
+
+72
+00:05:35,280 --> 00:05:38,480
+Di tanto in tanto, capitano persone come te,
+
+73
+00:05:38,480 --> 00:05:42,020
+che si dichiarano successori di Olivia.
+
+74
+00:05:42,020 --> 00:05:43,190
+In tal caso...
+
+75
+00:05:44,910 --> 00:05:47,200
+scopriamo la verità.
+
+76
+00:05:47,200 --> 00:05:52,200
+Quando tocchi questo Tomo Perspicace,
+appaiono per iscritto le tue abilità.
+
+77
+00:05:52,200 --> 00:05:53,380
+Beh? Che farai adesso?
+
+78
+00:05:53,380 --> 00:05:56,220
+Hai ancora la possibilità di rimangiarti
+ciò che hai detto.
+
+79
+00:05:56,220 --> 00:05:58,260
+Oh, no. Lo farò senza problemi.
+
+80
+00:05:58,260 --> 00:05:59,210
+Eh?
+
+81
+00:05:59,210 --> 00:06:02,210
+Ma che succede se si scopre che non sto mentendo?
+
+82
+00:06:03,210 --> 00:06:05,210
+Vediamo...
+
+83
+00:06:05,210 --> 00:06:12,720
+che ne dici se mi alzassi la gonna e dicessi
+"Sono terribilmente spiacente, nobile Noir"?
+
+84
+00:06:13,310 --> 00:06:15,150
+Beh, in tal caso...
+
+85
+00:06:19,770 --> 00:06:22,730
+Noir Stardia
+16 anni
+Lv. 33
+Abilità:
+Grande Saggio
+Creazione
+Modifica
+Concessione
+Conversione dei LP
+Proiettile di Pietra
+Occhio Perspicace
+
+86
+00:06:23,900 --> 00:06:26,030
+M-Ma allora tu sei davvero...
+
+87
+00:06:26,030 --> 00:06:29,740
+il s-s-s-successore di Olivia?!
+
+88
+00:06:29,990 --> 00:06:32,200
+Molto bene, che dovevi fare in questo caso?
+
+89
+00:06:33,310 --> 00:06:36,210
+Dovevi dire "Nobile Noir, ti adoro"?
+
+90
+00:06:37,500 --> 00:06:39,780
+Mentre ti alzavi la gonna.
+
+91
+00:06:44,030 --> 00:06:46,670
+N-Nobile Noir...
+
+92
+00:06:49,590 --> 00:06:54,220
+t-ti adoro...
+
+93
+00:06:54,220 --> 00:06:57,100
+Noir Stardia
+
+94
+00:06:59,430 --> 00:07:02,420
+Allora, che missione preferiresti?
+
+95
+00:07:02,420 --> 00:07:04,660
+Devi cominciare dal Grado E.
+
+96
+00:07:04,660 --> 00:07:06,070
+Beh, si è ripresa in un lampo.
+
+97
+00:07:06,070 --> 00:07:10,070
+Ecco, dovrei guadagnare 300.000 rel in una settimana.
+
+98
+00:07:10,070 --> 00:07:11,630
+Se è così...
+
+99
+00:07:13,550 --> 00:07:16,150
+Che ne dici di catturare queste?
+
+100
+00:07:16,150 --> 00:07:17,950
+Cavallette arcobaleno?
+
+101
+00:07:17,950 --> 00:07:20,180
+Si sa dove vivono
+
+102
+00:07:20,180 --> 00:07:23,080
+eppure sono insetti davvero rari
+che appaiono di rado, giusto?
+
+103
+00:07:23,080 --> 00:07:25,080
+Era una missione di Grado D,
+
+104
+00:07:25,080 --> 00:07:27,870
+ma abbiamo iniziato ad accettare
+anche persone di Grado E.
+
+105
+00:07:27,870 --> 00:07:31,210
+Perché non siete riusciti a trovare nessuno
+che volesse farla, suppongo...
+
+106
+00:07:31,210 --> 00:07:33,780
+Esatto. Ma tu, Noir, hai un'utilissima abilità
+
+107
+00:07:33,780 --> 00:07:35,300
+che dovrebbe aiutarti non poco.
+
+108
+00:07:35,860 --> 00:07:38,100
+Oh, hai ragione.
+
+109
+00:07:38,100 --> 00:07:42,560
+Buona fortuna, Noir. Mi aspetto grandi cose da te.
+
+110
+00:07:42,560 --> 00:07:46,060
+Trovo molto attraenti gli uomini capaci.
+
+111
+00:07:46,060 --> 00:07:49,670
+È-È difficile credere che dubitasse di me
+fino a poco fa...
+
+112
+00:07:54,380 --> 00:07:57,200
+L'habitat delle cavallette
+dovrebbe essere nei paraggi.
+
+113
+00:07:57,200 --> 00:08:01,110
+Se uso l'abilità Grande Saggio,
+che risponde a ogni domanda,
+
+114
+00:08:01,110 --> 00:08:03,210
+dovrei riuscire a trovarle all'istante.
+
+115
+00:08:04,430 --> 00:08:08,710
+Però per evitare il mal di testa
+sono indispensabili i baci.
+
+116
+00:08:08,710 --> 00:08:12,850
+Momento. Potrei usare Creazione per inventare
+l'abilità Immunità al Mal di Testa.
+
+117
+00:08:12,760 --> 00:08:18,970
+Immunità al Mal di Testa
+
+118
+00:08:12,760 --> 00:08:18,970
+Necessari per Creazione
+
+119
+00:08:13,680 --> 00:08:14,820
+Ma sono tantissimi!
+
+120
+00:08:14,820 --> 00:08:18,970
+Però non posso mica dipendere sempre da Emma...
+
+121
+00:08:18,970 --> 00:08:22,940
+Abilità [Grande Saggio]
+Abilità [Creazione] [Modifica] [Concessione]
+Abilità [Conversione dei LP] [Proiettile
+Abilità di Pietra][Occhio Perspicace]
+Abilità [Immunità al Mal di Testa]
+
+122
+00:08:18,970 --> 00:08:22,940
+Noir Stardia  LP.700
+
+123
+00:08:18,970 --> 00:08:22,940
+Noir Stardia  LP.400
+
+124
+00:08:21,100 --> 00:08:22,960
+Bene, così dovrebbe andare!
+
+125
+00:08:25,030 --> 00:08:28,890
+Grande Saggio, dove sono le cavallette arcobaleno?
+
+126
+00:08:30,440 --> 00:08:35,950
+La più vicina si trova a 310 metri a sud,
+dietro un masso.
+
+127
+00:08:37,870 --> 00:08:39,730
+Cavolo, fa male lo stesso.
+
+128
+00:08:39,730 --> 00:08:42,870
+Però... non è insopportabile.
+
+129
+00:08:47,400 --> 00:08:49,880
+Bene, l'ho trovata piuttosto in fretta.
+
+130
+00:08:50,220 --> 00:08:52,790
+I mal di testa però non sono il massimo.
+
+131
+00:08:52,790 --> 00:08:55,370
+Sarebbe decisamente meglio se ci fosse Emma.
+
+132
+00:08:55,840 --> 00:08:58,720
+Noir, sei un idiota!
+
+133
+00:09:01,470 --> 00:09:04,930
+Emma! Tempismo perfetto, come sempre!
+
+134
+00:09:05,480 --> 00:09:07,660
+E come sempre le tue tette sono...
+
+135
+00:09:09,910 --> 00:09:12,330
+Noir, sei diventato un avventuriero?!
+
+136
+00:09:12,330 --> 00:09:14,490
+C-Come hai fatto a scoprirlo?
+
+137
+00:09:14,490 --> 00:09:16,930
+Sono andata a casa tua
+e mi hanno detto che eri diretto alla gilda.
+
+138
+00:09:16,930 --> 00:09:18,770
+Poi sono andata alla gilda e...
+
+139
+00:09:18,770 --> 00:09:20,990
+Ma ora i dettagli non hanno importanza!
+
+140
+00:09:20,990 --> 00:09:24,000
+Come hai potuto farlo senza prima parlarne con me?
+
+141
+00:09:24,000 --> 00:09:28,010
+S-Scusami.
+Ho pensato fosse troppo pericoloso per te.
+
+142
+00:09:28,010 --> 00:09:31,840
+Ma insomma!
+Non ricordi la promessa che ci siamo fatti 6 anni fa?
+
+143
+00:09:32,350 --> 00:09:34,720
+6 anni fa?
+
+144
+00:09:35,340 --> 00:09:37,150
+Intendi quando stavamo giocando insieme
+
+145
+00:09:37,150 --> 00:09:41,140
+e ho urlato "Staremo insieme per sempre
+finché morte non ci separi"?
+
+146
+00:09:41,140 --> 00:09:44,290
+Già. Quindi cercherò quelle cavallette insieme a te!
+
+147
+00:09:46,050 --> 00:09:48,070
+Devi usare Grande Saggio, non è così?
+
+148
+00:09:48,070 --> 00:09:49,230
+Per cui, ecco...
+
+149
+00:09:49,230 --> 00:09:53,040
+Oh, non sei più costretta a baciarmi.
+Ho appreso Immunità al Mal di Testa.
+
+150
+00:09:53,040 --> 00:09:54,100
+Eh?!
+
+151
+00:09:54,820 --> 00:09:58,250
+P-Però, visto che in pratica è un saluto,
+puoi darmene comunque uno quando ti va.
+
+152
+00:09:58,250 --> 00:09:59,770
+E poi siamo amici da sempre.
+
+153
+00:09:59,770 --> 00:10:03,010
+E nonostante l'immunità,
+mi viene comunque un po' di mal di testa...
+
+154
+00:10:04,560 --> 00:10:06,850
+S-Sul serio? Se è così...
+
+155
+00:10:06,850 --> 00:10:08,000
+V-Va bene.
+
+156
+00:10:15,880 --> 00:10:19,800
+Anche se, in realtà,
+questo mal di testa è abbastanza gestibile.
+
+157
+00:10:27,480 --> 00:10:29,390
+Scusate per l'attesa.
+
+158
+00:10:30,120 --> 00:10:32,360
+Ecco i tuoi 250.000 rel.
+
+159
+00:10:32,360 --> 00:10:34,950
+2-250.000?!
+
+160
+00:10:34,950 --> 00:10:38,450
+Sì. Di questo passo, salirai di grado
+in men che non si dica.
+
+161
+00:10:38,450 --> 00:10:39,860
+G-Grande...
+
+162
+00:10:39,860 --> 00:10:42,820
+Quindi sei capace e ti impegni molto.
+
+163
+00:10:42,820 --> 00:10:45,740
+Un vero gentiluomo...
+
+164
+00:10:46,320 --> 00:10:50,800
+E dato che sei un tale gentiluomo,
+avrei un'altra missione per te.
+
+165
+00:10:50,800 --> 00:10:52,980
+Dovresti occuparti di alcuni mostri.
+
+166
+00:10:52,980 --> 00:10:55,520
+G-Grazie mille.
+
+167
+00:10:55,520 --> 00:10:59,470
+Sentiti libero di chiedermi qualsiasi cosa...
+
+168
+00:11:00,040 --> 00:11:01,930
+Fermi un secondo!
+
+169
+00:11:03,850 --> 00:11:07,770
+Diventerò anch'io un'avventuriera,
+così potrò venire in missione con te, Noir.
+
+170
+00:11:07,770 --> 00:11:09,730
+Le tue tette...
+
+171
+00:11:09,730 --> 00:11:11,400
+Tu? Un'avventuriera?
+
+172
+00:11:12,230 --> 00:11:13,970
+Mi chiamo Emma Brightness.
+
+173
+00:11:13,970 --> 00:11:15,980
+Noir e io siamo amici sin da piccoli.
+
+174
+00:11:23,260 --> 00:11:26,380
+C-Cavolo...
+
+175
+00:11:28,980 --> 00:11:31,360
+The Hidden Dungeon Only I Can Enter.
+
+176
+00:11:35,830 --> 00:11:38,000
+C-Cercate di calmarvi, voi due.
+
+177
+00:11:38,000 --> 00:11:41,800
+Sono la responsabile di Noir.
+È un collaboratore molto prezioso.
+
+178
+00:11:41,800 --> 00:11:43,590
+Apprezzerei molto se non interferissi.
+
+179
+00:11:43,590 --> 00:11:48,520
+Questo dovrei dirlo io. Staremo insieme
+per sempre, finché morte non ci separi.
+
+180
+00:11:48,520 --> 00:11:49,880
+Ma che succede?
+
+181
+00:11:49,880 --> 00:11:51,080
+È una lite tra innamorati.
+
+182
+00:11:51,080 --> 00:11:52,810
+Brave! Di più!
+
+183
+00:11:52,810 --> 00:11:55,160
+C-Cavolo, è diventato uno spettacolo...
+
+184
+00:11:56,520 --> 00:12:00,710
+Emma!
+Sono così fortunato a poter contare sul tuo aiuto!
+
+185
+00:12:00,710 --> 00:12:02,490
+D-Dici davvero?
+
+186
+00:12:03,530 --> 00:12:07,790
+Lola, farò del mio meglio
+per portarti i migliori risultati possibili!
+
+187
+00:12:07,790 --> 00:12:09,070
+Oh, cielo.
+
+188
+00:12:10,040 --> 00:12:11,850
+Credo che per oggi possa bastare.
+
+189
+00:12:11,850 --> 00:12:13,570
+Sì, meglio lasciar perdere.
+
+190
+00:12:13,570 --> 00:12:15,770
+Per il bene del signor Noir.
+
+191
+00:12:13,580 --> 00:12:15,770
+Per il bene di Noir.
+
+192
+00:12:16,170 --> 00:12:17,340
+Ah, cavolo.
+
+193
+00:12:17,340 --> 00:12:18,400
+Hanno già finito?
+
+194
+00:12:18,400 --> 00:12:19,670
+Non è stato così divertente.
+
+195
+00:12:24,090 --> 00:12:25,590
+Fa' attenzione là fuori.
+
+196
+00:12:25,590 --> 00:12:29,110
+Magari qualche volta ceniamo insieme
+quando non sono in servizio.
+
+197
+00:12:29,110 --> 00:12:30,760
+Eh? Io, ecco...
+
+198
+00:12:30,760 --> 00:12:33,430
+Hai seriamente avuto il coraggio di farlo
+proprio davanti a me?!
+
+199
+00:12:39,020 --> 00:12:42,470
+Noir, sei un idiota. Non lo sai che
+le ragazze possono essere subdole?
+
+200
+00:12:42,470 --> 00:12:45,360
+Se vai a cena con lei
+finirà per trascinarti in una camera e poi...
+
+201
+00:12:45,360 --> 00:12:47,030
+E poi... ?
+
+202
+00:12:47,030 --> 00:12:49,120
+Potrebbe dissezionarti.
+
+203
+00:12:49,120 --> 00:12:51,040
+N-Non può essere!
+
+204
+00:12:52,320 --> 00:12:54,130
+Guarda, manca una zolla d'erba.
+
+205
+00:12:54,130 --> 00:12:57,350
+Mi chiedo se sia opera del Big Rabbit
+che stiamo cercando.
+
+206
+00:12:58,420 --> 00:12:59,520
+G-Già...
+
+207
+00:12:59,520 --> 00:13:03,280
+A quanto pare quei conigli
+stanno distruggendo l'ecosistema.
+
+208
+00:13:03,920 --> 00:13:06,550
+Se li eliminiamo ci daranno 50.000 rel.
+
+209
+00:13:08,310 --> 00:13:09,320
+Dei goblin?!
+
+210
+00:13:09,810 --> 00:13:11,040
+Di che livello sono?
+
+211
+00:13:11,810 --> 00:13:14,430
+Goblin
+
+212
+00:13:12,100 --> 00:13:14,430
+Lo stesso di Emma. In tal caso...
+
+213
+00:13:14,430 --> 00:13:16,200
+Affrontiamoli, Emma!
+
+214
+00:13:16,200 --> 00:13:18,420
+Sì! Io mi occuperò di quello a destra!
+
+215
+00:13:18,690 --> 00:13:20,900
+Goblin  Lv.17
+
+216
+00:13:18,690 --> 00:13:20,900
+Sesso: Maschio
+
+217
+00:13:19,120 --> 00:13:20,350
+È un maschio.
+
+218
+00:13:21,670 --> 00:13:23,070
+Allora userò il Proiettile di Pietra!
+
+219
+00:13:26,320 --> 00:13:28,650
+In quanto maschio capisco come ti senti, però...
+
+220
+00:13:28,650 --> 00:13:29,690
+Scusa, amico!
+
+221
+00:13:30,810 --> 00:13:32,490
+Bene, ora posso aiutare Emma.
+
+222
+00:13:33,640 --> 00:13:34,930
+Noir, guarda!
+
+223
+00:13:45,920 --> 00:13:48,810
+Un B-Big Rabbit!
+
+224
+00:13:51,260 --> 00:13:53,890
+Big Rabbit
+
+225
+00:13:52,540 --> 00:13:53,890
+Livello 24.
+
+226
+00:13:53,890 --> 00:13:55,860
+S-Sta' indietro, Emma!
+
+227
+00:13:55,860 --> 00:13:59,030
+Non ti intromettere.
+Me ne occuperò da sola.
+
+228
+00:13:59,030 --> 00:14:00,400
+Eh? Ma perché?
+
+229
+00:14:00,910 --> 00:14:02,280
+Perché...
+
+230
+00:14:02,280 --> 00:14:06,640
+Se compi tu la missione,
+quella ragazza ti starà di nuovo addosso!
+
+231
+00:14:10,700 --> 00:14:12,660
+È veloce nonostante la stazza!
+
+232
+00:14:12,660 --> 00:14:15,410
+Ma Emma è ancora più veloce!
+
+233
+00:14:20,330 --> 00:14:22,800
+È come una farfalla che danza nel vento.
+
+234
+00:14:24,340 --> 00:14:25,670
+Sei troppo lento.
+
+235
+00:14:27,220 --> 00:14:29,960
+Bene, facciamola finita!
+
+236
+00:14:30,670 --> 00:14:32,120
+Colpo di Vento!
+
+237
+00:14:33,680 --> 00:14:35,600
+I-Incredibile!
+
+238
+00:14:40,940 --> 00:14:42,390
+Ancora uno!
+
+239
+00:14:49,240 --> 00:14:50,510
+Ha saltato?!
+
+240
+00:15:08,170 --> 00:15:10,510
+A-Appena in tempo...
+
+241
+00:15:14,730 --> 00:15:17,140
+Emma! Da questa parte!
+
+242
+00:15:20,770 --> 00:15:23,950
+F-Fermiamoci un attimo qui per riordinare le idee.
+
+243
+00:15:24,690 --> 00:15:27,290
+Verrà presto a cercarci con tutta probabilità.
+
+244
+00:15:27,290 --> 00:15:29,620
+Dobbiamo capire come affrontarlo.
+
+245
+00:15:29,620 --> 00:15:31,900
+Perché non sono riuscita a sconfiggerlo?
+
+246
+00:15:31,900 --> 00:15:33,780
+Continuavo a menar fendenti...
+
+247
+00:15:33,780 --> 00:15:37,790
+Forse la sua pelle era troppo spessa
+e non riuscivi a raggiungere i punti vitali.
+
+248
+00:15:37,790 --> 00:15:41,240
+Sono troppo debole...
+
+249
+00:15:42,170 --> 00:15:43,210
+Emma...
+
+250
+00:15:43,700 --> 00:15:45,800
+Questa cosa l'ha buttata davvero giù.
+
+251
+00:15:45,800 --> 00:15:48,130
+Dev'esserci qualcosa che posso fare.
+
+252
+00:15:49,210 --> 00:15:58,680
+Abilità [Due Pugnali (Grado C)]
+Abilità [Colpo di Vento]
+
+253
+00:15:49,210 --> 00:15:58,680
+Emma Brightness  Lv.17
+
+254
+00:15:50,260 --> 00:15:52,090
+Bene, se usassi Creazione
+
+255
+00:15:51,050 --> 00:15:58,680
+Due Pugnali (Grado B)
+
+256
+00:15:51,050 --> 00:15:58,680
+Necessari per Creazione LP.300
+Concessione a Emma        LP.400
+Necessari in totale           LP.700
+
+257
+00:15:51,050 --> 00:15:58,680
+————————————————
+
+258
+00:15:52,090 --> 00:15:54,990
+e poi Concessione per assegnarle
+l'abilità migliorata Due Pugnali (Grado B)...
+
+259
+00:15:56,290 --> 00:15:58,680
+Sono un bel po'...
+
+260
+00:15:58,680 --> 00:16:02,020
+Usare Modifica per aggiungere [Significativamente]
+
+261
+00:15:58,680 --> 00:16:02,500
+Allora potrei usare Modifica
+e agire direttamente sulla sua abilità...
+
+262
+00:15:58,680 --> 00:16:02,020
+Migliora l'abilità del combattente con i due pugnali.
+
+263
+00:15:58,680 --> 00:16:02,020
+Due Pugnali (Grado C)
+
+264
+00:16:02,060 --> 00:16:07,690
+Risultato
+
+265
+00:16:02,310 --> 00:16:07,690
+Due Pugnali (Grado B)
+
+266
+00:16:02,390 --> 00:16:07,690
+Migliora significativamente l'abilità
+del combattente con i due pugnali.
+
+267
+00:16:02,500 --> 00:16:05,580
+Ci siamo! Ho avuto uno sconto!
+
+268
+00:16:02,520 --> 00:16:07,690
+LP necessari:
+
+269
+00:16:05,580 --> 00:16:07,270
+Un attimo però...
+
+270
+00:16:07,690 --> 00:16:10,290
+Al momento dispongo di 700 LP.
+
+271
+00:16:10,960 --> 00:16:13,820
+Se ne usassi 500 subito,
+potrebbe essere un bel problema.
+
+272
+00:16:16,200 --> 00:16:17,970
+A-Ascolta...
+
+273
+00:16:19,160 --> 00:16:22,530
+io potrei farti diventare più forte.
+
+274
+00:16:22,530 --> 00:16:23,990
+D-Davvero?!
+
+275
+00:16:23,990 --> 00:16:27,690
+S-Sì, ma ho bisogno di qualcosa in cambio.
+
+276
+00:16:27,690 --> 00:16:30,720
+S-Se mi aiuterà a sconfiggere quel coniglio,
+farò qualsiasi cosa!
+
+277
+00:16:30,720 --> 00:16:31,670
+Va bene, allora...
+
+278
+00:16:32,270 --> 00:16:33,980
+posso mordicchiarti l'orecchio?
+
+279
+00:16:35,180 --> 00:16:38,170
+T-Ti prometto che faccio piano...
+
+280
+00:16:38,170 --> 00:16:39,680
+Non ti va?
+
+281
+00:16:42,680 --> 00:16:47,010
+D-D'accordo. Fammi tutto ciò che vuoi...
+
+282
+00:16:47,670 --> 00:16:48,650
+Emma...
+
+283
+00:16:52,960 --> 00:16:54,570
+Non trattenerti!
+
+284
+00:16:54,570 --> 00:16:56,030
+Non lo farò!
+
+285
+00:17:02,080 --> 00:17:05,830
+Wow... non sapevo che le orecchie
+fossero così morbide.
+
+286
+00:17:16,320 --> 00:17:18,930
+Noir... non hai ancora finito?
+
+287
+00:17:18,930 --> 00:17:21,380
+Forse le sue sono particolarmente sensibili.
+
+288
+00:17:21,910 --> 00:17:23,320
+Siamo amici da sempre
+
+289
+00:17:23,320 --> 00:17:25,940
+ma immagino ci siano ancora molte cose
+che non so di lei.
+
+290
+00:17:33,740 --> 00:17:36,300
+N-No!
+
+291
+00:17:43,960 --> 00:17:45,290
+Ci ha trovati!
+
+292
+00:17:46,980 --> 00:17:49,630
+Presto... Devo sbrigarmi!
+
+293
+00:17:49,630 --> 00:17:51,170
+Mi servono quei LP!
+
+294
+00:17:58,260 --> 00:18:01,510
+Noir Stardia
+
+295
+00:17:59,860 --> 00:18:01,200
+Ho fatto il pieno di LP!
+
+296
+00:18:01,990 --> 00:18:03,470
+Ora, per potenziare l'abilità di Emma—
+
+297
+00:18:21,970 --> 00:18:23,510
+Proiettile di Pietra 100.
+
+298
+00:18:23,510 --> 00:18:26,160
+Nulla è impossibile se si usa la testa, no?
+
+299
+00:18:26,640 --> 00:18:27,660
+Noir!
+
+300
+00:18:29,440 --> 00:18:31,280
+Ora userò Modifica per migliorare l'abilità di Emma!
+
+301
+00:18:30,130 --> 00:18:31,670
+Abilità [Due Pugnali (Grado C)]
+Abilità [Colpo di Vento]
+
+302
+00:18:30,130 --> 00:18:34,130
+Emma Brightness
+
+303
+00:18:31,670 --> 00:18:34,130
+Abilità [Due Pugnali (Grado B)]
+Abilità [Colpo di Vento]
+
+304
+00:18:59,900 --> 00:19:00,920
+Le hai viste?
+
+305
+00:19:00,920 --> 00:19:05,410
+L-Le ho viste, ma...
+in realtà le avevo già viste un sacco di volte.
+
+306
+00:19:06,070 --> 00:19:10,420
+Non fa niente.
+Solo per oggi, puoi guardarle quanto ti pare.
+
+307
+00:19:10,420 --> 00:19:11,360
+Eh?
+
+308
+00:19:12,420 --> 00:19:15,500
+È grazie a te... se sono diventata più forte!
+
+309
+00:19:29,390 --> 00:19:32,910
+Q-Questa è...
+la prova che hai davvero completato la missione.
+
+310
+00:19:32,910 --> 00:19:35,170
+Sul serio ci sei riuscita da sola?
+
+311
+00:19:35,170 --> 00:19:38,150
+Sì! Emma ha eliminato il coniglio gigante
+tutto da sola!
+
+312
+00:19:39,640 --> 00:19:41,000
+Lola.
+
+313
+00:19:42,160 --> 00:19:44,430
+Ecco... grazie.
+
+314
+00:19:44,430 --> 00:19:48,160
+Grazie a questa missione
+ho guadagnato più fiducia in me stessa.
+
+315
+00:19:48,160 --> 00:19:51,950
+Oh, no... Scusami per essere stata scortese prima.
+
+316
+00:19:52,620 --> 00:19:55,590
+Congratulazioni per aver completato la missione.
+
+317
+00:19:56,040 --> 00:20:00,590
+Oh, a proposito!
+Ho sentito che la carne di Big Rabbit è deliziosa.
+
+318
+00:20:00,590 --> 00:20:04,090
+Sì, ed è piuttosto difficile da trovare.
+
+319
+00:20:04,090 --> 00:20:07,110
+Dicono che gli avventurieri la mangiano
+subito dopo averli sconfitti.
+
+320
+00:20:07,110 --> 00:20:09,920
+Beh, devi sapere che ho creato un'abilità
+chiamata Dimensione Tascabile,
+
+321
+00:20:09,920 --> 00:20:12,500
+mi permette di depositare gli oggetti
+più grandi in un'altra dimensione.
+
+322
+00:20:14,560 --> 00:20:17,260
+Mangiamolo tutti insieme.
+
+323
+00:20:17,260 --> 00:20:18,320
+Wow!
+
+324
+00:20:18,320 --> 00:20:19,570
+Grande!
+
+325
+00:20:19,950 --> 00:20:23,570
+Sei fantastico nel tuo lavoro e altruista...
+
+326
+00:20:23,570 --> 00:20:24,780
+Meraviglioso...
+
+327
+00:20:26,830 --> 00:20:28,640
+Sei il migliore, Noir!
+
+328
+00:20:36,070 --> 00:20:38,090
+Che profumino!
+
+329
+00:20:40,090 --> 00:20:42,280
+Ce n'è ancora un sacco!
+
+330
+00:20:43,240 --> 00:20:44,090
+Buonissimo!
+
+331
+00:20:44,090 --> 00:20:45,880
+Che delizia!
+
+332
+00:20:47,970 --> 00:20:50,570
+Questa carne è mia!
+
+333
+00:20:51,060 --> 00:20:55,100
+Il barbecue è
+un campo di battaglia
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEmma Brightness
+
+334
+00:20:51,060 --> 00:20:55,100
+"Il barbeque è un campo di battaglia", Emma Brightness.
+
+335
+00:20:55,100 --> 00:20:57,470
+Tieni, mangiane un po' anche tu.
+
+336
+00:20:59,360 --> 00:21:01,610
+Noir Stardia
+
+337
+00:21:01,610 --> 00:21:04,610
+Noir, ecco a te la ricompensa di questa missione.
+
+338
+00:21:04,610 --> 00:21:06,910
+Oh, grazie mille!
+
+339
+00:21:06,910 --> 00:21:09,370
+A quanto pare adesso ne hai abbastanza
+per pagare la tassa d'iscrizione.
+
+340
+00:21:09,370 --> 00:21:11,930
+Congratulazioni
+per essere stato accettato all'Accademia.
+
+341
+00:21:11,930 --> 00:21:15,120
+Congratulazioni!
+
+342
+00:21:17,130 --> 00:21:19,320
+Buona fortuna all'Accademia degli Eroi!
+
+343
+00:21:19,890 --> 00:21:21,470
+Congratulazioni per essere entrato!
+
+344
+00:21:21,470 --> 00:21:23,110
+Cin cin! Congratulazioni!
+
+345
+00:21:23,110 --> 00:21:26,620
+Un momento... Ma cos'è questo?
+
+346
+00:21:26,620 --> 00:21:29,870
+È come un sogno... Ma com'è successo?
+
+347
+00:21:29,870 --> 00:21:32,390
+Un brindisi agli avventurieri di Odin!
+
+348
+00:21:32,390 --> 00:21:34,180
+Chiamaci se dovessi aver bisogno d'aiuto!
+
+349
+00:21:34,180 --> 00:21:36,640
+Unisciti al mio gruppo la prossima volta!
+
+350
+00:21:36,640 --> 00:21:39,080
+Cosa mi ha cambiato?
+
+351
+00:21:39,080 --> 00:21:41,390
+Come sono diventato più forte?
+
+352
+00:21:41,390 --> 00:21:44,210
+Chi devo ringraziare per questo?
+
+353
+00:21:48,870 --> 00:21:51,680
+Oh, giusto...
+
+354
+00:21:51,680 --> 00:21:53,410
+Questo è tutto...
+
+355
+00:21:54,080 --> 00:21:57,080
+Noir, aspettano tutti che tu dica qualcosa!
+
+356
+00:22:08,650 --> 00:22:11,690
+Grazie infinite a tutti voi!
+
+357
+00:22:22,630 --> 00:22:25,750
+È tutto merito tuo, Maestra!
+
+358
+00:22:26,740 --> 00:22:29,320
+Verrò a trovarti...
+
+359
+00:22:29,320 --> 00:22:30,840
+molto presto.
+
+360
+00:22:36,930 --> 00:22:38,690
+Oppure, sai com'è...
+
+361
+00:22:39,560 --> 00:22:43,900
+potresti venire anche subitoooo!
+
+362
+00:24:18,260 --> 00:24:21,930
+#03 "La compagna di classe in difficoltà"
+
+363
+00:24:18,350 --> 00:24:20,930
+Prossimo episodio, "La compagna di classe in difficoltà".
+
+364
+00:24:21,930 --> 00:24:26,940
+Illustrazione: Tetsubuta
